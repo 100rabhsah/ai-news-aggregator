@@ -6,17 +6,19 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import time
+from webdriver_manager.chrome import ChromeDriverManager
 
 # Chrome options
 chrome_options = Options()
 chrome_options.add_argument("--headless")  # Run without GUI
 chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument("--log-level=3")  # Suppress warnings
 chrome_options.add_argument(
     "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
 )
 
-# Initialize WebDriver
-driver = None  # Initialize driver variable
+# Auto-manage ChromeDriver
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
 # Define broader topics and sub-topics
 broader_topics = {
@@ -32,50 +34,46 @@ def classify_article(article_text, sub_topics):
     return "Other"
 
 try:
-    # Use Service to specify the chromedriver path (optional, as it should be in PATH)
-    service = Service(executable_path="/usr/bin/chromedriver")
-    
-    # Initialize WebDriver
-    driver = webdriver.Chrome(service=service, options=chrome_options)
-    
-    # Open a news website (e.g., Times of India)
+    # Open a news website
     url = "https://timesofindia.indiatimes.com/"
     driver.get(url)
-    
-    # Wait for the news section to load
-    WebDriverWait(driver, 30).until(
-        EC.presence_of_element_located((By.CLASS_NAME, "list9"))
+
+    # Wait for articles to load (use a more reliable selector)
+    WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located((By.CSS_SELECTOR, "a[href*='/city/']"))
     )
-    
+
     # Get the page source
     html = driver.page_source
-    
-    # Parse the HTML with BeautifulSoup
+
+    # Parse HTML with BeautifulSoup
     soup = BeautifulSoup(html, "html.parser")
-    
+
     # Locate the section containing news articles
-    news_articles = soup.find_all('a', class_='w_img')
-    
+    news_articles = soup.select("a[href*='/city/']")[:10]  # Top 10 news links
+
     # Extract and classify articles
-    print("News Articles:")
-    for i, article in enumerate(news_articles[:10], start=1):  # Limit to top 10 articles
-        article_title = article.get('title', '').strip()
-        article_link = article.get('href', '').strip()
-        
-        # Classify the article into sub-topics
+    print("\nNews Articles:")
+    for i, article in enumerate(news_articles, start=1):
+        article_title = article.get_text(strip=True)
+        article_link = article["href"]
+
+        # Ensure full URL
+        if not article_link.startswith("http"):
+            article_link = f"https://timesofindia.indiatimes.com{article_link}"
+
+        # Classify article
         broader_topic = "Uttar Pradesh news"  # Example broader topic
         sub_topic = classify_article(article_title, broader_topics[broader_topic])
-        
-        # Print the article details
+
+        # Print results
         print(f"{i}. Title: {article_title}")
         print(f"   Link: {article_link}")
         print(f"   Sub-Topic: {sub_topic}")
         print("-" * 50)
-    
+
 except Exception as e:
     print(f"An error occurred: {e}")
-    
+
 finally:
-    # Close the WebDriver if it was successfully initialized
-    if driver is not None:
-        driver.quit()
+    driver.quit()
