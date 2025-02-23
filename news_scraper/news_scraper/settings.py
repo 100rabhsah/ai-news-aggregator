@@ -12,6 +12,18 @@ BOT_NAME = "news_scraper"
 SPIDER_MODULES = ["news_scraper.spiders"]
 NEWSPIDER_MODULE = "news_scraper.spiders"
 
+# Respect robots.txt
+ROBOTSTXT_OBEY = True
+
+# Enable the SQLite storage pipeline
+ITEM_PIPELINES = {
+    "news_scraper.pipelines.SQLitePipeline": 300,
+}
+
+# Set user agent to prevent blocks
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "news_scraper (+http://www.yourdomain.com)"
