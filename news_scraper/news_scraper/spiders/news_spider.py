@@ -31,7 +31,7 @@ class NewsSpider(scrapy.Spider):
                 yield scrapy.Request(url=link, callback=self.parse_article, meta={"title": title, "source": response.url})
 
     def parse_article(self, response):
-        """Extract full content using newspaper3k and Scrapy."""
+        """Extract full content using newspaper4k and Scrapy."""
         article = Article(response.url)
         article.download()
         article.parse()

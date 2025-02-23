@@ -17,7 +17,7 @@ ROBOTSTXT_OBEY = False
 
 # Enable the SQLite storage pipeline
 ITEM_PIPELINES = {
-    "news_scraper.pipelines.SQLitePipeline": 300,
+    'news_scraper.pipelines.NewsScraperPipeline': 300,
 }
 
 # Set user agent to prevent blocks
