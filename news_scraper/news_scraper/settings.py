@@ -13,7 +13,7 @@ SPIDER_MODULES = ["news_scraper.spiders"]
 NEWSPIDER_MODULE = "news_scraper.spiders"
 
 # Respect robots.txt
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Enable the SQLite storage pipeline
 ITEM_PIPELINES = {
