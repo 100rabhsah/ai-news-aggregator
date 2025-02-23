@@ -5,7 +5,7 @@ import os
 def load_articles():
     """Load articles from news.json file."""
     try:
-        file_path = os.path.join(os.path.dirname(__file__), "..", "news.json")
+        file_path = os.path.join(os.path.dirname(__file__), ".", "news.json")
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
         return data
