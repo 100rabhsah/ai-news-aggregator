@@ -2,6 +2,7 @@ import scrapy
 import json
 from newspaper import Article
 from news_scraper.items import NewsScraperItem
+from transformers import pipeline
 
 class NewsSpider(scrapy.Spider):
     name = "news"
@@ -13,6 +14,10 @@ class NewsSpider(scrapy.Spider):
         "https://www.thehindu.com/news/national/feeder/default.rss",
         "https://www.espn.com/espn/rss/news"
     ]
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
     def parse(self, response):
         """Extract article links from RSS feeds."""
@@ -31,14 +36,21 @@ class NewsSpider(scrapy.Spider):
         article.download()
         article.parse()
         
-        content = article.text[:500] if article.text else "Content extraction failed."
+        content = article.text if article.text else "Content extraction failed."
+
+        # Summarize the content (truncate long articles)
+        if len(content) > 1000:
+            summary = self.summarizer(content[:1024], max_length=150, min_length=50, do_sample=False)[0]["summary_text"]
+        else:
+            summary = content  # If the content is short, keep it as is
+
         category, sub_category = self.classify_news(response.meta["title"])
         
         yield NewsScraperItem(
             source=response.meta["source"],
             title=response.meta["title"],
             link=response.url,
-            content=content,
+            content=summary,  # Store the summarized content
             category=category,
             sub_category=sub_category
         )
