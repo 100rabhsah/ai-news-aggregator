@@ -5,12 +5,12 @@ import time
 from datetime import datetime, timedelta
 
 # 🌑 Enforce Dark Theme
-st.markdown("""
-    <style>
-        body { background-color: #0e1117; color: white; }
-        .stApp { background-color: #0e1117; }
-    </style>
-""", unsafe_allow_html=True)
+# st.markdown("""
+#     <style>
+#         body { background-color: #0e1117; color: white; }
+#         .stApp { background-color: #0e1117; }
+#     </style>
+# """, unsafe_allow_html=True)
 
 SCRAPY_PROJECT_DIR = os.path.abspath("news_scraper")
 NEWS_FILE = os.path.join(SCRAPY_PROJECT_DIR, "news.json")
