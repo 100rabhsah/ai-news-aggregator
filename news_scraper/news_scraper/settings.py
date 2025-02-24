@@ -20,6 +20,11 @@ ITEM_PIPELINES = {
     'news_scraper.pipelines.NewsScraperPipeline': 300,
 }
 
+# Add these settings
+FEED_FORMAT = "json"
+FEED_URI = "../news.json"  # Output file path
+FEED_EXPORT_ENCODING = "utf-8"
+
 # Set user agent to prevent blocks
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
 
