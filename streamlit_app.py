@@ -39,7 +39,7 @@ st.title("📰 AI News Aggregator")
 #     st.session_state["fetching"] = True
 #     st.rerun()
 
-st.write("### 🗢 Latest News Articles")
+st.write("### 📰 Latest News Articles")
 news_articles = load_news()
 
 # 🔍 Search and Categorization Filters
