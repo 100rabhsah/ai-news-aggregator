@@ -3,6 +3,7 @@ import json
 import os
 import time
 from datetime import datetime, timedelta
+import pytz
 
 # 🌑 Enforce Dark Theme
 # st.markdown("""
@@ -15,17 +16,20 @@ from datetime import datetime, timedelta
 SCRAPY_PROJECT_DIR = os.path.abspath("news_scraper")
 NEWS_FILE = os.path.join(SCRAPY_PROJECT_DIR, "news.json")
 
+IST = pytz.timezone("Asia/Kolkata")
+
 def load_news():
     """Load and sort the latest news from news.json."""
     if os.path.exists(NEWS_FILE):
         with open(NEWS_FILE, "r") as f:
             try:
                 articles = json.load(f)
-                base_time = datetime.now()
+                base_time = datetime.now(pytz.utc)  # Ensure it's in UTC
                 for i, article in enumerate(articles):
                     if "discovered" not in article:
-                        article["discovered"] = (base_time.replace(microsecond=0) - 
-                                                 timedelta(seconds=i)).strftime("%Y-%m-%d %H:%M:%S")
+                        utc_time = base_time.replace(microsecond=0) - timedelta(seconds=i)
+                        ist_time = utc_time.astimezone(IST)  # Convert to IST
+                        article["discovered"] = ist_time.strftime("%Y-%m-%d %H:%M:%S IST")
                 return articles
             except json.JSONDecodeError:
                 return []
