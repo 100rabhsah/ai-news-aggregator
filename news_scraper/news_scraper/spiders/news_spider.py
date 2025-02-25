@@ -21,7 +21,7 @@ class NewsSpider(scrapy.Spider):
         "https://www.espn.com/espn/rss/news"
     ]
 
-    MAX_TOTAL_ARTICLES = 50  # Keep the limit as requested
+    MAX_TOTAL_ARTICLES = 200  # Keep the limit as requested
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
