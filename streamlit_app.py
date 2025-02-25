@@ -62,7 +62,7 @@ filtered_articles = [
 # 📅 Sorting Options
 sort_order = st.radio("Sort by:", ("Newest First", "Oldest First"))
 filtered_articles.sort(
-    key=lambda article: datetime.strptime(article.get("discovered", "1970-01-01 00:00:00"), "%Y-%m-%d %H:%M:%S"),
+    key=lambda article: datetime.strptime(article.get("discovered", "1970-01-01 00:00:00")[:19], "%Y-%m-%d %H:%M:%S"),
     reverse=(sort_order == "Newest First")
 )
 
