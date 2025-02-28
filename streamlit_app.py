@@ -15,13 +15,20 @@ import pytz
 
 st.markdown("""
     <style>
-        @media (max-width: 768px) {
-            [data-testid="stFloatingActionButton"], 
-            [data-testid="stSidebarUserContent"],
-            [data-testid="stUserAvatar"] { display: none !important; }
+        /* Hide Streamlit Branding */
+        footer {visibility: hidden;}
+        header {visibility: hidden;}
+        .viewerBadge_container__1QSob {display: none !important;} 
+
+        /* Hide Profile Picture (Both Sidebar & Main UI) */
+        [data-testid="stSidebarUserContent"], 
+        [data-testid="stUserAvatar"], 
+        [data-testid="stFloatingActionButton"] {
+            display: none !important;
         }
     </style>
 """, unsafe_allow_html=True)
+
 
 SCRAPY_PROJECT_DIR = os.path.abspath("news_scraper")
 NEWS_FILE = os.path.join(SCRAPY_PROJECT_DIR, "news.json")
