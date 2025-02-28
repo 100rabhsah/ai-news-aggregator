@@ -2,7 +2,6 @@ import streamlit as st
 import json
 import os
 import time
-import subprocess
 from datetime import datetime, timedelta
 
 # 🌑 Enforce Dark Theme
@@ -14,19 +13,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 SCRAPY_PROJECT_DIR = os.path.abspath("news_scraper")
-TEMP_FILE = os.path.join(SCRAPY_PROJECT_DIR, "temp_news.json")
 NEWS_FILE = os.path.join(SCRAPY_PROJECT_DIR, "news.json")
-
-def fetch_progress():
-    """Fetch scraping progress from temp_news.json."""
-    if os.path.exists(TEMP_FILE):
-        with open(TEMP_FILE, "r") as f:
-            try:
-                data = json.load(f)
-                return data.get("progress", 100 if data.get("status") == "complete" else 0)
-            except json.JSONDecodeError:
-                return 0
-    return 0
 
 def load_news():
     """Load and sort the latest news from news.json."""
@@ -46,23 +33,13 @@ def load_news():
 
 st.title("📰 AI News Aggregator")
 
-if st.button("Fetch Latest News"):
-    subprocess.Popen(["python", "scraper_runner.py"])
-    st.session_state["fetching"] = True
-    st.rerun()
+# Commented out Fetch Latest News functionality
+# if st.button("Fetch Latest News"):
+#     subprocess.Popen(["python", "scraper_runner.py"])
+#     st.session_state["fetching"] = True
+#     st.rerun()
 
-# 🏃‍♂️ Display progress bar while scraping
-if "fetching" in st.session_state:
-    progress_bar = st.progress(0)
-    while True:
-        progress = fetch_progress()
-        progress_bar.progress(progress)
-        if progress >= 100:
-            del st.session_state["fetching"]
-            st.rerun()
-        time.sleep(2)
-
-st.write("### 🗞 Latest News Articles")
+st.write("### 🗢 Latest News Articles")
 news_articles = load_news()
 
 # 🔍 Search and Categorization Filters
