@@ -13,6 +13,15 @@ import pytz
 #     </style>
 # """, unsafe_allow_html=True)
 
+st.markdown(
+    """
+    <style>
+    [data-testid="stFloatingActionButton"] { display: none !important; }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 SCRAPY_PROJECT_DIR = os.path.abspath("news_scraper")
 NEWS_FILE = os.path.join(SCRAPY_PROJECT_DIR, "news.json")
 
