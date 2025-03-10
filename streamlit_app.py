@@ -51,6 +51,34 @@ def load_news():
             except json.JSONDecodeError:
                 return []
     return []
+message = """
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    white-space: nowrap;
+    overflow: hidden;
+    background: linear-gradient(90deg, #ffcc00, #ff9900);
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    animation: scrollText 10s linear infinite;
+">
+    📰 News articles are updated every 30 minutes! Stay tuned for the latest updates!
+</div>
+
+<style>
+@keyframes scrollText {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+}
+</style>
+"""
+
+st.markdown(message, unsafe_allow_html=True)
 
 st.title("📰 AI News Aggregator")
 
