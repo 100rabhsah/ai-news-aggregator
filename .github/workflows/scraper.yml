@@ -22,7 +22,7 @@ jobs:
         run: |
           cd news_scraper
           pip install -r ../Requirements.txt
-          pip install scrapy
+          pip install scrapy lxml[html_clean] lxml_html_clean
 
       - name: Run Scrapy spider
         run: |

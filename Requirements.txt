@@ -1,4 +1,6 @@
 scrapy
-newspaper3k
+lxml[html_clean]
+lxml_html_clean
+newspaper4k
 transformers
 itemadapter
