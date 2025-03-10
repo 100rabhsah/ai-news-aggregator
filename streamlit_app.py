@@ -66,17 +66,12 @@ message = """
     font-size: 16px;
     font-weight: bold;
     border-radius: 5px;
-    animation: scrollText 10s linear infinite;
+    padding: 5px 10px;
 ">
-    📰 News articles are updated every 30 minutes! Stay tuned for the latest updates!
+    <marquee behavior="scroll" direction="left" scrollamount="5">
+        📰 News articles are updated every 30 minutes! Stay tuned for the latest updates!
+    </marquee>
 </div>
-
-<style>
-@keyframes scrollText {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-}
-</style>
 """
 
 st.markdown(message, unsafe_allow_html=True)
