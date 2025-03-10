@@ -1,0 +1,38 @@
+name: Scrapy News Crawler
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual trigger from GitHub Actions UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          cd news_scraper
+          pip install -r ../Requirements.txt
+          pip install scrapy
+
+      - name: Run Scrapy spider
+        run: |
+          cd news_scraper
+          scrapy crawl news
+
+      - name: Commit and push updated news.json
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add news_scraper/news.json
+          git commit -m "Auto-update news.json" || echo "No changes to commit"
+          git push
