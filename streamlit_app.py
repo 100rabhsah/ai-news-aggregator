@@ -51,6 +51,7 @@ def load_news():
             except json.JSONDecodeError:
                 return []
     return []
+
 message = """
 <div style="
     display: flex;
