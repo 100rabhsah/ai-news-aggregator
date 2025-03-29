@@ -1,6 +1,14 @@
 [
 {
     "source": "https://www.espn.com/espn/rss/news",
+    "title": "Houston survives on 'beautiful' last-second play",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/44452149/houston-makes-elite-eight-beautiful-last-second-play",
+    "content": "A perfectly executed inbounds play gave No. 1 Houston a 62-60 win over Purdue and a spot in the Elite Eight.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
     "title": "'Generational' talent Betts keeps No. 1 UCLA rolling",
     "link": "https://www.espn.com/womens-college-basketball/story/_/id/44451826/lauren-betts-stays-hot-no-1-ucla-gets-sweet-16-hump",
     "content": "Lauren Betts had 31 points and 10 rebounds as UCLA rolled past Ole Miss 76-62 to advance to the Elite Eight for the first time since 2018.",
@@ -28,14 +36,6 @@
     "title": "Dodgers show off ring bling, keep title party going",
     "link": "https://www.espn.com/mlb/story/_/id/44449839/dodgers-get-glittering-world-series-rings-pregame-ceremony",
     "content": "After raising their championship banner, the Dodgers kept the party going by showing off their World Series rings that contain 14-karat yellow gold, diamonds and sapphires.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Geno: Idea for two-host system 'ruined the game'",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/44444915/geno-auriemma-idea-two-host-regional-system-ruined-game",
-    "content": "UConn coach Geno Auriemma reiterated his disdain for the two-host regional system for the women's NCAA tournament, saying \"whoever came up with this super regional stuff -- and I know who they are -- ruined the game.\"",
     "category": "Global",
     "sub_category": "General"
 },
@@ -232,6 +232,510 @@
     "sub_category": "General"
 },
 {
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Over 1,000 Dead, 2,376 Injured: Myanmar-Thailand Quakes Flatten Buildings",
+    "link": "https://www.ndtv.com/world-news/myanmar-earthquake-live-thailand-earthquake-694-killed-1-670-injured-in-devastating-myanmar-earthquake-10-points-8037376",
+    "content": "A massive earthquake struck Myanmar and parts of neighbouring Thailand, leaving a trail of destruction and a mounting death count. As of Saturday, the death count in Myanmar and Thailand is over 1,000.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Myanmar-Bangkok Earthquake Live: 15-Tonne Aid From India Arrives In Yangon",
+    "link": "https://www.ndtv.com/world-news/myanmar-thailand-earthquake-live-updates-emergency-declared-in-bangkok-after-magnitude-7-7-quake-8030967",
+    "content": "Myanmar, Thailand Earthquake Live Updates: The death count from a massive earthquake in Myanmar has jumped to 1,002, with 2,376 people injured, the country's ruling junta said Saturday. ",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "\"You Know PM Modi Was...\": Donald Trump Replies To India Tariff Question",
+    "link": "https://www.ndtv.com/world-news/tariffs-going-to-work-out-very-well-trump-on-india-us-talks-8036897",
+    "content": "Trump had earlier said that India was a very high-tariff nation and reciprocal tariffs on countries that impose levies on American goods would kick in on April 2.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Trying To Find Love, Noida Man Loses Rs 6.3 Crore Life Savings",
+    "link": "https://www.ndtv.com/india-news/trying-to-find-love-noida-man-loses-rs-6-3-crore-in-trading-fraud-8038006",
+    "content": "Daljit Singh matched with a woman named Anita, who allegedly convinced him to invest in certain companies on the pretext of earning huge profits.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "More Trouble For Stand-Up Comedian Kunal Kamra Over Eknath Shinde Parody",
+    "link": "https://www.ndtv.com/india-news/more-trouble-for-stand-up-comedian-kunal-kamra-3-cases-filed-in-mumbai-8037680",
+    "content": "Three separate cases have been filed against Stand-up comedian Kunal Kamra at Khar police station over his alleged controversial remarks about Maharashtra Deputy Chief Minister Eknath Shinde.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Elon Musk Sells Social Media Platform X To His xAI Startup For $33 Billion",
+    "link": "https://www.ndtv.com/world-news/elon-musk-says-his-xai-startup-buying-x-platform-8036250",
+    "content": "Elon Musk said on Friday that his artificial intelligence startup xAI is buying his social networking platform X in a deal that valued the company, once known as Twitter, at $33 billion.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "\"India Acts As First Responder\": 15-Tonne Aid Lands In Quake-Hit Myanmar",
+    "link": "https://www.ndtv.com/world-news/india-sends-15-tonnes-of-relief-material-to-earthquake-hit-myanmar-8037069",
+    "content": "The relief material includes tents, sleeping bags, blankets, ready-to-eat meals, water purifiers, hygiene kits, solar lamps, generator sets and essential medicines.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Elderly Couple Loses Rs 50 Lakh To Cyber Fraud In Karnataka, Dies By Suicide",
+    "link": "https://www.ndtv.com/india-news/elderly-couple-loses-rs-50-lakh-to-cyber-fraud-in-karnataka-dies-by-suicide-8035112",
+    "content": "An elderly couple in Khanapur taluk, Belagavi district, died by suicide after falling victim to cyber fraud and alleged harassment, police said on Friday.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "How To Create Studio Ghibli-Inspired Images For Free Without ChatGPT",
+    "link": "https://www.ndtv.com/world-news/studio-ghibli-chatgpt-miyazaki-how-to-create-studio-ghibli-inspired-images-for-free-without-chatgpt-8037789",
+    "content": "Whether it's Instagram or X, our social media feeds, at large, are in anime mode! Studio Ghibli portraits have taken the internet by storm in the last 48 hours, with people turning everything -  into Japanese anime-inspired art.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "\"Will Probably Never Come Back\": Tourist's Viral Post On Goa Horror",
+    "link": "https://www.ndtv.com/india-news/will-probably-never-come-back-tourist-claims-he-was-punched-in-goa-8037735",
+    "content": "Two locals on a scooty allegedly followed the tourist to the railway station, blocked his car and threatened to smash his windshield.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Egg Seller, Juice Vendor Get Notices For GST Dues Worth Crores",
+    "link": "https://www.ndtv.com/india-news/egg-seller-juice-vendor-get-notices-for-gst-dues-worth-crores-uttar-pradesh-aligarh-madhya-pradesh-damoh-8034273",
+    "content": "An egg seller and a juice vendor in Madhya Pradesh and Uttar Pradesh were in for a huge shock when they received notices for dues worth crores from the Income Tax (I-T) department.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "On Dhoni Batting Order Debate, Sehwag's Brutal \"19th Or 20th Over\" Jibe",
+    "link": "https://sports.ndtv.com/ipl-2025/virender-sehwags-brutal-dig-amid-ms-dhoni-batting-order-debate-jaldi-aa-gaye-8037690",
+    "content": "MS Dhoni batted behind the likes of Ravindra Jadeja, Sam Curran and Ravichandran Ashwin, walking out at no. 9",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "CSK Coach Snaps At Journalist Over \"Outdated Way Of Playing Cricket\" Query",
+    "link": "https://sports.ndtv.com/ipl-2025/silly-question-csk-coach-stephen-fleming-fumes-at-reporter-questioning-team-strategy-after-big-loss-to-rcb-8037427",
+    "content": "Stephen Fleming took his frustration out on the journalist, who was critical of CSK's brand of cricket.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Mohanlal's 'Empuraan' Sparks Fresh Congress-BJP Row In Poll-Bound Kerala",
+    "link": "https://www.ndtv.com/india-news/l2-empuraan-mohanlal-mohanlals-empuraan-sparks-fresh-congress-bjp-row-in-poll-bound-kerala-8033180",
+    "content": "Kerala's ruling Left front and the main opposition, the Congress, have united to celebrate actor Mohanlal's new movie, 'L2: Empuraan', which they say \"exposes the Sangh agenda\".",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Slapped, gagged, stabbed': How Bengaluru techie stuffed wife into suitcase 'alive'",
+    "link": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-muder-cops-suspect-man-stuffed-wife-into-suitcase-while-she-was-alive/articleshow/119669229.cms",
+    "content": "A 36-year-old man in Bengaluru, Rakesh Rajendra Khedekar, is suspected of premeditated murder after stabbing his wife, Gouri Anil Sambrekar, and attempting to hide her body in a suitcase during a domestic argument. Police believe he transported her to Bengaluru with the intent to kill her, following a series of deception efforts to mislead authorities.",
+    "category": "Local",
+    "sub_category": "Bengaluru"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Indian Air Force civil engineer shot dead at home in UP",
+    "link": "https://timesofindia.indiatimes.com/city/allahabad/indian-air-force-civil-engineer-shot-dead-at-his-home-in-up/articleshow/119692567.cms",
+    "content": "A civil engineer of the Indian Air Force was shot dead while sleeping at his official residence in Prayagraj, Uttar Pradesh. An unidentified assailant fired through the window, leading to the victim's death after being taken to the Army hospital. The incident is under investigation.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Donald Trump imposes 25% import tariff on car imports; Musk responds",
+    "link": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-imposes-25-import-tariff-on-car-imports-elon-musk-responds-this-will-affect-the/articleshow/119589320.cms",
+    "content": "US President Donald Trump has announced a 25% tariff on auto imports and parts, which takes effect on April 3. This decision targets foreign-made cars, light trucks, and key auto parts. Elon Musk highlighted that these tariffs would increase the cost of parts in Tesla cars sourced from other countries.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "UP officer transferred after refusing repeated tea requests from BJP MLA",
+    "link": "https://timesofindia.indiatimes.com/city/meerut/panchayat-dept-officer-shifted-for-refusing-tea-to-mla/articleshow/119666662.cms",
+    "content": "A 58-year-old assistant development officer battling cancer was transferred and faces suspension for refusing to serve tea to Hapur BJP MLA Vijay Pal during a press briefing. The disciplinary actions were prompted by a formal complaint from the MLA following the officer's repeated refusals and agitated response.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "CSK coach Fleming loses cool, lashes out at reporter",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/silly-csk-coach-stephen-fleming-loses-cool-lashes-out-at-reporter/articleshow/119690918.cms",
+    "content": "Chennai Super Kings head coach Stephen Fleming showed frustration in a press conference after their first loss of the season to RCB. Fleming called a journalist's question about CSK's playing style 'silly' and defended their approach, emphasizing the difficulties in adapting to the Chepauk pitch. The match marked CSK’s first defeat of the season, with RCB securing their first victory at Chepauk since 2008, winning by 50 runs.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "15-hour-plus Raid on Amazon, Flipkart warehouses: Fake ISI mark products seized",
+    "link": "https://timesofindia.indiatimes.com/technology/tech-news/15-hour-plus-raid-on-amazon-and-flipkart-warehouses-geysers-food-mixers-and-sportswear-with-fake-isi-mark-seized/articleshow/119596587.cms",
+    "content": "The Bureau of Indian Standards has conducted extensive raids on Amazon and Flipkart warehouses in Delhi targeting counterfeit and substandard products. Thousands of items, including geysers, food mixers, electrical appliances, and sports footwear lacking proper ISI certification, were seized with an estimated value of Rs 70 lakh.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Refused admission twice, woman delivers on handcart in MP, baby dies",
+    "link": "https://timesofindia.indiatimes.com/city/indore/refused-admission-twice-woman-delivers-on-handcart-baby-dies-in-madhya-pradeshs-ratlam/articleshow/119690294.cms",
+    "content": "A woman in MP's Ratlam district, turned away twice by a community health center despite being in labor, gave birth on a handcart, resulting in the baby's death. The administration has taken action against the medical staff involved, suspending two nurses and showcausing the block medical officer following an investigation.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Houston University clarifies on Hinduism course after misrepresentation claims",
+    "link": "https://timesofindia.indiatimes.com/world/us/academic-freedom-houston-university-defends-its-lived-hindu-religion-course-amidst-controversy/articleshow/119685123.cms",
+    "content": "The University of Houston defended its Hindu religion course, explaining that the use of terms like 'fundamentalism' is grounded in academic religious studies. The course aims to analyze how religions evolve over time, without making judgments or showing bias, despite student complaints.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Chepauk DJ plays 'Dosa, Idli, Sambar' as Jitesh walks off",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/chepauk-dj-plays-dosa-idli-sambar-chutney-as-jitesh-sharma-walks-off-watch-viral-video/articleshow/119692489.cms",
+    "content": "During the match at MA Chidambaram Stadium, the Chepauk DJ playfully trolled Jitesh Sharma after his dismissal by playing a popular song. RCB's victory over CSK was marked by tight bowling performances, securing their first win at Chepauk since 2008 and topping the points table. This victory also marked RCB’s first win at Chepauk since 2008, breaking a 17-year drought at CSK’s fortress.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "How to create Ghibli-style Portraits without paying for ChatGPT Plus",
+    "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-to-create-ghibli-style-portraits-without-paying-for-chatgpt-plus/articleshow/119581346.cms",
+    "content": "OpenAI's GPT-4o update, which creates Studio Ghibli-style portraits, is currently restricted to paid subscription tiers due to high demand. However, users can still generate Ghibli-inspired art for free using alternatives like Gemini, GrokAI models, and other third-party tools, or by leveraging free trials on premium AI platforms.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Watch: Hit on helmet, Virat Kohli does this",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hit-on-helmet-virat-kohli-does-this-afterwards-during-rcb-vs-csk-match-watch/articleshow/119689670.cms",
+    "content": "In the IPL 2025 clash against Chennai Super Kings, Virat Kohli was hit on the helmet by a bouncer from Matheesha Pathirana but reassured his well-being with a thumbs-up. Following a mandatory concussion check, Kohli hit a six and a four off consecutive balls. RCB secured a 50-run victory, marking CSK's first home defeat to them in 17 years.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Joke row: Mumbai Police register 3 cases against Kunal Kamra",
+    "link": "https://timesofindia.indiatimes.com/city/mumbai/businessman-hotelier-and-mayor-3-cases-registered-against-kunal-kamra/articleshow/119690526.cms",
+    "content": "Comedian Kunal Kamra faces three cases in Mumbai, including complaints by Jalgaon's Mayor, a Nashik hotelier, and a businessman. Kamra, summoned twice by police, has been granted anticipatory bail by the Madras High Court citing safety concerns. Legal action stems from his remarks during a comedy show.",
+    "category": "Local",
+    "sub_category": "Mumbai"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Watch: 0.16 seconds! MS Dhoni effects Phil Salt stumping in a flash",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/0-16-seconds-ms-dhoni-effects-phil-salt-stumping-in-a-flash-watch-stadium-cam-video/articleshow/119687343.cms",
+    "content": "At age 43, Mahendra Singh Dhoni displayed his extraordinary wicketkeeping prowess during an IPL 2025 match against RCB, executing a lightning-fast stumping that ended Phil Salt's aggressive innings. Dhoni's remarkable reflexes and cricketing intelligence continue to amaze, reinforcing his legendary status in the sport. With every such moment, Dhoni reinforces his legacy as a generational wicketkeeping genius, proving once again that age is just a number.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Myanmar earthquake: Why quakes strike certain regions more often",
+    "link": "https://timesofindia.indiatimes.com/world/rest-of-world/myanmar-earthquake-why-quakes-strike-certain-regions-more-often-what-are-earthquakes/articleshow/119684159.cms",
+    "content": "A powerful 7.7-magnitude earthquake hit near Mandalay, Myanmar, causing extensive damage and reaching Bangkok. The quake, originating from the Sagaing Fault, has resulted in significant fatalities and destruction, with experts predicting aftershocks for months. Myanmar's seismic vulnerability is attributed to its complex fault lines within the Alpide Belt.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "MS Dhoni at No. 9? Ex-cricketers say it 'didn't make sense'",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-at-no-9-former-cricketers-say-it-didnt-make-sense/articleshow/119688307.cms",
+    "content": "Chennai Super Kings faced a 50-run defeat against Royal Challengers Bangalore at Chepauk, marking their first home loss to RCB in 17 years. Criticism arose over MS Dhoni's delayed arrival at the crease, with experts suggesting this decision impacted CSK’s chances of a successful chase. With back-to-back away wins against defending champions Kolkata Knight Riders and Chennai Super Kings, RCB have made a strong start to their IPL campaign, eyeing their maiden title.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "‘Couldn’t move Maharashtra court’: Kunal Kamra on pre-arrest bail amid joke row",
+    "link": "https://timesofindia.indiatimes.com/city/mumbai/pre-arrest-bail-kamra-says-couldnt-move-maha-court/articleshow/119669175.cms",
+    "content": "Stand-up comedian Kunal Kamra has been granted anticipatory bail by the Madras High Court due to threats and fears of arrest over remarks made in a comedy show. The court acknowledged Kamra's inability to seek bail in Maharashtra, given the threats to his life from ruling party members.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "GT vs MI: Will Hardik return to jeers or cheers today?",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2025-gt-vs-mi-will-hardik-pandya-return-to-jeers-or-cheers-today/articleshow/119685978.cms",
+    "content": "Gujarat Titans and Mumbai Indians aim to secure their first win of the season as they face off in Ahmedabad. With Hardik Pandya back from suspension, Mumbai receive a much needed boost. Gujarat seek redemption after a narrow loss to Punjab Kings, focusing on improving both their bowling and fielding. ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Army officer booked for sexually exploiting cop for 13 years on marriage pretext",
+    "link": "https://timesofindia.indiatimes.com/city/bhopal/army-officer-booked-for-allegedly-sexually-exploiting-cop-for-13-years-on-pretext-of-marriage/articleshow/119670970.cms",
+    "content": "A policewoman in Bhopal accuses a man of 13 years of sexual exploitation under false promises of marriage, leading to legal action. Separately, in Sarojininagar, a man posing as an Army officer on Instagram is arrested for deceiving multiple women out of money and valuables, including a widow.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'You have a great PM': Trump praises 'very smart man' Modi amidst trade tensions",
+    "link": "https://timesofindia.indiatimes.com/world/us/you-have-a-great-prime-minister-trump-praises-very-smart-man-pm-modi-amidst-trade-tensions/articleshow/119671847.cms",
+    "content": "President Trump praised Prime Minister Modi as a smart leader and great friend while criticizing India's high import tariffs. Trump emphasized progress in trade talks and India's commitment to lower tariffs, significant energy purchases, defense deals, and reduced duties on key imports. These efforts aim to strengthen US-India trade ties amid ongoing friction.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Elon Musk sells X platform to his xAI company",
+    "link": "https://timesofindia.indiatimes.com/world/us/elon-musk-sells-x-platform-to-his-xai-company/articleshow/119676390.cms",
+    "content": "Elon Musk's xAI has acquired social media platform X in an all-stock deal valuing X at $33 billion. The merger aims to combine xAI's advanced AI capabilities with X's extensive user base to create smarter and more meaningful experiences, highlighting Musk's commitment to truth-seeking AI.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Musk to visit CIA next week to discuss govt efficiency: Report",
+    "link": "https://timesofindia.indiatimes.com/world/us/elon-musk-to-visit-cia-next-week-to-discuss-government-efficiency-report/articleshow/119682378.cms",
+    "content": "Tesla CEO Elon Musk is set to meet CIA Director John Ratcliffe to discuss governmental efficiency. This follows concerns about Musk's Chinese business interests and the potential risk if he were to receive classified military information amid rising tensions with China.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Trump posts new video, promoting US military support for island",
+    "link": "https://timesofindia.indiatimes.com/world/us/america-stands-with-greenland-trump-posts-new-video-promoting-us-military-support-for-island/articleshow/119686108.cms",
+    "content": "Donald Trump shares a new video emphasizing America's support for Greenland's security amid his interest in annexing the island. The video highlights historical and contemporary challenges, including threats from Russia and China. Vice President Vance's recent visit to Greenland includes military briefings and strengthens US-Greenland relations, despite Greenland's ongoing ties with Denmark.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Muhammad Yunus meets Xi Jinping, gets China's backing for government",
+    "link": "https://timesofindia.indiatimes.com/world/south-asia/muhammad-yunus-meets-xi-jinping-gets-chinas-backing-for-government/articleshow/119677352.cms",
+    "content": "President Xi Jinping assured China's support to Bangladesh's interim government and pledged to expand economic cooperation in a meeting with chief adviser Muhammad Yunus. Xi promised to encourage Chinese manufacturing enterprises to relocate to Bangladesh, granting duty-free product access. Bangladesh invited Chinese companies for a river project, previously planned with India.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Finally it's over! RCB end 17-year losing streak against CSK at Chepauk",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/finally-its-over-rcb-end-17-year-losing-streak-against-csk-at-chepauk/articleshow/119668815.cms",
+    "content": "Royal Challengers Bengaluru ended their 17-year drought at MA Chidambaram Stadium by defeating Chennai Super Kings by 50 runs in an IPL 2025 clash. RCB posted a formidable 196/7 with key contributions from Rajat Patidar, Phil Salt and Virat Kohli. Despite MS Dhoni's late efforts, CSK's chase faltered, marking RCB's first win at Chepauk since 2008.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Navratri Colours: Here is the list of nine colours and their significance",
+    "link": "https://timesofindia.indiatimes.com/life-style/fashion/style-guide/navratri-colours-2025-here-is-the-list-of-nine-colours-of-navratri-with-2025-date-and-their-significance/articleshow/119641928.cms",
+    "content": "Each day of Chaitra Navratri is associated with a specific colour, which holds significant meaning and symbolism for the nine forms of Goddess Durga.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Protesters create ruckus at Mamata Banerjee's keynote talk at Oxford",
+    "link": "https://timesofindia.indiatimes.com/india/protesters-create-ruckus-at-mamata-banerjees-keynote-talk-at-oxford/articleshow/119669484.cms",
+    "content": "West Bengal CM Mamata Banerjee's speech at Oxford was disrupted by two groups of protesters, causing chaos. Security had to intervene as protesters accused her of various allegations, with the incident highlighting political tensions and unrest among certain groups.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Delhi HC bins government’s order junking academic Swain’s OCI card",
+    "link": "https://timesofindia.indiatimes.com/india/delhi-hc-bins-governments-order-junking-academic-swains-oci-card/articleshow/119679005.cms",
+    "content": "Delhi high court overturned the government's cancellation of Ashok Swain's OCI card but permitted the issuance of a new show-cause notice with a reasoned order. Swain had contested the revocation, arguing it was executed unfairly and targeted him for his views on the government.",
+    "category": "Local",
+    "sub_category": "Delhi"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "SC refuses PIL seeking FIR against Yashwant Varma; government notifies transfer",
+    "link": "https://timesofindia.indiatimes.com/india/sc-refuses-pil-seeking-fir-goverment-notifies-transfer/articleshow/119679190.cms",
+    "content": "The government has transferred Justice Yashwant Varma from the Delhi High Court to Allahabad High Court amid allegations of cash recovery from his residence. The Supreme Court dismissed a PIL seeking an FIR against him, allowing an in-house inquiry to proceed. An inquiry panel's report is expected soon, while CJI Khanna ensures the investigation adheres to established procedures.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Rana Sanga row in Parliament leads to BJP-opposition clash",
+    "link": "https://timesofindia.indiatimes.com/india/rana-sanga-row-in-parliament-leads-to-bjp-opposition-clash/articleshow/119679209.cms",
+    "content": "The ongoing debate over Rajput ruler Rana Sanga's historical actions intensified in the Indian Parliament, with BJP condemning SP member Ramji Lal Suman's remarks. The conflict highlights accusations by Samajwadi Party and Congress of BJP targeting Dalit and tribal representatives.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Deposit Rs 4 lakh first, then go to Parliament, HC tells Engineer Rashid",
+    "link": "https://timesofindia.indiatimes.com/india/deposit-rs-4-lakh-first-then-go-to-parliament-hc-tells-engineer-rashid/articleshow/119680337.cms",
+    "content": "The Delhi High Court ordered jailed J&amp;K MP Abdul Rashid Sheikh to deposit approximately Rs 4 lakh for travel expenses to attend Parliament. Rashid has already deposited Rs 1.4 lakh and will pay the remainder within three days. The court stressed the importance of fulfilling the constitutional duties despite the high costs.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Your guide to the women's Sweet 16: Pair of 1-seeds advance, Morrow and Betts star",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/44438865/womens-march-madness-sweet-16-ncaa-tournament-live-updates-scores-highlights-takeaways",
+    "content": "aneesah Morrow scores 30 points and grabs 19 rebounds to power LSU to the Elite Eight . the third-seeded LSU Tigers upended no. 2 seed NC State in the Spokane 1 Regional . we're tracking every game as the march to the final four continues .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Your guide to the final men's Sweet 16 games: Game winners, keys to the Elite Eight",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/44445342/2025-march-madness-live-tracker-sweet-16-michigan-auburn-kentucky",
+    "content": "the four no. 1 seeds make up half of the remaining NCAA tournament field . the two-seed Tennessee Volunteers and Michigan State Spartans are also moving on . all four winners of Friday's games will play again Sunday .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "The mercurial backcourt motoring Notre Dame's March Madness",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/44404767/women-march-madness-2025-sweet-16-notre-dame-fighting-irish-resurgence-hannah-hidalgo-olivia-miles-sonia-citron",
+    "content": "the top plays this season are from Hannah Hidalgo, Olivia Miles and Sonia Citron . the trio in the backcourt combined for 61 points, 18 rebounds, 12 assists and 10 steals . last year's WNBA was the second-ranked women's team in the country .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "2025 preview: Skip Holtz looks to keep Birmingham on top, Bob Stoops takes aim",
+    "link": "https://www.espn.com/united-football-league/story/_/id/44194348/ufl-2025-preview",
+    "content": "the Birmingham Stallions beat the San Antonio Brahmas to win the 2024 UFL championship . \"that's how we've been able to win,\" coach Skip Holtz said earlier this month . the stallions have gone 26-4 in the past three regular seasons .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "One room, 300 clubs, 80 agencies, 3,500 meetings: Inside soccer's secret transfer space",
+    "link": "https://www.espn.com/soccer/story/_/id/44399539/inside-secret-soccer-transfer-market-transferroom-rob-dawson-premier-league",
+    "content": "players clubs are most itching to sign from the transferRoom meeting in Berlin . there are owners, general managers, sporting directors and scouts, agents and data analysts . players clubs and representatives of more than 80 agencies are gathered to talk transfers .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Varanasi meat shops to be shut during Navratri",
+    "link": "https://timesofindia.indiatimes.com/india/varanasi-meat-shops-to-be-shut-during-navratri/articleshow/119678728.cms",
+    "content": "Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Restaurants can’t enforce service charge: Delhi HC",
+    "link": "https://timesofindia.indiatimes.com/india/restaurants-cant-enforce-service-charge-delhi-hc/articleshow/119676698.cms",
+    "content": "Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers 10 high-protein desi Indian breakfast dishes",
+    "category": "Local",
+    "sub_category": "Delhi"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Poor, virgin UP girls exploited in tantric ritual",
+    "link": "https://timesofindia.indiatimes.com/india/poor-virgin-up-girls-exploited-in-tantric-ritual/articleshow/119678475.cms",
+    "content": "Sandeep Rai is a veteran journalist with two decades of experience in the reporting field. He heads the Western Uttar Pradesh bureau, managing Meerut, Bareilly & Agra circles. His areas of interest are wildlife, politics and special reportage. Read More Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Saw skyscrapers shaking': Indian tourists recount Thailand quake horror",
+    "link": "https://timesofindia.indiatimes.com/india/saw-skyscrapers-shaking-water-coming-out-of-pool-indians-returnees-recount-myanmar-thailand-earthquake-horror/articleshow/119685887.cms",
+    "content": "the TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide . the team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports .",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Freedom of speech can’t be crushed on flimsy grounds: SC",
+    "link": "https://timesofindia.indiatimes.com/india/freedom-of-speech-cant-be-crushed-on-flimsy-grounds-sc/articleshow/119676324.cms",
+    "content": "Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "No FIR without CJI’s nod, says Amit Shah on Justice Varma case",
+    "link": "https://timesofindia.indiatimes.com/india/no-fir-without-cjis-nod-says-amit-shah-on-justice-varma-case/articleshow/119676385.cms",
+    "content": "Bharti Jain is senior editor with The Times of India, New Delhi. She has been writing on security matters since 1996. Having covered the Union home ministry, security agencies, Election Commission and the ‘prime’ political beat, the Congress, for The Economic Times all these years, she moved to TOI in August 2012. Her repertoire of news stories delves into the whole gamut of issues related to terrorism and internal strife, besides probing strategic affairs in India’s neighbourhood. Read More Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers 10 high-protein desi Indian breakfast dishes",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Anticipatory bail from Madras HC for Kunal Kamra",
+    "link": "https://timesofindia.indiatimes.com/india/anticipatory-bail-from-madras-hc-for-kunal-kamra/articleshow/119678257.cms",
+    "content": "Swati Deshpande is Senior editor at The Times of India, Mumbai, where she has been covering courts for over a decade. She is passionate about law and works towards enlightening people about their statutory, legal and fundamental rights. She makes it her job to decipher for the public the truth, be it in an intricate civil dispute or in a gruesome criminal case. Read More Dushara Vijayan serves major style goals in THESE pics How to talk to someone? 9 tips kids should learn Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "International students wake up to email asking them to self deport for campus activism",
+    "link": "https://timesofindia.indiatimes.com/world/us/hundreds-of-international-students-are-waking-up-to-an-email-asking-them-to-self-deport-for-campus-activism-or-even-sharing-posts-on-social-media/articleshow/119679695.cms",
+    "content": "Lubna Kably is a senior editor, who focuses on various policies and legislation. In particular, she writes extensively on immigration and tax policies. The Indian diaspora is the largest in the world; through her articles she demystifies the immigration-policy related developments in select countries for outbound students, job aspirants and employees. She also analyses the impact of Income-tax and GST related developments for individuals and business entities. Read More Dushara Vijayan serves major style goals in THESE pics How to talk to someone? 9 tips kids should learn Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Expert picks, best bets: Moreno's path to victory over Erceg at UFC Fight Night",
+    "link": "https://www.espn.com/mma/story/_/id/44415680/ufc-fight-night-expert-picks-best-bets-brandon-moreno-vs-steve-erceg",
+    "content": "Brandon Moreno makes his first Octagon appearance of 2025 . the former two-time men's flyweight champion takes on Steve Erceg . moreno, no. 3 in the divisional rankings, lost the title to Alexandre Pantoja in July 2023 .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Record Rs 63k crore chopper deal inked with HAL",
+    "link": "https://timesofindia.indiatimes.com/india/record-rs-63k-crore-chopper-deal-inked-with-hal/articleshow/119679418.cms",
+    "content": "Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Watch: India launches 'Operation Brahma', sends 15 tonnes of aid to Myanmar",
+    "link": "https://timesofindia.indiatimes.com/india/watch-india-launches-operation-brahma-sends-15-tonnes-of-aid-to-myanmar-after-massive-earthquake/articleshow/119691870.cms",
+    "content": "the TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide . the team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics .",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Couple in 80s end lives over digital arrest threat",
+    "link": "https://timesofindia.indiatimes.com/india/couple-in-80s-end-lives-over-digi-arrest-threat/articleshow/119677967.cms",
+    "content": "Dushara Vijayan serves major style goals in THESE pics How to talk to someone? 9 tips kids should learn Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "16 Maoists killed, 2 jawans injured in Chhattisgarh encounter",
+    "link": "https://timesofindia.indiatimes.com/india/at-least-16-naxalites-killed-2-jawans-injured-in-encounter-in-chhattisgarhs-sukma-operation-under-way/articleshow/119689272.cms",
+    "content": "the TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide . the team is the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Panel discussion watch live: understanding youth violence – causes & solutions",
+    "link": "https://www.thehindu.com/videos/panel-discussion-watch-live-understanding-youth-violence-causes-solutions/article69389322.ece",
+    "content": "Kerala has recently witnessed concerning incidents of violence among youth, sparking urgent conversations about their root causes and solutions. Join us for a thoughtful discussion featuring experts from psychiatry, education, cinema, and youth perspectives. ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "85% of Telangana people to get 6kg fine rice each from Ugadi: Uttam",
     "link": "https://www.thehindu.com/news/national/telangana/85-of-telangana-people-to-get-6kg-fine-rice-each-from-ugadi-uttam/article69387329.ece",
@@ -267,7 +771,7 @@
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Disha Salian was depressed due to father’s misuse of money, claims police closure report",
     "link": "https://www.thehindu.com/news/national/disha-salian-was-depressed-due-to-fathers-misuse-of-money-claims-police-closure-report/article69389147.ece",
-    "content": "Former manager Disha Salian’s death case raises questions of suicide, depression, and alleged misuse of funds by family",
+    "content": "Actor Sushant Singh Rajput’s former manager Disha Salian’s death case raises questions of suicide, depression, and alleged misuse of funds by family",
     "category": "Global",
     "sub_category": "General"
 },
@@ -281,9 +785,9 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Chhattisgarh encounter: 16 alleged Maoists killed, two jawans injured in Sukma",
+    "title": "Chhattisgarh encounter: 16 Maoists killed, two jawans injured in Sukma; Amit Shah says weapons can’t bring change",
     "link": "https://www.thehindu.com/news/national/chhattisgarh-sukma-maoist-naxalite-encounter-march-29-2025/article69389088.ece",
-    "content": "The gunfight occurred in a forest under the Kerlapal police station area, where a joint team of security forces was out on an anti-Maoist operation",
+    "content": "The gunfight occurred in a forest under Chattisgarh’s Kerlapal police station area, where a joint team of security forces was out on an anti-Maoist operation",
     "category": "Global",
     "sub_category": "General"
 },
@@ -292,6 +796,14 @@
     "title": "Self-styled pastor Bajinder Singh convicted for rape in 2018 case",
     "link": "https://www.thehindu.com/news/national/chandigarh/self-styled-pastor-bajinder-singh-convicted-for-rape-in-2018-case/article69386326.ece",
     "content": "A self-proclaimed pastor, the 42-year-old claims to cure ailments and other problems by offering miracle services that have often come under criticism; quantum of punishment will be delivered on April 1",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "7.7-magnitude earthquake kills at least 160 in Myanmar, Thailand",
+    "link": "https://timesofindia.indiatimes.com/world/south-asia/7-7-magnitude-earthquake-kills-at-least-160-in-myanmar-thailand/articleshow/119677675.cms",
+    "content": "Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers 10 high-protein desi Indian breakfast dishes",
     "category": "Global",
     "sub_category": "General"
 },
@@ -308,126 +820,6 @@
     "title": "A heinous crime and a wake up call for Hyderabad’s suburban train services ",
     "link": "https://www.thehindu.com/news/national/telangana/a-heinous-crime-and-a-wake-up-call-for-hyderabads-suburban-train-services/article69385515.ece",
     "content": "Rape attempt on a woman passenger travelling to Medchal on local train last Saturday (March 22, 2025) lays bare gaping holes in security. Damage control measures by South Central Railway fail to impress commuters, who say it has turned a blind eye to obvious red flags",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Over 1,000 Dead, 2,376 Injured: Myanmar-Thailand Quakes Flatten Buildings",
-    "link": "https://www.ndtv.com/world-news/myanmar-earthquake-live-thailand-earthquake-694-killed-1-670-injured-in-devastating-myanmar-earthquake-10-points-8037376",
-    "content": "A massive earthquake struck Myanmar and parts of neighbouring Thailand, leaving a trail of destruction and a mounting death count. As of Saturday, the death count in Myanmar and Thailand is over 1,000.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Myanmar-Bangkok Earthquake Live: 15-Tonne Aid From India Arrives In Yangon",
-    "link": "https://www.ndtv.com/world-news/myanmar-thailand-earthquake-live-updates-emergency-declared-in-bangkok-after-magnitude-7-7-quake-8030967",
-    "content": "Myanmar, Thailand Earthquake Live Updates: The death count from a massive earthquake in Myanmar has jumped to 1,002, with 2,376 people injured, the country's ruling junta said Saturday. ",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "\"You Know PM Modi Was...\": Donald Trump Replies To India Tariff Question",
-    "link": "https://www.ndtv.com/world-news/tariffs-going-to-work-out-very-well-trump-on-india-us-talks-8036897",
-    "content": "Trump had earlier said that India was a very high-tariff nation and reciprocal tariffs on countries that impose levies on American goods would kick in on April 2.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Trying To Find Love, Noida Man Loses Rs 6.3 Crore Life Savings",
-    "link": "https://www.ndtv.com/india-news/trying-to-find-love-noida-man-loses-rs-6-3-crore-in-trading-fraud-8038006",
-    "content": "Daljit Singh matched with a woman named Anita, who allegedly convinced him to invest in certain companies on the pretext of earning huge profits.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "\"Building Shook Violently\": Indian Tourists In Bangkok Narrate Quake Horror",
-    "link": "https://www.ndtv.com/world-news/skyscrapers-shook-people-ran-in-panic-indians-recall-bangkok-quake-horror-8037582",
-    "content": "International aid began to arrive in Myanmar as rescuers searched for survivors after a powerful earthquake killed 694 and injured 1,670.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Elon Musk Sells Social Media Platform X To His xAI Startup For $33 Billion",
-    "link": "https://www.ndtv.com/world-news/elon-musk-says-his-xai-startup-buying-x-platform-8036250",
-    "content": "Elon Musk said on Friday that his artificial intelligence startup xAI is buying his social networking platform X in a deal that valued the company, once known as Twitter, at $33 billion.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "\"India Acts As First Responder\": 15-Tonne Aid Lands In Quake-Hit Myanmar",
-    "link": "https://www.ndtv.com/world-news/india-sends-15-tonnes-of-relief-material-to-earthquake-hit-myanmar-8037069",
-    "content": "The relief material includes tents, sleeping bags, blankets, ready-to-eat meals, water purifiers, hygiene kits, solar lamps, generator sets and essential medicines.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Elderly Couple Loses Rs 50 Lakh To Cyber Fraud In Karnataka, Dies By Suicide",
-    "link": "https://www.ndtv.com/india-news/elderly-couple-loses-rs-50-lakh-to-cyber-fraud-in-karnataka-dies-by-suicide-8035112",
-    "content": "An elderly couple in Khanapur taluk, Belagavi district, died by suicide after falling victim to cyber fraud and alleged harassment, police said on Friday.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "\"Will Probably Never Come Back\": Tourist's Viral Post On Goa Horror",
-    "link": "https://www.ndtv.com/india-news/will-probably-never-come-back-tourist-claims-he-was-punched-in-goa-8037735",
-    "content": "Two locals on a scooty allegedly followed the tourist to the railway station, blocked his car and threatened to smash his windshield.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "How To Create Studio Ghibli-Inspired Images For Free Without ChatGPT",
-    "link": "https://www.ndtv.com/world-news/studio-ghibli-chatgpt-miyazaki-how-to-create-studio-ghibli-inspired-images-for-free-without-chatgpt-8037789",
-    "content": "Whether it's Instagram or X, our social media feeds, at large, are in anime mode! Studio Ghibli portraits have taken the internet by storm in the last 48 hours, with people turning everything -  into Japanese anime-inspired art.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Egg Seller, Juice Vendor Get Notices For GST Dues Worth Crores",
-    "link": "https://www.ndtv.com/india-news/egg-seller-juice-vendor-get-notices-for-gst-dues-worth-crores-uttar-pradesh-aligarh-madhya-pradesh-damoh-8034273",
-    "content": "An egg seller and a juice vendor in Madhya Pradesh and Uttar Pradesh were in for a huge shock when they received notices for dues worth crores from the Income Tax (I-T) department.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Sehwag's Brutal Dig Amid Dhoni Batting Order Debate: \"Jaldi Aa Gaye...\"",
-    "link": "https://sports.ndtv.com/ipl-2025/virender-sehwags-brutal-dig-amid-ms-dhoni-batting-order-debate-jaldi-aa-gaye-8037690",
-    "content": "MS Dhoni batted behind the likes of Ravindra Jadeja, Sam Curran and Ravichandran Ashwin, walking out at no. 9",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "CSK Coach Snaps At Journalist Over \"Outdated Way Of Playing Cricket\" Query",
-    "link": "https://sports.ndtv.com/ipl-2025/silly-question-csk-coach-stephen-fleming-fumes-at-reporter-questioning-team-strategy-after-big-loss-to-rcb-8037427",
-    "content": "Stephen Fleming took his frustration out on the journalist, who was critical of CSK's brand of cricket.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Mohanlal's 'Empuraan' Sparks Fresh Congress-BJP Row In Poll-Bound Kerala",
-    "link": "https://www.ndtv.com/india-news/l2-empuraan-mohanlal-mohanlals-empuraan-sparks-fresh-congress-bjp-row-in-poll-bound-kerala-8033180",
-    "content": "Kerala's ruling Left front and the main opposition, the Congress, have united to celebrate actor Mohanlal's new movie, 'L2: Empuraan', which they say \"exposes the Sangh agenda\".",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Army Officer Charged For Allegedly Raping Cop On Pretext Of Marriage",
-    "link": "https://www.ndtv.com/india-news/army-officer-charged-with-raping-madhya-pradesh-cop-on-pretext-of-marriage-8035257",
-    "content": "An Army officer has been charged with allegedly raping a female constable of the Madhya Pradesh police posted in Bhopal city on the pretext of marriage in an incident dating back to 2012, police said on Friday.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -675,7 +1067,7 @@
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Six students missing from Konaseema, police launch search",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/six-students-missing-from-konaseema-police-launch-search/article69387314.ece",
-    "content": "Six students from Aalamuru in Konaseema district missing since March 24 after parents scolded them. Police seek public help in search efforts",
+    "content": "Six students from Aalamuru in Konaseema district missing since March 24 after parental scolding. Police seek public help in search efforts",
     "category": "Global",
     "sub_category": "General"
 },
@@ -708,6 +1100,38 @@
     "title": "Hazardous chemicals detected at high levels in samples collected from Kuzhikandam creek",
     "link": "https://www.thehindu.com/news/cities/Kochi/hazardous-chemicals-detected-at-high-levels-in-samples-collected-from-kuzhikandam-creek/article69386109.ece",
     "content": "The Kerala State Pollution Control Board had annexed the committee findings in its updated report on the fish kill dated March 24, 2025, filed before the Southern Bench of the National Green Tribunal",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Ex-News Anchor Lifts Girlfriend By Throat, Slams Her To Ground, Arrested",
+    "link": "https://www.ndtv.com/world-news/ex-tv-news-anchor-arrested-after-lifting-girlfriend-by-throat-slamming-to-ground-8037745",
+    "content": "Shad Olson, 52, has been charged with domestic abuse against his girlfriend . he repeatedly shoved his girlfriend to the ground after grabbing her by the throat . his jury trial is scheduled for June 5 with a pre-trial hearing scheduled for may 22 .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Murder bid FIR as 5 IIT students attack classmate",
+    "link": "https://timesofindia.indiatimes.com/india/murder-bid-fir-as-5-iit-students-attack-classmate/articleshow/119678860.cms",
+    "content": "An MBA with 30 year experience in journalism, covers reporting for higher education institutions like IIT, CBRI, NIH at Roorkee. Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Over 100 pro-king protesters arrested for vandalism: What’s fueling Nepal’s unrest?",
+    "link": "https://timesofindia.indiatimes.com/world/south-asia/over-100-pro-king-protesters-arrested-for-vandalism-whats-fueling-nepals-unrest/articleshow/119694922.cms",
+    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Telangana Man Falls In Love With 2 Women, Marries Them In Same Ceremony",
+    "link": "https://www.ndtv.com/india-news/telangana-man-falls-in-love-with-2-women-marries-them-in-same-ceremony-8034769",
+    "content": "a man married two women at the same time in Telangana's Komaram Bheem Asifabad district . he said he was in love with Lal Devi and Jhalkari Devi and decided to marry them in a single ceremony . the groom even printed the names of both the brides on an invitation card and organised a grand celebration .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -817,80 +1241,24 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Class 10 Social Studies examination rescheduled to April 1 in Andhra Pradesh",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/class-10-social-studies-examination-rescheduled-to-april-1-in-andhra-pradesh/article69386973.ece",
-    "content": "Initially planned to be conducted on March 31, the examination has to be deferred as it has been declared a holiday on that day because of Ramzan  ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "2025 preview: Skip Holtz looks to keep Birmingham on top, Bob Stoops takes aim",
-    "link": "https://www.espn.com/united-football-league/story/_/id/44194348/ufl-2025-preview",
-    "content": "the Birmingham Stallions beat the San Antonio Brahmas to win the 2024 UFL championship . \"that's how we've been able to win,\" coach Skip Holtz said earlier this month . the stallions have gone 26-4 in the past three regular seasons .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Your guide to the women's Sweet 16: Pair of 1-seeds advance, Morrow and Betts star",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/44438865/womens-march-madness-sweet-16-ncaa-tournament-live-updates-scores-highlights-takeaways",
-    "content": "aneesah Morrow scores 30 points and grabs 19 rebounds to power LSU to the Elite Eight . the third-seeded LSU Tigers upended no. 2 seed NC State in the Spokane 1 Regional . we're tracking every game as the march to the final four continues .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Your guide to the final men's Sweet 16 games: Game winners, keys to the Elite Eight",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/44445342/2025-march-madness-live-tracker-sweet-16-michigan-auburn-kentucky",
-    "content": "the four no. 1 seeds make up half of the remaining NCAA tournament field . the two-seed Tennessee Volunteers and Michigan State Spartans are also moving on . all four winners of Friday's games will play again Sunday .",
+    "title": "I am indebted to TDP workers who are the party’s backbone: Chandrababu  Naidu ",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/i-am-indebted-to-tdp-workers-who-are-the-partys-backbone-chandrababu-naidu/article69389134.ece",
+    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Man arrested for brandishing air rifle from open-top vehicle in Hyderabad",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/man-arrested-for-brandishing-air-rifle-from-open-top-vehicle-in-hyderabad/article69387476.ece",
-    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! mrs Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Expert picks, best bets: Moreno's path to victory over Erceg at UFC Fight Night",
-    "link": "https://www.espn.com/mma/story/_/id/44415680/ufc-fight-night-expert-picks-best-bets-brandon-moreno-vs-steve-erceg",
-    "content": "Brandon Moreno makes his first Octagon appearance of 2025 . the former two-time men's flyweight champion takes on Steve Erceg . moreno, no. 3 in the divisional rankings, lost the title to Alexandre Pantoja in July 2023 .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "The mercurial backcourt motoring Notre Dame's March Madness",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/44404767/women-march-madness-2025-sweet-16-notre-dame-fighting-irish-resurgence-hannah-hidalgo-olivia-miles-sonia-citron",
-    "content": "the top plays this season are from Hannah Hidalgo, Olivia Miles and Sonia Citron . the trio in the backcourt combined for 61 points, 18 rebounds, 12 assists and 10 steals . last year's WNBA was the second-ranked women's team in the country .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "One room, 300 clubs, 80 agencies, 3,500 meetings: Inside soccer's secret transfer space",
-    "link": "https://www.espn.com/soccer/story/_/id/44399539/inside-secret-soccer-transfer-market-transferroom-rob-dawson-premier-league",
-    "content": "players clubs are most itching to sign from the transferRoom meeting in Berlin . there are owners, general managers, sporting directors and scouts, agents and data analysts . players clubs and representatives of more than 80 agencies are gathered to talk transfers .",
+    "title": "Silk-rearing farms to be set up at ₹29.46 crore: T.N. Minister ",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/silk-rearing-farms-to-be-set-up-at-2946-crore-tn-minister/article69386390.ece",
+    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Youth marries two women at same time in Telangana’s Asifabad ",
-    "link": "https://www.thehindu.com/news/national/telangana/youth-marries-two-women-at-same-time-in-telanganas-asifabad/article69387388.ece",
-    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . science writers take the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "East Coast Express to start from Cherlapalli station from June 15",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/east-coast-express-to-start-from-cherlapalli-station-from-june-15/article69387171.ece",
+    "title": "Divine and demoniac ",
+    "link": "https://www.thehindu.com/society/faith/divine-and-demoniac/article69379037.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
@@ -905,19 +1273,11 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Mobile phone spare parts godown gutted near Ranipet on Chennai-Bengaluru Highway",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/mobile-phone-spare-parts-godown-gutted-near-ranipet/article69385978.ece",
+    "title": "Co-Optex to explore new markets in India and abroad through ‘franchise model showrooms’: Minister",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/co-optex-to-explore-new-markets-in-india-and-abroad-through-franchise-model-showrooms-minister/article69385661.ece",
     "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Local",
-    "sub_category": "Bengaluru"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Prices of coronary stents set to rise",
-    "link": "https://www.thehindu.com/sci-tech/health/prices-of-coronary-stents-set-to-rise/article69386161.ece",
-    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
+    "sub_category": "India"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -929,11 +1289,43 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "I am indebted to TDP workers who are the party’s backbone: Chandrababu  Naidu ",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/i-am-indebted-to-tdp-workers-who-are-the-partys-backbone-chandrababu-naidu/article69389134.ece",
+    "title": "Trainee officer dies during training at Ezhimala Naval Academy ",
+    "link": "https://www.thehindu.com/news/national/kerala/trainee-officer-dies-during-training-at-ezhimala-naval-academy/article69386761.ece",
+    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "East Coast Express to start from Cherlapalli station from June 15",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/east-coast-express-to-start-from-cherlapalli-station-from-june-15/article69387171.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Youth marries two women at same time in Telangana’s Asifabad ",
+    "link": "https://www.thehindu.com/news/national/telangana/youth-marries-two-women-at-same-time-in-telanganas-asifabad/article69387388.ece",
+    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . science writers take the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Man arrested for brandishing air rifle from open-top vehicle in Hyderabad",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/man-arrested-for-brandishing-air-rifle-from-open-top-vehicle-in-hyderabad/article69387476.ece",
+    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! mrs Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Tariffs are going to work out well between India-U.S., Modi is a very smart man: Donald Trump",
+    "link": "https://www.thehindu.com/news/international/tariffs-are-going-to-work-out-well-between-india-us-modi-is-a-very-smart-man-donald-trump/article69388944.ece",
+    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Local",
+    "sub_category": "India"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -944,258 +1336,26 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Slapped, gagged, stabbed': How Bengaluru techie stuffed wife into suitcase 'alive'",
-    "link": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-muder-cops-suspect-man-stuffed-wife-into-suitcase-while-she-was-alive/articleshow/119669229.cms",
-    "content": "A 36-year-old man in Bengaluru, Rakesh Rajendra Khedekar, is suspected of premeditated murder after stabbing his wife, Gouri Anil Sambrekar, and attempting to hide her body in a suitcase during a domestic argument. Police believe he transported her to Bengaluru with the intent to kill her, following a series of deception efforts to mislead authorities.",
-    "category": "Local",
-    "sub_category": "Bengaluru"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "UP officer transferred after refusing repeated tea requests from BJP MLA",
-    "link": "https://timesofindia.indiatimes.com/city/meerut/panchayat-dept-officer-shifted-for-refusing-tea-to-mla/articleshow/119666662.cms",
-    "content": "A 58-year-old assistant development officer battling cancer was transferred and faces suspension for refusing to serve tea to Hapur BJP MLA Vijay Pal during a press briefing. The disciplinary actions were prompted by a formal complaint from the MLA following the officer's repeated refusals and agitated response.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Indian Air Force civil engineer shot dead at home in UP",
-    "link": "https://timesofindia.indiatimes.com/city/allahabad/indian-air-force-civil-engineer-shot-dead-at-his-home-in-up/articleshow/119692567.cms",
-    "content": "A civil engineer of the Indian Air Force was shot dead while sleeping at his official residence in Prayagraj, Uttar Pradesh. An unidentified assailant fired through the window, leading to the victim's death after being taken to the Army hospital. The incident is under investigation.",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Ashok Leyland bags Indian Army contracts worth ₹700 crore",
+    "link": "https://www.thehindu.com/news/national/ashok-leyland-bags-indian-army-contracts-worth-700-crore/article69386258.ece",
+    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Local",
     "sub_category": "India"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Donald Trump imposes 25% import tariff on car imports; Musk responds",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-imposes-25-import-tariff-on-car-imports-elon-musk-responds-this-will-affect-the/articleshow/119589320.cms",
-    "content": "US President Donald Trump has announced a 25% tariff on auto imports and parts, which takes effect on April 3. This decision targets foreign-made cars, light trucks, and key auto parts. Elon Musk highlighted that these tariffs would increase the cost of parts in Tesla cars sourced from other countries.",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "RPF seize 26 kgs of ganja at Arakkonam railway station",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/rpf-seize-26-kgs-of-ganja-at-arakkonam-railway-station/article69385987.ece",
+    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "CSK coach Fleming loses cool, lashes out at reporter",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/silly-csk-coach-stephen-fleming-loses-cool-lashes-out-at-reporter/articleshow/119690918.cms",
-    "content": "Chennai Super Kings head coach Stephen Fleming showed frustration in a press conference after their first loss of the season to RCB. Fleming called a journalist's question about CSK's playing style 'silly' and defended their approach, emphasizing the difficulties in adapting to the Chepauk pitch. The match marked CSK’s first defeat of the season, with RCB securing their first victory at Chepauk since 2008, winning by 50 runs.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Refused admission twice, woman delivers on handcart in MP, baby dies",
-    "link": "https://timesofindia.indiatimes.com/city/indore/refused-admission-twice-woman-delivers-on-handcart-baby-dies-in-madhya-pradeshs-ratlam/articleshow/119690294.cms",
-    "content": "A woman in MP's Ratlam district, turned away twice by a community health center despite being in labor, gave birth on a handcart, resulting in the baby's death. The administration has taken action against the medical staff involved, suspending two nurses and showcausing the block medical officer following an investigation.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "15-hour-plus Raid on Amazon, Flipkart warehouses: Fake ISI mark products seized",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/15-hour-plus-raid-on-amazon-and-flipkart-warehouses-geysers-food-mixers-and-sportswear-with-fake-isi-mark-seized/articleshow/119596587.cms",
-    "content": "The Bureau of Indian Standards has conducted extensive raids on Amazon and Flipkart warehouses in Delhi targeting counterfeit and substandard products. Thousands of items, including geysers, food mixers, electrical appliances, and sports footwear lacking proper ISI certification, were seized with an estimated value of Rs 70 lakh.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Houston University clarifies on Hinduism course after misrepresentation claims",
-    "link": "https://timesofindia.indiatimes.com/world/us/academic-freedom-houston-university-defends-its-lived-hindu-religion-course-amidst-controversy/articleshow/119685123.cms",
-    "content": "The University of Houston defended its Hindu religion course, explaining that the use of terms like 'fundamentalism' is grounded in academic religious studies. The course aims to analyze how religions evolve over time, without making judgments or showing bias, despite student complaints.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Chepauk DJ plays 'Dosa, Idli, Sambar' as Jitesh walks off",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/chepauk-dj-plays-dosa-idli-sambar-chutney-as-jitesh-sharma-walks-off-watch-viral-video/articleshow/119692489.cms",
-    "content": "During the match at MA Chidambaram Stadium, the Chepauk DJ playfully trolled Jitesh Sharma after his dismissal by playing a popular song. RCB's victory over CSK was marked by tight bowling performances, securing their first win at Chepauk since 2008 and topping the points table. This victory also marked RCB’s first win at Chepauk since 2008, breaking a 17-year drought at CSK’s fortress.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Watch: Hit on helmet, Virat Kohli does this",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hit-on-helmet-virat-kohli-does-this-afterwards-during-rcb-vs-csk-match-watch/articleshow/119689670.cms",
-    "content": "In the IPL 2025 clash against Chennai Super Kings, Virat Kohli was hit on the helmet by a bouncer from Matheesha Pathirana but reassured his well-being with a thumbs-up. Following a mandatory concussion check, Kohli hit a six and a four off consecutive balls. RCB secured a 50-run victory, marking CSK's first home defeat to them in 17 years.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Musk’s xAI acquires X social media platform in a 33 billion dollar: Report",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-acquires-x-social-media-platform-in-a-33-billion-dollar-mega-deal-report/articleshow/119687915.cms",
-    "content": "Elon Musk's xAI has acquired the social media platform X (formerly Twitter) for $33 billion. This move aims to merge AI technologies with social media, enhancing Musk’s control over both companies. The integration promises advancements in AI development and data utilization, though it raises questions on financial and regulatory fronts.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Joke row: Mumbai Police register 3 cases against Kunal Kamra",
-    "link": "https://timesofindia.indiatimes.com/city/mumbai/businessman-hotelier-and-mayor-3-cases-registered-against-kunal-kamra/articleshow/119690526.cms",
-    "content": "Comedian Kunal Kamra faces three cases in Mumbai, including complaints by Jalgaon's Mayor, a Nashik hotelier, and a businessman. Kamra, summoned twice by police, has been granted anticipatory bail by the Madras High Court citing safety concerns. Legal action stems from his remarks during a comedy show.",
-    "category": "Local",
-    "sub_category": "Mumbai"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Watch: 0.16 seconds! MS Dhoni effects Phil Salt stumping in a flash",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/0-16-seconds-ms-dhoni-effects-phil-salt-stumping-in-a-flash-watch-stadium-cam-video/articleshow/119687343.cms",
-    "content": "At age 43, Mahendra Singh Dhoni displayed his extraordinary wicketkeeping prowess during an IPL 2025 match against RCB, executing a lightning-fast stumping that ended Phil Salt's aggressive innings. Dhoni's remarkable reflexes and cricketing intelligence continue to amaze, reinforcing his legendary status in the sport. With every such moment, Dhoni reinforces his legacy as a generational wicketkeeping genius, proving once again that age is just a number.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Myanmar earthquake: Why quakes strike certain regions more often",
-    "link": "https://timesofindia.indiatimes.com/world/rest-of-world/myanmar-earthquake-why-quakes-strike-certain-regions-more-often-what-are-earthquakes/articleshow/119684159.cms",
-    "content": "A powerful 7.7-magnitude earthquake hit near Mandalay, Myanmar, causing extensive damage and reaching Bangkok. The quake, originating from the Sagaing Fault, has resulted in significant fatalities and destruction, with experts predicting aftershocks for months. Myanmar's seismic vulnerability is attributed to its complex fault lines within the Alpide Belt.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "MS Dhoni at No. 9? Ex-cricketers say it 'didn't make sense'",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-at-no-9-former-cricketers-say-it-didnt-make-sense/articleshow/119688307.cms",
-    "content": "Chennai Super Kings faced a 50-run defeat against Royal Challengers Bangalore at Chepauk, marking their first home loss to RCB in 17 years. Criticism arose over MS Dhoni's delayed arrival at the crease, with experts suggesting this decision impacted CSK’s chances of a successful chase. With back-to-back away wins against defending champions Kolkata Knight Riders and Chennai Super Kings, RCB have made a strong start to their IPL campaign, eyeing their maiden title.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "‘Couldn’t move Maharashtra court’: Kunal Kamra on pre-arrest bail amid joke row",
-    "link": "https://timesofindia.indiatimes.com/city/mumbai/pre-arrest-bail-kamra-says-couldnt-move-maha-court/articleshow/119669175.cms",
-    "content": "Stand-up comedian Kunal Kamra has been granted anticipatory bail by the Madras High Court due to threats and fears of arrest over remarks made in a comedy show. The court acknowledged Kamra's inability to seek bail in Maharashtra, given the threats to his life from ruling party members.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "GT vs MI: Will Hardik return to jeers or cheers today?",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2025-gt-vs-mi-will-hardik-pandya-return-to-jeers-or-cheers-today/articleshow/119685978.cms",
-    "content": "Gujarat Titans and Mumbai Indians aim to secure their first win of the season as they face off in Ahmedabad. With Hardik Pandya back from suspension, Mumbai receive a much needed boost. Gujarat seek redemption after a narrow loss to Punjab Kings, focusing on improving both their bowling and fielding. ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Army officer booked for sexually exploiting cop for 13 years on marriage pretext",
-    "link": "https://timesofindia.indiatimes.com/city/bhopal/army-officer-booked-for-allegedly-sexually-exploiting-cop-for-13-years-on-pretext-of-marriage/articleshow/119670970.cms",
-    "content": "A policewoman in Bhopal accuses a man of 13 years of sexual exploitation under false promises of marriage, leading to legal action. Separately, in Sarojininagar, a man posing as an Army officer on Instagram is arrested for deceiving multiple women out of money and valuables, including a widow.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'You have a great PM': Trump praises 'very smart man' Modi amidst trade tensions",
-    "link": "https://timesofindia.indiatimes.com/world/us/you-have-a-great-prime-minister-trump-praises-very-smart-man-pm-modi-amidst-trade-tensions/articleshow/119671847.cms",
-    "content": "President Trump praised Prime Minister Modi as a smart leader and great friend while criticizing India's high import tariffs. Trump emphasized progress in trade talks and India's commitment to lower tariffs, significant energy purchases, defense deals, and reduced duties on key imports. These efforts aim to strengthen US-India trade ties amid ongoing friction.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Elon Musk sells X platform to his xAI company",
-    "link": "https://timesofindia.indiatimes.com/world/us/elon-musk-sells-x-platform-to-his-xai-company/articleshow/119676390.cms",
-    "content": "Elon Musk's xAI has acquired social media platform X in an all-stock deal valuing X at $33 billion. The merger aims to combine xAI's advanced AI capabilities with X's extensive user base to create smarter and more meaningful experiences, highlighting Musk's commitment to truth-seeking AI.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Musk to visit CIA next week to discuss govt efficiency: Report",
-    "link": "https://timesofindia.indiatimes.com/world/us/elon-musk-to-visit-cia-next-week-to-discuss-government-efficiency-report/articleshow/119682378.cms",
-    "content": "Tesla CEO Elon Musk is set to meet CIA Director John Ratcliffe to discuss governmental efficiency. This follows concerns about Musk's Chinese business interests and the potential risk if he were to receive classified military information amid rising tensions with China.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Trump posts new video, promoting US military support for island",
-    "link": "https://timesofindia.indiatimes.com/world/us/america-stands-with-greenland-trump-posts-new-video-promoting-us-military-support-for-island/articleshow/119686108.cms",
-    "content": "Donald Trump shares a new video emphasizing America's support for Greenland's security amid his interest in annexing the island. The video highlights historical and contemporary challenges, including threats from Russia and China. Vice President Vance's recent visit to Greenland includes military briefings and strengthens US-Greenland relations, despite Greenland's ongoing ties with Denmark.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Muhammad Yunus meets Xi Jinping, gets China's backing for government",
-    "link": "https://timesofindia.indiatimes.com/world/south-asia/muhammad-yunus-meets-xi-jinping-gets-chinas-backing-for-government/articleshow/119677352.cms",
-    "content": "President Xi Jinping assured China's support to Bangladesh's interim government and pledged to expand economic cooperation in a meeting with chief adviser Muhammad Yunus. Xi promised to encourage Chinese manufacturing enterprises to relocate to Bangladesh, granting duty-free product access. Bangladesh invited Chinese companies for a river project, previously planned with India.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Finally it's over! RCB end 17-year losing streak against CSK at Chepauk",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/finally-its-over-rcb-end-17-year-losing-streak-against-csk-at-chepauk/articleshow/119668815.cms",
-    "content": "Royal Challengers Bengaluru ended their 17-year drought at MA Chidambaram Stadium by defeating Chennai Super Kings by 50 runs in an IPL 2025 clash. RCB posted a formidable 196/7 with key contributions from Rajat Patidar, Phil Salt and Virat Kohli. Despite MS Dhoni's late efforts, CSK's chase faltered, marking RCB's first win at Chepauk since 2008.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Navratri Colours: Here is the list of nine colours and their significance",
-    "link": "https://timesofindia.indiatimes.com/life-style/fashion/style-guide/navratri-colours-2025-here-is-the-list-of-nine-colours-of-navratri-with-2025-date-and-their-significance/articleshow/119641928.cms",
-    "content": "Each day of Chaitra Navratri is associated with a specific colour, which holds significant meaning and symbolism for the nine forms of Goddess Durga.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Protesters create ruckus at Mamata Banerjee's keynote talk at Oxford",
-    "link": "https://timesofindia.indiatimes.com/india/protesters-create-ruckus-at-mamata-banerjees-keynote-talk-at-oxford/articleshow/119669484.cms",
-    "content": "West Bengal CM Mamata Banerjee's speech at Oxford was disrupted by two groups of protesters, causing chaos. Security had to intervene as protesters accused her of various allegations, with the incident highlighting political tensions and unrest among certain groups.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Delhi HC bins government’s order junking academic Swain’s OCI card",
-    "link": "https://timesofindia.indiatimes.com/india/delhi-hc-bins-governments-order-junking-academic-swains-oci-card/articleshow/119679005.cms",
-    "content": "Delhi high court overturned the government's cancellation of Ashok Swain's OCI card but permitted the issuance of a new show-cause notice with a reasoned order. Swain had contested the revocation, arguing it was executed unfairly and targeted him for his views on the government.",
-    "category": "Local",
-    "sub_category": "Delhi"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "SC refuses PIL seeking FIR against Yashwant Varma; government notifies transfer",
-    "link": "https://timesofindia.indiatimes.com/india/sc-refuses-pil-seeking-fir-goverment-notifies-transfer/articleshow/119679190.cms",
-    "content": "The government has transferred Justice Yashwant Varma from the Delhi High Court to Allahabad High Court amid allegations of cash recovery from his residence. The Supreme Court dismissed a PIL seeking an FIR against him, allowing an in-house inquiry to proceed. An inquiry panel's report is expected soon, while CJI Khanna ensures the investigation adheres to established procedures.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Rana Sanga row in Parliament leads to BJP-opposition clash",
-    "link": "https://timesofindia.indiatimes.com/india/rana-sanga-row-in-parliament-leads-to-bjp-opposition-clash/articleshow/119679209.cms",
-    "content": "The ongoing debate over Rajput ruler Rana Sanga's historical actions intensified in the Indian Parliament, with BJP condemning SP member Ramji Lal Suman's remarks. The conflict highlights accusations by Samajwadi Party and Congress of BJP targeting Dalit and tribal representatives.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Deposit Rs 4 lakh first, then go to Parliament, HC tells Engineer Rashid",
-    "link": "https://timesofindia.indiatimes.com/india/deposit-rs-4-lakh-first-then-go-to-parliament-hc-tells-engineer-rashid/articleshow/119680337.cms",
-    "content": "The Delhi High Court ordered jailed J&amp;K MP Abdul Rashid Sheikh to deposit approximately Rs 4 lakh for travel expenses to attend Parliament. Rashid has already deposited Rs 1.4 lakh and will pay the remainder within three days. The court stressed the importance of fulfilling the constitutional duties despite the high costs.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Body of 4th cop sighted at Kathua encounter site; operation still underway",
-    "link": "https://timesofindia.indiatimes.com/india/body-of-4th-cop-sighted-at-kathua-encounter-site-operation-still-underway/articleshow/119669611.cms",
-    "content": "Four police personnel have been killed in an ongoing gunfight with suspected Pakistani terrorists in the Sufain forest area of Jammu's Kathua district. The operation, involving the J&amp;K Police's SOG, Army, and CRPF, continues, with a total of five terrorists reportedly neutralized.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Telangana Man Falls In Love With 2 Women, Marries Them In Same Ceremony",
-    "link": "https://www.ndtv.com/india-news/telangana-man-falls-in-love-with-2-women-marries-them-in-same-ceremony-8034769",
-    "content": "a man married two women at the same time in Telangana's Komaram Bheem Asifabad district . he said he was in love with Lal Devi and Jhalkari Devi and decided to marry them in a single ceremony . the groom even printed the names of both the brides on an invitation card and organised a grand celebration .",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Prices of coronary stents set to rise",
+    "link": "https://www.thehindu.com/sci-tech/health/prices-of-coronary-stents-set-to-rise/article69386161.ece",
+    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1209,16 +1369,8 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Announcement of Tambaram-Rameswaram train via Tiruvarur welcomed ",
-    "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/announcement-of-tambaram-rameswaram-train-via-tiruvarur-welcomed/article69386873.ece",
-    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "BSF pension adalat to be held",
-    "link": "https://www.thehindu.com/news/national/kerala/bsf-pension-adalat-to-be-held/article69386750.ece",
+    "title": "Mobile phone spare parts godown gutted near Ranipet ",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/mobile-phone-spare-parts-godown-gutted-near-ranipet/article69385978.ece",
     "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1233,9 +1385,25 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Govt. unwilling to tackle drug menace that threatens entire generation: Rahul",
-    "link": "https://www.thehindu.com/news/national/kerala/govt-unwilling-to-tackle-drug-menace-that-threatens-entire-generation-rahul/article69387210.ece",
-    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! Karnataka Today Your download of top 5 technology stories of the day .",
+    "title": "Will seek Central funds for renovation of GGH, Uppada geotube project in Kakinada district, says Narayana ",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/will-seek-central-funds-for-renovation-of-ggh-uppada-geotube-project-in-kakinada-district-says-narayana/article69386626.ece",
+    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "AICC to launch programme to empower district party presidents: DKS",
+    "link": "https://www.thehindu.com/news/national/karnataka/aicc-to-launch-programme-to-empower-district-party-presidents-dks/article69387164.ece",
+    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Karnataka keen to set up foreign language labs in nursing colleges to boost global job prospects",
+    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-keen-to-set-up-foreign-language-labs-in-nursing-colleges-to-boost-global-job-prospects/article69387036.ece",
+    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1249,24 +1417,8 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Will seek Central funds for renovation of GGH, Uppada geotube project in Kakinada district, says Narayana ",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/will-seek-central-funds-for-renovation-of-ggh-uppada-geotube-project-in-kakinada-district-says-narayana/article69386626.ece",
-    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Warmer days ahead likely for Benglauru",
     "link": "https://www.thehindu.com/news/cities/bangalore/warmer-days-ahead-likely-for-benglauru/article69386451.ece",
-    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Man who consumed toilet cleaner saved through six-hour surgery in Davangere",
-    "link": "https://www.thehindu.com/news/national/karnataka/man-who-consumed-toilet-cleaner-saved-through-six-hour-surgery-in-davangere/article69385924.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
@@ -1289,33 +1441,25 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "SC refuses to intervene against cap on tourist vehicles to Nilgiris, Kodaikanal",
-    "link": "https://www.thehindu.com/news/national/sc-refuses-to-intervene-against-cap-on-tourist-vehicles-to-nilgiris-kodaikanal/article69387306.ece",
+    "title": "Govt. unwilling to tackle drug menace that threatens entire generation: Rahul",
+    "link": "https://www.thehindu.com/news/national/kerala/govt-unwilling-to-tackle-drug-menace-that-threatens-entire-generation-rahul/article69387210.ece",
+    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! Karnataka Today Your download of top 5 technology stories of the day .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Man who consumed toilet cleaner saved through six-hour surgery in Davangere",
+    "link": "https://www.thehindu.com/news/national/karnataka/man-who-consumed-toilet-cleaner-saved-through-six-hour-surgery-in-davangere/article69385924.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Karnataka keen to set up foreign language labs in nursing colleges to boost global job prospects",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-keen-to-set-up-foreign-language-labs-in-nursing-colleges-to-boost-global-job-prospects/article69387036.ece",
+    "title": "Supreme Court allows Kumaraswamy to move High Court against eviction notice",
+    "link": "https://www.thehindu.com/news/national/sc-allows-kumaraswamy-to-move-hc-against-eviction-notice/article69387046.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "AICC to launch programme to empower district party presidents: DKS",
-    "link": "https://www.thehindu.com/news/national/karnataka/aicc-to-launch-programme-to-empower-district-party-presidents-dks/article69387164.ece",
-    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Vijay criticises PM only to gain political mileage: Annamalai ",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-criticises-pm-only-to-gain-political-mileage-annamalai/article69386219.ece",
-    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1324,30 +1468,6 @@
     "title": "Lokesh visits Muslim family for Iftar, promises them new home",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/lokesh-visits-muslim-family-for-iftar-promises-them-new-home/article69387269.ece",
     "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "No FIR without CJI’s nod, says Amit Shah on Justice Varma case",
-    "link": "https://timesofindia.indiatimes.com/india/no-fir-without-cjis-nod-says-amit-shah-on-justice-varma-case/articleshow/119676385.cms",
-    "content": "Bharti Jain is senior editor with The Times of India, New Delhi. She has been writing on security matters since 1996. Having covered the Union home ministry, security agencies, Election Commission and the ‘prime’ political beat, the Congress, for The Economic Times all these years, she moved to TOI in August 2012. Her repertoire of news stories delves into the whole gamut of issues related to terrorism and internal strife, besides probing strategic affairs in India’s neighbourhood. Read More Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers 10 high-protein desi Indian breakfast dishes",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Ashok Leyland bags Indian Army contracts worth ₹700 crore",
-    "link": "https://www.thehindu.com/news/national/ashok-leyland-bags-indian-army-contracts-worth-700-crore/article69386258.ece",
-    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Recovery of bullets on bus: probe expanded to Karnataka",
-    "link": "https://www.thehindu.com/news/national/kerala/recovery-of-bullets-on-bus-probe-expanded-to-karnataka/article69385523.ece",
-    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1361,8 +1481,8 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Centre for Management Development gets ISO 9001:2015 certification ",
-    "link": "https://www.thehindu.com/news/national/kerala/centre-for-management-development-gets-iso-90012015-certification/article69387500.ece",
+    "title": "SC refuses to intervene against cap on tourist vehicles to Nilgiris, Kodaikanal",
+    "link": "https://www.thehindu.com/news/national/sc-refuses-to-intervene-against-cap-on-tourist-vehicles-to-nilgiris-kodaikanal/article69387306.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
@@ -1377,8 +1497,16 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "RPF seize 26 kgs of ganja at Arakkonam railway station",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/rpf-seize-26-kgs-of-ganja-at-arakkonam-railway-station/article69385987.ece",
+    "title": "Vijay criticises PM only to gain political mileage: Annamalai ",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-criticises-pm-only-to-gain-political-mileage-annamalai/article69386219.ece",
+    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Centre for Management Development gets ISO 9001:2015 certification ",
+    "link": "https://www.thehindu.com/news/national/kerala/centre-for-management-development-gets-iso-90012015-certification/article69387500.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
@@ -1393,11 +1521,11 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Supreme Court allows Kumaraswamy to move High Court against eviction notice",
-    "link": "https://www.thehindu.com/news/national/sc-allows-kumaraswamy-to-move-hc-against-eviction-notice/article69387046.ece",
+    "title": "WoW Awards: Prabha Narasimhan — excellence in business leadership ",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/wow-awards-prabha-narasimhan-excellence-in-business-leadership/article69387503.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
-    "sub_category": "General"
+    "sub_category": "Business"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -1425,14 +1553,6 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "WoW Awards: Prabha Narasimhan — excellence in business leadership ",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/wow-awards-prabha-narasimhan-excellence-in-business-leadership/article69387503.ece",
-    "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
-    "category": "Global",
-    "sub_category": "Business"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "WoW Awards: Tessy Thomas - excellence in education, S&T",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/wow-awards-tessy-thomas-excellence-in-education-st/article69387580.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
@@ -1440,130 +1560,10 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Record Rs 63k crore chopper deal inked with HAL",
-    "link": "https://timesofindia.indiatimes.com/india/record-rs-63k-crore-chopper-deal-inked-with-hal/articleshow/119679418.cms",
-    "content": "Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Divine and demoniac ",
-    "link": "https://www.thehindu.com/society/faith/divine-and-demoniac/article69379037.ece",
+    "title": "Recovery of bullets on bus: probe expanded to Karnataka",
+    "link": "https://www.thehindu.com/news/national/kerala/recovery-of-bullets-on-bus-probe-expanded-to-karnataka/article69385523.ece",
     "content": "e-Paper The Hindu On Books Books of the week, reviews, excerpts, new titles and features . health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tariffs are going to work out well between India-U.S., Modi is a very smart man: Donald Trump",
-    "link": "https://www.thehindu.com/news/international/tariffs-are-going-to-work-out-well-between-india-us-modi-is-a-very-smart-man-donald-trump/article69388944.ece",
-    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Trainee officer dies during training at Ezhimala Naval Academy ",
-    "link": "https://www.thehindu.com/news/national/kerala/trainee-officer-dies-during-training-at-ezhimala-naval-academy/article69386761.ece",
-    "content": "health Matters Ramya Kannan writes to you on getting to good health, and staying there The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "16 Maoists killed, 2 jawans injured in Chhattisgarh encounter",
-    "link": "https://timesofindia.indiatimes.com/india/at-least-16-naxalites-killed-2-jawans-injured-in-encounter-in-chhattisgarhs-sukma-operation-under-way/articleshow/119689272.cms",
-    "content": "the TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide . the team is the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "7.7-magnitude earthquake kills at least 160 in Myanmar, Thailand",
-    "link": "https://timesofindia.indiatimes.com/world/south-asia/7-7-magnitude-earthquake-kills-at-least-160-in-myanmar-thailand/articleshow/119677675.cms",
-    "content": "Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers 10 high-protein desi Indian breakfast dishes",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Poor, virgin UP girls exploited in tantric ritual",
-    "link": "https://timesofindia.indiatimes.com/india/poor-virgin-up-girls-exploited-in-tantric-ritual/articleshow/119678475.cms",
-    "content": "Sandeep Rai is a veteran journalist with two decades of experience in the reporting field. He heads the Western Uttar Pradesh bureau, managing Meerut, Bareilly & Agra circles. His areas of interest are wildlife, politics and special reportage. Read More Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Couple in 80s end lives over digital arrest threat",
-    "link": "https://timesofindia.indiatimes.com/india/couple-in-80s-end-lives-over-digi-arrest-threat/articleshow/119677967.cms",
-    "content": "Dushara Vijayan serves major style goals in THESE pics How to talk to someone? 9 tips kids should learn Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Anticipatory bail from Madras HC for Kunal Kamra",
-    "link": "https://timesofindia.indiatimes.com/india/anticipatory-bail-from-madras-hc-for-kunal-kamra/articleshow/119678257.cms",
-    "content": "Swati Deshpande is Senior editor at The Times of India, Mumbai, where she has been covering courts for over a decade. She is passionate about law and works towards enlightening people about their statutory, legal and fundamental rights. She makes it her job to decipher for the public the truth, be it in an intricate civil dispute or in a gruesome criminal case. Read More Dushara Vijayan serves major style goals in THESE pics How to talk to someone? 9 tips kids should learn Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Restaurants can’t enforce service charge: Delhi HC",
-    "link": "https://timesofindia.indiatimes.com/india/restaurants-cant-enforce-service-charge-delhi-hc/articleshow/119676698.cms",
-    "content": "Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers 10 high-protein desi Indian breakfast dishes",
-    "category": "Local",
-    "sub_category": "Delhi"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Saw skyscrapers shaking': Indian tourists recount Thailand quake horror",
-    "link": "https://timesofindia.indiatimes.com/india/saw-skyscrapers-shaking-water-coming-out-of-pool-indians-returnees-recount-myanmar-thailand-earthquake-horror/articleshow/119685887.cms",
-    "content": "the TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide . the team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports .",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Watch: India launches 'Operation Brahma', sends 15 tonnes of aid to Myanmar",
-    "link": "https://timesofindia.indiatimes.com/india/watch-india-launches-operation-brahma-sends-15-tonnes-of-aid-to-myanmar-after-massive-earthquake/articleshow/119691870.cms",
-    "content": "the TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide . the team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics .",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "International students wake up to email asking them to self deport for campus activism",
-    "link": "https://timesofindia.indiatimes.com/world/us/hundreds-of-international-students-are-waking-up-to-an-email-asking-them-to-self-deport-for-campus-activism-or-even-sharing-posts-on-social-media/articleshow/119679695.cms",
-    "content": "Lubna Kably is a senior editor, who focuses on various policies and legislation. In particular, she writes extensively on immigration and tax policies. The Indian diaspora is the largest in the world; through her articles she demystifies the immigration-policy related developments in select countries for outbound students, job aspirants and employees. She also analyses the impact of Income-tax and GST related developments for individuals and business entities. Read More Dushara Vijayan serves major style goals in THESE pics How to talk to someone? 9 tips kids should learn Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Freedom of speech can’t be crushed on flimsy grounds: SC",
-    "link": "https://timesofindia.indiatimes.com/india/freedom-of-speech-cant-be-crushed-on-flimsy-grounds-sc/articleshow/119676324.cms",
-    "content": "Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Varanasi meat shops to be shut during Navratri",
-    "link": "https://timesofindia.indiatimes.com/india/varanasi-meat-shops-to-be-shut-during-navratri/articleshow/119678728.cms",
-    "content": "Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Murder bid FIR as 5 IIT students attack classmate",
-    "link": "https://timesofindia.indiatimes.com/india/murder-bid-fir-as-5-iit-students-attack-classmate/articleshow/119678860.cms",
-    "content": "An MBA with 30 year experience in journalism, covers reporting for higher education institutions like IIT, CBRI, NIH at Roorkee. Tamannaah Bhatia displays effortless elegance in a floral pink saree Malaika Arora's most stylish looks Neha Dhupia blends elegance with modern glamour in a regal magenta gown Captivating clicks of Daisy Shah ​10 habits that will keep you healthy at 40 but you should start in 20s 10 best summer adventure ideas in India Beautiful royal suit sets inspired by Pakistani actresses for Eid 2025 9 books that help magically improve communication and conversation skills Top 7 must-visit waterfalls in India for nature lovers",
     "category": "Global",
     "sub_category": "General"
 }
