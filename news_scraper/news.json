@@ -81,7 +81,15 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Handing out April grades for all 30 MLB teams: From many A's to a surprising F",
+    "title": "Which Braves are the REAL Braves?",
+    "link": "https://www.espn.com/mlb/story/_/id/44934806/mlb-2025-atlanta-braves-0-7-start-october-playoffs-national-league",
+    "content": "No team has made the playoffs after starting 0-7, but Atlanta has played better since. Will that continue -- and will it be enough?",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Handing out April grades for all 30 MLB teams",
     "link": "https://www.espn.com/mlb/story/_/id/44953845/mlb-2025-season-first-month-april-grades-all-30-teams",
     "content": "Is your favorite team acing -- or flunking -- the early part of the 2025 season? We break it all down.",
     "category": "Global",
@@ -241,9 +249,9 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Transfer rumors, news: Real Madrid want Alexander-Arnold before Liverpool deal ends",
-    "link": "https://www.espn.com/soccer/story/_/id/44972153/transfer-rumors-news-real-madrid-sign-alexander-arnold-club-world-cup-liverpool",
-    "content": "Real Madrid want to sign TAA for the Club World Cup before his Liverpool contract ends. Transfer Talk has the latest news, gossip and rumors.",
+    "title": "Transfer rumors, news: Man United look to steal Tah from under Barcelona's noses",
+    "link": "https://www.espn.com/soccer/story/_/id/44972153/transfer-rumors-news-manchester-united-leverkusen-jonathan-tah-barcelona",
+    "content": "Manchester United are making a move to sign Jonathan Tah from Bayer Leverkusen just when Barcelona thought a deal was done. Transfer Talk has the latest news, gossip and rumors.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -288,154 +296,378 @@
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "History Of Pakistan's Terror Track Record And \"Neutral Probe\" Calls",
-    "link": "https://www.ndtv.com/world-news/history-of-pakistans-terror-track-record-and-neutral-probe-calls-8320157#publisher=newsstand",
-    "content": "Beyond the barbed wire fences at the Line of Control are terror launchpads that have one routine task: sending terrorists across the boundary into Jammu and Kashmir.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "After PM Modi, Rajnath to skip Russia's Victory Day parade: Report",
+    "link": "https://timesofindia.indiatimes.com/india/after-pm-modi-rajnath-singh-to-skip-russias-victory-day-parade-junior-minister-sanjay-seth-to-attend-report/articleshow/120847712.cms",
+    "content": "Defence Minister Rajnath Singh is unlikely to attend Russia's Victory Day parade on May 9, with Minister of State for Defence Sanjay Seth expected to represent India. This decision occurs amidst heightened tensions between India and Pakistan following the recent terror attack in Pahalgam. Russia had initially invited Prime Minister Narendra Modi to the event.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Man's Decomposed Body Found Inside House After He Went 'Missing' In Delhi",
-    "link": "https://www.ndtv.com/india-news/mans-decomposed-body-found-inside-house-after-he-went-missing-in-south-delhi-malviya-nagar-8320062#publisher=newsstand",
-    "content": "A decomposed body of a 32-year-old man was found inside a locked house in south Delhi's Malviya Nagar area, police said on Saturday.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "No more mail, imports or ships from Pak: India slaps slew of bans",
+    "link": "https://timesofindia.indiatimes.com/india/no-more-mail-imports-or-ships-from-pak-india-slaps-slew-of-bans-amid-rising-tensions/articleshow/120848470.cms",
+    "content": "Following the deadly terror attack in Pahalgam, India has imposed stringent measures against Pakistan, halting all imports and suspending mail services. Pakistani vessels are now barred from Indian ports, and Indian ships are prohibited from visiting Pakistani ports. These actions mark a significant escalation in response to identified cross-border linkages and aim to ensure national security.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Virat Kohli memes break internet for ‘liking’ Avneet Kaur photo",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-memes-break-internet-for-liking-avneet-kaur-instagram-photo/articleshow/120847484.cms",
+    "content": "Virat Kohli's recent 'like' on an Avneet Kaur fan page sparked a social media frenzy, prompting him to clarify it was an algorithmic error. Despite the online buzz, Kohli remains focused on his performance in the IPL 2025, where he has been instrumental for Royal Challengers Bengaluru.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Pakistan says there's 'imminent threat of kinetic action' by India",
+    "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-pakistan-says-theres-imminent-threat-of-kinetic-action-by-india/articleshow/120843715.cms",
+    "content": "Pakistan has expressed concerns over a potential military response from India following the Pahalgam terror attack, citing intelligence suggesting an \"imminent threat of kinetic action.\" Pakistan's UN ambassador warned that obstructing Indus waters would be considered an act of war, vowing retaliation. On April 24, PM Modi pledged strong action against those responsible for the Pahalgam terror attack.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Pahalgam terror attack: The banned Chinese smartphone link that NIA is probing",
+    "link": "https://timesofindia.indiatimes.com/technology/tech-news/pahalgam-terror-attack-the-banned-chinese-smartphone-link-that-nia-is-probing/articleshow/120847589.cms",
+    "content": "The NIA has taken over the Pahalgam terror attack investigation, prompted by the detection of a banned Huawei satellite phone in the area. The attack, which killed 26, is claimed by the Pakistan-backed TRF. Security agencies are working with Western partners to track the device and investigate potential links to foreign entities.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Parents catch son, girlfriend eating chowmein, thrash them in public in Kanpur",
+    "link": "https://timesofindia.indiatimes.com/city/kanpur/thrashed-with-slippers-parents-assault-son-girlfriend-in-public-after-catching-them-eating-chowmein-in-kanpur/articleshow/120844415.cms",
+    "content": "A shocking incident happened in Kanpur. Parents assaulted their son and his girlfriend publicly. The incident occurred at Ram Gopal intersection. Shiv Karan and Sushila disapproved of their son's relationship. They attacked the couple at a street-side eatery. Police intervened and separated the parties. Gujaini police are investigating the matter. Legal action is underway following counseling.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Who is Avneet Kaur? The actress behind Virat Kohli’s viral Instagram 'like'",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/who-is-avneet-kaur-the-actress-behind-virat-kohlis-viral-instagram-like/articleshow/120848866.cms",
+    "content": "Virat Kohli addressed social media buzz regarding his alleged \"like\" on a fan page post featuring actress Avneet Kaur. He clarified that the interaction was likely a mistake due to an algorithm error while clearing his feed, emphasizing there was no intent behind it. Addressing the buzz, Kohli shared a statement via Instagram stories. ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Aggressive rehna hai': Bumrah's masterclass for RR bowler - Watch!",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mindset-wise-aggressive-rehna-hai-jasprit-bumrahs-masterclass-for-tushar-deshpande-watch/articleshow/120848439.cms",
+    "content": "Following Mumbai Indians' dominant victory over Rajasthan Royals, Jasprit Bumrah, known for his exceptional pace bowling, shared invaluable insights with RR's Tushar Deshpande on cultivating a winning mindset. Bumrah emphasised the importance of aggressive thinking, focusing on dismissing the batter rather than solely preventing boundaries.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Google changes its appraisal program, VP emails to employees: \"We want to be upfront that...\"",
+    "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-changes-its-appraisal-program-vp-emails-to-employees-we-want-to-be-upfront-that-/articleshow/120841762.cms",
+    "content": "Google is revamping its employee performance review system to reward top performers with increased bonuses and equity, aiming to incentivize high achievement across the company. To fund these enhanced rewards for those achieving \"Outstanding Impact,\" the company will slightly reduce bonus and equity multipliers for employees with \"Significant Impact\" and \"Moderate Impact\" ratings, ensuring a budget-neutral adjustment.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Pakistan flags painted on roads spark tension in Goa",
+    "link": "https://timesofindia.indiatimes.com/city/goa/pakistan-flags-painted-on-roads-spark-tension-in-canacona/articleshow/120833376.cms",
+    "content": "Tension escalated in Canacona as Pakistani flags were discovered painted on roads at key locations early Friday, raising concerns about potential communal disharmony. Goa assembly speaker Ramesh Tawadkar filed a police complaint, urging a thorough investigation. Locals questioned the effectiveness of night patrolling, while community leaders appealed for calm. Police are reviewing CCTV footage to identify the culprits.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Pahalgam terror attack: India bans all imports from Pakistan",
+    "link": "https://timesofindia.indiatimes.com/india/pahalgam-terror-attack-india-bans-all-imports-from-pakistan/articleshow/120843636.cms",
+    "content": "Following the deadly Pahalgam terror attack, India has banned all direct and indirect imports from Pakistan, effective immediately. The Directorate General of Foreign Trade announced the decision on May 2, citing national security and public policy concerns.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Caught on camera! Nehra's 'secret signals' to Siraj and Prasidh",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/caught-on-camera-ashish-nehras-secret-signals-to-mohammed-siraj-and-prasidh-krishna-watch/articleshow/120847385.cms",
+    "content": "Gujarat Titans defeated Sunrisers Hyderabad by 38 runs in their IPL 2025 match, propelled by Shubman Gill's explosive 76 and Jos Buttler's rapid 64, setting a target of 224/6. Despite Abhishek Sharma's valiant 74, SRH were restricted to 186/6 by disciplined bowling from Prasidh Krishna and Mohammed Siraj. This victory elevates GT to second place in the standings.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Zomato 'quietly ends' the food delivery service it started just 4 months back",
+    "link": "https://timesofindia.indiatimes.com/technology/tech-news/zomato-quietly-ends-the-food-delivery-it-started-4-months-back/articleshow/120793334.cms",
+    "content": "Zomato has quietly removed its 15-minute food delivery service, Quick, from its app after just four months, hinting at a change in its rapid delivery strategy. This follows the shutdown of Zomato Instant in 2023. The company is now focusing on Bistro by Blinkit for quick snack deliveries amid increasing competition, separating it from the main restaurant delivery service.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Becoming a troubling norm': Supriya Sule slams Air India over delays again",
+    "link": "https://timesofindia.indiatimes.com/city/delhi/becoming-a-troubling-norm-supriya-sule-slams-air-india-over-delays-again/articleshow/120841744.cms",
+    "content": "NCP-SP MP Supriya Sule has once again criticized Air India for repeated flight delays, highlighting a recent incident where her Delhi flight was delayed twice, leaving passengers stranded. Sule urged Union Civil Aviation Minister Ram Mohan Naidu Kinjarapu to intervene, calling the delays a \"troubling norm.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "India extends $200m defence credit line to Angola",
+    "link": "https://timesofindia.indiatimes.com/india/200m-defence-credit-line-cooperation-in-public-infra-space-tech-pm-modi-holds-bilateral-talks-with-angolas-president-lourenco-terrorism/articleshow/120847093.cms",
+    "content": "Prime Minister Modi and Angolan President Lourenco convened in New Delhi, reaffirming India's dedication to strengthening ties with Angola and the broader African continent. Discussions centered on enhancing cooperation in agriculture, traditional medicine, and cultural exchange. Modi emphasised India's commitment to decisive action against terrorism.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "‘Continues to avoid Manipur’: Congress targets PM Modi after two years of conflict",
+    "link": "https://timesofindia.indiatimes.com/india/continues-to-avoid-and-shun-manipur-congress-targets-pm-modi-after-two-years-of-conflict/articleshow/120846864.cms",
+    "content": "On the second anniversary of Manipur's ethnic violence, Congress criticizes Prime Minister Modi for allegedly ignoring the state's unrest, highlighting the delayed government response and the ongoing suffering of displaced people. The party points out the Prime Minister's absence from Manipur and questions the effectiveness of the Union Home Minister.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Born to serve my country': Cop, family spared deportation to Pak after HC steps in",
+    "link": "https://timesofindia.indiatimes.com/india/born-to-serve-jk-police-and-my-country-policeman-iftkhar-ali-family-spared-deportation-to-pakistan-after-hc-steps-in/articleshow/120847465.cms",
+    "content": "Iftkhar Ali, a Jammu and Kashmir policeman, and his eight siblings narrowly escaped deportation to Pakistan after a court intervention. Ali, who has served in the police force for 27 years, believes the deportation notice was a conspiracy stemming from a land dispute. The family's citizenship status remains pending despite being admitted as permanent residents in the late 1990s.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'BJP regime fears questions': CM Stalin slams Centre over press freedom",
+    "link": "https://timesofindia.indiatimes.com/india/bjp-regime-fears-questions-cm-stalin-takes-shot-at-centre-over-indias-rank-in-global-press-freedom-index/articleshow/120847145.cms",
+    "content": "On World Press Freedom Day, Tamil Nadu CM MK Stalin criticized the BJP-led Union government for allegedly suppressing journalism and diminishing press freedom in India. He highlighted India's low ranking of 151 in the Global Press Freedom Index, accusing the BJP of silencing dissenting voices through raids and imprisonment of reporters.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Pakistan claims it successfully tested surface-to-surface missile of 450km range",
+    "link": "https://timesofindia.indiatimes.com/india/reckless-provocation-indian-officials-on-pakistans-proposed-testing-of-surface-to-surface-ballistic-missiles/articleshow/120843087.cms",
+    "content": "Amid heightened tensions following the Pahalgam terrorist attack, Pakistan's planned surface-to-surface ballistic missile test is viewed by New Delhi as a reckless provocation. Indian officials perceive this as a dangerous escalation, especially with recent ceasefire violations along the LoC. Despite issuing multiple NOTAMs, Pakistan has yet to conduct any missile firings, raising concerns about escalating tensions further.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'If RCB want to win the IPL, they must ...': Former India cricketer",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/if-rcb-want-to-win-the-ipl-they-must-former-india-cricketer-on-key-to-ending-trophy-drought/articleshow/120847067.cms",
+    "content": "Aakash Chopra emphasises the importance of a top-two finish for Royal Challengers Bengaluru to secure their first IPL title, as history favours teams finishing in the top two. While RCB eye a crucial win against Chennai Super Kings to solidify their playoff chances, Chopra urges captain Rajat Patidar to regain batting consistency for a successful campaign.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Trident of naval power': Indian Navy's showcase of strength",
+    "link": "https://timesofindia.indiatimes.com/india/trident-of-naval-power-indian-navys-latest-post-amid-tensions-with-pakistan/articleshow/120844411.cms",
+    "content": "Amid heightened India-Pakistan tensions following the Pahalgam attack, the Indian Navy showcased its naval power with a picture of a ship, submarine, and helicopter. While the Dhruv ALH in the image is currently grounded, the Navy's display coincides with extensive drills in the Arabian Sea.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Kohli goes down memory lane: When he bagged a Rs 20 lakh contract",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-goes-down-memory-lane-when-he-bagged-a-rs-20-lakh-contract-at-ipl-auction/articleshow/120842451.cms",
+    "content": "Ahead of Royal Challengers Bengaluru's match against Chennai Super Kings, ex-RCB skipper went down memory lane to recall the moment and scenes when he and his teammates were picked up by franchises for Rs 20 lakh during the early years of the IPL.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Teen girl's body found hanging from tree in Delhi's Japanese Park",
+    "link": "https://timesofindia.indiatimes.com/city/delhi/teen-girls-body-found-hanging-from-tree-in-delhis-japanese-park/articleshow/120843068.cms",
+    "content": "A teenage girl was found hanging in Japanese Park, Rohini. The discovery occurred early Saturday morning. Police suspect suicide in this case. The girl's identity is currently unknown. Authorities are investigating the scene. Forensic teams are examining the area. The body has been sent for post-mortem. Police are checking missing person reports.",
     "category": "Local",
     "sub_category": "Delhi"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Dinner Parties, Lobbying. What Goes On Behind Closed Doors To Elect Pope",
-    "link": "https://www.ndtv.com/world-news/dinner-parties-lobbying-what-goes-on-behind-closed-doors-to-elect-pope-8319899#publisher=newsstand",
-    "content": "It was in the period of pre-conclave huddling in March of 2013 that the dinner table lobbying worked and Pope Francis won on the fifth ballot.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "CIA, NSA to face major layoffs as Trump pushes intelligence reform",
+    "link": "https://timesofindia.indiatimes.com/world/us/cia-nsa-to-face-major-layoffs-as-trump-pushes-intelligence-reform/articleshow/120844334.cms",
+    "content": "The Trump administration initiated significant personnel cuts across key US intelligence agencies like the CIA and NSA, aiming to align with national security and budgetary priorities. These reductions, achieved through reduced hiring and early retirement, have eliminated hundreds of positions. Critics, including Senator Mark Warner, warn that these cuts could weaken national security and increase counterintelligence risks.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "\"50,000 To 70,000 People Were Present\": President Of Goa Temple On Stampede",
-    "link": "https://www.ndtv.com/india-news/goa-shirgaon-temple-stampede-50-000-to-70-000-people-were-present-president-of-goas-lairai-devi-temple-on-stampede-8319929#publisher=newsstand",
-    "content": "North Goa Superintendent of Police (SP) Akshat Kaushal on Saturday said that we are still trying to determine the exact cause of the stampede incident.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Watch: Moment when stampede broke out at Goa temple",
+    "link": "https://timesofindia.indiatimes.com/city/goa/watch-moment-when-stampede-broke-out-at-goa-temple/articleshow/120843182.cms",
+    "content": "A tragic stampede at Goa's Sree Lairai Devi temple during the Lairai Zatra festival has claimed at least six lives and injured 60 others. The incident occurred early Saturday morning as thousands of devotees gathered. Chief Minister Pramod Sawant has assured support to the affected families, while PM Narendra Modi has offered central assistance.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "PM Modi Announces $200 Million For Mordernisation Of Angolan Armed Forces",
-    "link": "https://www.ndtv.com/india-news/pm-modi-announces-200-million-for-mordernisation-of-angolan-armed-forces-8319911#publisher=newsstand",
-    "content": "Prime Minister Narendra Modi announced a USD 200 million defence credit line for Angola and expressed commitment to act firmly and decisively against terrorists and their backers, an assertion that came days after the Pahalgam terror strikes.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Two years of Manipur conflict: Thousands wait to go home",
+    "link": "https://timesofindia.indiatimes.com/city/imphal/two-years-of-manipur-conflict-thousands-wait-to-go-home/articleshow/120842226.cms",
+    "content": "Two years after ethnic conflict erupted in Manipur, thousands remain displaced, struggling with lost livelihoods and uncertain futures. G Kipgen, once a coaching institute owner, now worries about his children's future. Abung, a Meitei businessman, yearns for his home. Despite government efforts, deep insecurity and psychological distress persist among IDPs, with civil society demands and armed groups hindering peace.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Pahalgam Terror Attack Live Updates: Pakistan Claims It Tested Ballistic Missiles",
-    "link": "https://www.ndtv.com/india-news/pahalgam-terror-attack-updates-pak-violates-ceasefire-again-us-backs-india-8309994#publisher=newsstand",
-    "content": "Pahalgam Terrorist Attack LIVE Updates: Pakistani troops continued ceasefire violations along the Line of Control (LoC) for the ninth consecutive night on Saturday.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Mangaluru murder case: 8 arrested in killing of Hindu activist Suhas Shetty",
+    "link": "https://timesofindia.indiatimes.com/city/mangaluru/8-arrested-in-killing-of-hindu-activist-suhas-shetty/articleshow/120844319.cms",
+    "content": "Karnataka police have apprehended eight individuals concerning the murder of Hindu activist Suhas Shetty. The attack occurred on Thursday night near Kinnipadavu Cross, where Shetty was ambushed by armed assailants. Shetty, who had a criminal record and was implicated in the 2022 killing of Mohammed Fazil, succumbed to his injuries after being hospitalized. Police are investigating the motive behind the attack.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "After Imports, Ships Bearing Pakistan Flag Banned From Entering Indian Waters",
-    "link": "https://www.ndtv.com/india-news/after-imports-ships-bearing-pakistan-flag-banned-from-entering-indian-waters-8319846#publisher=newsstand",
-    "content": "After banning all imports from Pakistan, India on Saturday barred Pakistan-flagged ships from entering any of its ports, following the barbaric attack in Jammu and Kashmir's Pahalgam, which took 26 lives.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "1 dead, 3 injured as speeding Mercedes hits bike, falls off bridge",
+    "link": "https://timesofindia.indiatimes.com/city/pune/1-dead-3-injured-as-speeding-mercedes-hits-bike-falls-off-bridge-in-pune/articleshow/120844180.cms",
+    "content": "A tragic incident occurred in Pune's Sinhgad Road area early Saturday when a speeding Mercedes collided with a motorcycle on Wadgaon bridge. The impact caused the car to fall off the bridge, resulting in the death of the motorcyclist. The pillion rider and the car's occupants sustained injuries, and the driver has been arrested for culpable homicide.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Make Vatican great again? Trump shares AI image after joking about becoming Pope",
+    "link": "https://timesofindia.indiatimes.com/world/us/make-vatican-great-again-trump-shares-ai-image-after-joking-about-becoming-pope/articleshow/120842463.cms",
+    "content": "Donald Trump, after joking about becoming Pope, posted an AI-generated image of himself in papal attire on Truth Social, sparking widespread reactions. This occurred as the Catholic Church prepares for a conclave on May 7 to elect a new Pope following Pope Francis's death. Several cardinals, including Parolin, Tagle, Ambongo, Zuppi, and Erdo, are considered potential successors.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Pahalgam fallout: Fearing India hit, Pak empties out terror launch pads off LoC",
+    "link": "https://timesofindia.indiatimes.com/india/pahalgam-fallout-fearing-india-hit-pakistan-empties-out-terror-launch-pads-off-loc/articleshow/120834528.cms",
+    "content": "Following the Pahalgam terror attack in Jammu and Kashmir, intelligence reports indicate that numerous Pakistani terrorists have retreated from the launchpads in Pakistan-Occupied Kashmir (POK) to deeper locations within POK and Pakistan. This withdrawal comes amid fears of retaliatory strikes by the Indian forces, reminiscent of the 2019 surgical strikes.",
     "category": "Local",
     "sub_category": "India"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Thane Man Finds Wife, 3 Daughters Dead At Home, Suicide Note Recovered",
-    "link": "https://www.ndtv.com/india-news/woman-3-daughters-found-dead-at-home-in-maharashtra-suicide-note-recovered-8319213#publisher=newsstand",
-    "content": "The incident took place in the Bhiwandi area and came to light when the woman's husband returned home after his night shift and found the door closed.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Saif Ali Khan to train in Kalaripayattu for hindi remake of 'Oppam'; Filming to begin soon",
+    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-to-train-in-kalaripayattu-for-hindi-remake-of-oppam-filming-to-begin-soon/articleshow/120846189.cms",
+    "content": "Saif Ali Khan will star in the Hindi remake of 'Oppam'. Priyadarshan will direct the film. Filming will begin by the end of 2025. Saif will play a blind character. He will train in Kalaripayattu for the role. He will take a break to prepare for the role. The original 'Oppam' was a Malayalam thriller.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Amid Tensions With Pak, PM Modi's \"Decisive Action Against Terrorism\" Vow",
-    "link": "https://www.ndtv.com/india-news/amid-tensions-with-pak-pm-modis-decisive-action-against-terrorism-vow-8319480#publisher=newsstand",
-    "content": "Prime Minister Narendra Modi said India is committed to taking \"firm and decisive action\" against terrorists and those who support them.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Pakistani singer Abida Parveen's Instagram account banned amid tensions with Pakistan",
+    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pakistani-singer-abida-parveens-instagram-account-banned-in-india-amid-growing-tensions-between-the-two-nations/articleshow/120844741.cms",
+    "content": "Renowned Pakistani Sufi singer Abida Parveen’s Instagram profile is no longer accessible to users in India.This move is part of the ongoing restrictions imposed on several prominent Pakistani celebrities following the recent terror attacks in Pahalgam, India.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Democracy Sausage, Voting In Swimsuits: Bizarre Polling Trends In Australia",
-    "link": "https://www.ndtv.com/world-news/democracy-sausage-voting-in-swimsuits-bizarre-polling-trends-in-australia-8319600#publisher=newsstand",
-    "content": "Not just in Australia, but these democracy sausages are also served at polling places for citizens abroad at Australian embassies in New York, Riyadh, Nairobi and Tokyo, and even at a research station in Antarctica.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'If Modi permits, I will go as suicide bomber in war against Pakistan': K'taka min",
+    "link": "https://timesofindia.indiatimes.com/city/hubballi/if-narendra-modi-permits-i-will-go-as-suicide-bomber-in-war-against-pakistan-karnataka-minister-b-z-zameer-ahmad-khan/articleshow/120842151.cms",
+    "content": "Karnataka Housing Minister Zameer Ahmad Khan declared his readiness to fight against Pakistan, even as a suicide bomber, if permitted by Prime Minister Modi, Amit Shah, and the central government. Khan emphasized his Indian identity and asserted Pakistan's status as an enemy, expressing his willingness to take up arms for the country. He stated his commitment was not a joke.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Pakistan Claims It Successfully Tested Ballistic Missile With 450 Km Range",
-    "link": "https://www.ndtv.com/world-news/pakistan-claims-it-successfully-tested-ballistic-missile-with-450-km-range-8319265#publisher=newsstand",
-    "content": "Pakistan has claimed to have successfully tested a surface-to-surface ballistic missile with a 450-km range on Saturday as part of a military exercise amid rising tensions with India in the aftermath of the Pahalgam terror attack.",
-    "category": "Global",
-    "sub_category": "General"
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Delhi caught napping! Rain brings the good, the bad, and the ugly",
+    "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-ncr-rain-why-weatherman-failed-to-predict-intensity-of-storm/articleshow/120839380.cms",
+    "content": "Delhi-NCR residents and even the IMD were caught off guard by Friday's intense thunderstorm and heavy rain. The IMD's nowcast failed to predict the storm's severity, with Safdarjung recording 60mm of rain in three hours. The confluence of intense heat, moisture from both the Arabian Sea and Bay of Bengal, strong westerlies, and a western disturbance created the potent storm.",
+    "category": "Local",
+    "sub_category": "Delhi"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "India Bans All Imports From Pakistan Amid Tensions Over Pahalgam Terror Attack",
-    "link": "https://www.ndtv.com/india-news/india-bans-all-imports-from-pakistan-amid-tensions-over-pahalgam-terror-attack-8318627#publisher=newsstand",
-    "content": "In another strict move against Pakistan, India has banned all imports from the neighbouring country amid soaring tensions over the Pahalgam terror attack.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "India suspends Pakistan's I&B minister Attaullah Tarar's X account",
+    "link": "https://timesofindia.indiatimes.com/india/after-khawaja-asif-india-suspends-pakistans-ib-minister-attaullah-tarars-x-account/articleshow/120841444.cms",
+    "content": "Amid rising tensions following the Pahalgam terror attack, India has withheld the X account of Pakistan's information minister, Attaullah Tarar, after he accused India of planning military action. This action follows a similar block on Pakistan's defense minister's account and a ban on 16 Pakistani YouTube channels for allegedly spreading misinformation.",
     "category": "Local",
     "sub_category": "India"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Donald Trump As Pope? US President Shares His AI Image In Papal Attire",
-    "link": "https://www.ndtv.com/world-news/donald-trump-as-pope-white-house-shares-ai-generated-image-of-president-in-papal-attire-8318811#publisher=newsstand",
-    "content": "Just a week after attending Pope Francis' funeral at the Vatican, Donald Trump expressed a desire to become the next head of the Catholic Church.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "From Chepauk to Eden Gardens: Does home advantage even exist in the IPL?",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-chepauk-to-eden-gardens-does-home-advantage-even-exist-in-the-ipl/articleshow/120789896.cms",
+    "content": "While home advantage is significant in many sports, its impact in the IPL is debatable. Factors like familiarity and crowd support are often nullified by diverse team compositions. Despite strong home records of teams like CSK and MI, recent seasons show a decline in home wins, sparking debate about pitch conditions and the extent of home advantage in the league.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "\"If India Attacks Pakistan...\": Muhammad Yunus Aide Snubs Bangladesh Ex-Officer's Remark",
-    "link": "https://www.ndtv.com/world-news/bangladesh-u-turn-after-retired-military-officers-occupy-northeast-call-8318516#publisher=newsstand",
-    "content": "Weeks after Muhammad Yunus' \"chicken's neck\" remark drew a sharp response from the Northeast's leaders, a retired Bangladesh officer has made a similar comment on the Indian region, referring to the soaring tensions over the Pahalgam terror attack.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Pakistan violates ceasefire for 9th day, Indian Army gives prompt response",
+    "link": "https://timesofindia.indiatimes.com/india/pakistan-violates-ceasefire-for-ninth-consecutive-day-indian-army-gives-prompt-response/articleshow/120839264.cms",
+    "content": "For nine consecutive days, Pakistan has violated the ceasefire along the Line of Control (LoC), prompting proportionate responses from the Indian Army. The unprovoked small-arms fire targeted areas including Kupwara, Uri, and Akhnoor in J&amp;K. Pakistan has put its armed forces on high alert fearing a military action by India.",
     "category": "Local",
     "sub_category": "India"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "\"Will Wear Suicide Bomb, Go To Pak\": Karnataka Minister's Bizarre Remark",
-    "link": "https://www.ndtv.com/india-news/india-pakistan-tensions-bz-zameer-ahmed-khan-karnataka-ministers-will-wear-suicide-bomb-go-to-pak-remark-goes-viral-after-pahalgam-terror-attack-8319205#publisher=newsstand",
-    "content": "Karnataka Minister BZ Zameer Ahmed Khan's remark came amid simmering tensions between India and Pakistan after a deadly attack in Jammu and Kashmir's Pahalgam.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "6 killed in Goa: How did the temple stampede occur?",
+    "link": "https://timesofindia.indiatimes.com/india/goa-stampede-several-people-killed-many-injured-at-lairai-devi-temple-shree-devi-lairai-jatra-cm-pramod-sawant-police-investigation-pics-videos-updates/articleshow/120839393.cms",
+    "content": "A tragic stampede at the Lairai Devi temple in Goa during the Shree Devi Lairai jatra has resulted in the death of at least six people and injuries to over 70 others. Authorities have initiated an emergency response, with the injured being shifted to nearby hospitals. The cause of the stampede is currently unknown, and investigations are underway as the chief minister assesses the situation.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Bhopal Sex Assault Accused Tries To Snatch Police Firearm, Gets Shot In Leg",
-    "link": "https://www.ndtv.com/india-news/bhopal-sex-assault-accused-tries-to-snatch-police-firearm-gets-shot-in-leg-8319295#publisher=newsstand",
-    "content": "A man, who allegedly sexually assaulted female students of a college in Bhopal, sustained a gunshot wound during an altercation with law enforcement officers.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Red Bull's plans spark water scarcity fears near Berlin",
+    "link": "https://timesofindia.indiatimes.com/world/europe/red-bulls-plans-spark-water-scarcity-fears-near-berlin/articleshow/120841823.cms",
+    "content": "In Baruth, Brandenburg, Red Bull's water extraction plans are facing scrutiny amid climate change concerns. While the mayor emphasizes job creation and sufficient water reserves, environmentalists worry about sustainability and potential contamination. A legal challenge seeks transparency regarding subsidies and water costs, highlighting the tension between economic development and environmental protection in a water-scarce region.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "8 Arrested In Killing Of Murder-Accused Suhas Shetty In Mangaluru",
-    "link": "https://www.ndtv.com/india-news/8-suspects-arrested-in-killing-of-murder-accused-in-mangaluru-8318870#publisher=newsstand",
-    "content": "The police had formed five special teams to apprehend the killers. All the accused are being interrogated.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Caste census merely first step': Tejashwi writes to PM Modi, bats for private quota",
+    "link": "https://timesofindia.indiatimes.com/india/caste-census-merely-first-step-tejashwi-yadav-writes-to-pm-modi-with-cautious-optimism-bats-for-private-sector-quota/articleshow/120841674.cms",
+    "content": "Tejashwi Yadav, RJD leader, urged Prime Minister Modi to reconsider the reservation cap after the caste census data is available, emphasizing the need for social justice and proportional representation. He highlighted the potential for the census to reveal significant underrepresentation of OBCs and EBCs, advocating for inclusivity in both political representation and the private sector, which benefits from public resources. ",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Haryana Calls For All-Party Meeting Amid Escalating Water Row With Punjab",
-    "link": "https://www.ndtv.com/india-news/haryana-calls-for-all-party-meeting-amid-escalating-water-row-with-punjab-8319057#publisher=newsstand",
-    "content": "The meeting is aimed at building a unified political stance on the state's long-standing contention with Punjab regarding water allocation from the Bhakra system.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Bihar's Saharsa airport runway turns exam centre for 300 job aspirants",
+    "link": "https://timesofindia.indiatimes.com/city/patna/students-use-saharsa-airport-runway-as-makeshift-exam-centre/articleshow/120829881.cms",
+    "content": "A viral video reveals students in Saharsa, Bihar, utilizing the airport runway as an exam center due to lack of space at coaching institutes. Despite a Rs 25 crore allocation for airport development under the UDAN scheme, the runway is being used for mock tests and physical training, raising questions about its intended purpose before flight operations commence.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "'Rebuild And Protect': Manipur's Meitei And Thadou Groups Call For Unity, Slam \"Supremacists\"",
-    "link": "https://www.ndtv.com/india-news/rebuild-and-protect-manipur-meitei-and-thadou-groups-call-for-unity-slam-kuki-supremacists-8315028#publisher=newsstand",
-    "content": "Five civil society groups of Manipur's Thadou tribe and the Meitei community have agreed to work on a 10-point plan to bring peace and protect the territorial integrity of the state bordering Myanmar.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Is it a bird, car or chopper? UP cops clip wings of man’s ‘jugaad helicopter’",
+    "link": "https://timesofindia.indiatimes.com/city/lucknow/up-cops-ground-chopper-car-fine-owner-25k/articleshow/120830713.cms",
+    "content": "Dinesh Patel from Jaunpur modified his Santro into a 'car-copter' hoping to capitalize on wedding season rentals. However, Pratapgarh police seized the vehicle and issued a Rs 25,000 fine for violating the Motor Vehicles Act. The unauthorized modifications and safety concerns led to the car's impoundment during a vehicle check.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "NEET-UG mock drills underway across centres ahead of May 4 entrance exam",
+    "link": "https://www.thehindu.com/news/national/neet-ug-mock-drills-underway-across-centres-ahead-of-may-4-entrance-exam/article69534128.ece",
+    "content": "The Ministry has said that candidates found indulging in unfair means – before, during, or after the examination – will be booked under Unfair Means (UFM) and penalised accordingly.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "PM Modi announces $200 million for modernisation of Angolan armed forces",
+    "link": "https://www.thehindu.com/news/national/pm-modi-announces-200-million-for-modernisation-of-angolan-armed-forces/article69534150.ece",
+    "content": "PM Modi made the remarks after holding wide-ranging talks with Angolan President Joao Manuel Goncalves Laurenco that focused on ramping up overall bilateral ties, including in areas of digital public infrastructure",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Madras High Court lays down guidelines to prevent harassment complaints against T.N. police personnel ",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-lays-down-guidelines-to-prevent-harassment-complaints-against-tn-police-personnel/article69533805.ece",
+    "content": "Justice G.K. Ilanthiraiyan insists on issuing written summons to individuals called for inquiry and recording the minutes in the station diary ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Bridge across Sharavati backwaters to be inaugurated in monsoon ",
+    "link": "https://www.thehindu.com/news/national/karnataka/bridge-across-sharavati-backwaters-to-be-inaugurated-in-monsoon/article69509017.ece",
+    "content": "Shivamogga MP B.Y. Raghavendra has requested Prime Minister Narendra Modi and Union Minister Nitin Gadkari to inaugurate the project",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Nepali gang working as domestic help drug elderly couple in Hyderabad, loot 1 kg gold; police issues look out notice",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/nepalese-working-as-domestic-help-drug-elderly-couple-in-hyderabad-loot-1-kg-gold-police-issues-look-out-notice/article69533886.ece",
+    "content": "Hyderabad police have urged residents to conduct thorough background checks and police verifications before hiring domestic help",
     "category": "Global",
     "sub_category": "General"
 },
@@ -600,6 +832,110 @@
     "sub_category": "General"
 },
 {
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "History Of Pakistan's Terror Track Record And \"Neutral Probe\" Calls",
+    "link": "https://www.ndtv.com/world-news/history-of-pakistans-terror-track-record-and-neutral-probe-calls-8320157#publisher=newsstand",
+    "content": "Beyond the barbed wire fences at the Line of Control are terror launchpads that have one routine task: sending terrorists across the boundary into Jammu and Kashmir.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Man's Decomposed Body Found Inside House After He Went 'Missing' In Delhi",
+    "link": "https://www.ndtv.com/india-news/mans-decomposed-body-found-inside-house-after-he-went-missing-in-south-delhi-malviya-nagar-8320062#publisher=newsstand",
+    "content": "A decomposed body of a 32-year-old man was found inside a locked house in south Delhi's Malviya Nagar area, police said on Saturday.",
+    "category": "Local",
+    "sub_category": "Delhi"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Dinner Parties, Lobbying. What Goes On Behind Closed Doors To Elect Pope",
+    "link": "https://www.ndtv.com/world-news/dinner-parties-lobbying-what-goes-on-behind-closed-doors-to-elect-pope-8319899#publisher=newsstand",
+    "content": "It was in the period of pre-conclave huddling in March of 2013 that the dinner table lobbying worked and Pope Francis won on the fifth ballot.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "\"50,000 To 70,000 People Were Present\": President Of Goa Temple On Stampede",
+    "link": "https://www.ndtv.com/india-news/goa-shirgaon-temple-stampede-50-000-to-70-000-people-were-present-president-of-goas-lairai-devi-temple-on-stampede-8319929#publisher=newsstand",
+    "content": "North Goa Superintendent of Police (SP) Akshat Kaushal on Saturday said that we are still trying to determine the exact cause of the stampede incident.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "PM Modi Announces $200 Million For Mordernisation Of Angolan Armed Forces",
+    "link": "https://www.ndtv.com/india-news/pm-modi-announces-200-million-for-mordernisation-of-angolan-armed-forces-8319911#publisher=newsstand",
+    "content": "Prime Minister Narendra Modi announced a USD 200 million defence credit line for Angola and expressed commitment to act firmly and decisively against terrorists and their backers, an assertion that came days after the Pahalgam terror strikes.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Pahalgam Terror Attack Live Updates: Pakistan Claims It Tested Ballistic Missiles",
+    "link": "https://www.ndtv.com/india-news/pahalgam-terror-attack-updates-pak-violates-ceasefire-again-us-backs-india-8309994#publisher=newsstand",
+    "content": "Pahalgam Terrorist Attack LIVE Updates: Pakistani troops continued ceasefire violations along the Line of Control (LoC) for the ninth consecutive night on Saturday.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "After Imports, Ships Bearing Pakistan Flag Banned From Entering Indian Waters",
+    "link": "https://www.ndtv.com/india-news/after-imports-ships-bearing-pakistan-flag-banned-from-entering-indian-waters-8319846#publisher=newsstand",
+    "content": "After banning all imports from Pakistan, India on Saturday barred Pakistan-flagged ships from entering any of its ports, following the barbaric attack in Jammu and Kashmir's Pahalgam, which took 26 lives.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Thane Man Finds Wife, 3 Daughters Dead At Home, Suicide Note Recovered",
+    "link": "https://www.ndtv.com/india-news/woman-3-daughters-found-dead-at-home-in-maharashtra-suicide-note-recovered-8319213#publisher=newsstand",
+    "content": "The incident took place in the Bhiwandi area and came to light when the woman's husband returned home after his night shift and found the door closed.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Amid Tensions With Pak, PM Modi's \"Decisive Action Against Terrorism\" Vow",
+    "link": "https://www.ndtv.com/india-news/amid-tensions-with-pak-pm-modis-decisive-action-against-terrorism-vow-8319480#publisher=newsstand",
+    "content": "Prime Minister Narendra Modi said India is committed to taking \"firm and decisive action\" against terrorists and those who support them.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Democracy Sausage, Voting In Swimsuits: Bizarre Polling Trends In Australia",
+    "link": "https://www.ndtv.com/world-news/democracy-sausage-voting-in-swimsuits-bizarre-polling-trends-in-australia-8319600#publisher=newsstand",
+    "content": "Not just in Australia, but these democracy sausages are also served at polling places for citizens abroad at Australian embassies in New York, Riyadh, Nairobi and Tokyo, and even at a research station in Antarctica.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Pakistan Claims It Successfully Tested Ballistic Missile With 450 Km Range",
+    "link": "https://www.ndtv.com/world-news/pakistan-claims-it-successfully-tested-ballistic-missile-with-450-km-range-8319265#publisher=newsstand",
+    "content": "Pakistan has claimed to have successfully tested a surface-to-surface ballistic missile with a 450-km range on Saturday as part of a military exercise amid rising tensions with India in the aftermath of the Pahalgam terror attack.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "India Bans All Imports From Pakistan Amid Tensions Over Pahalgam Terror Attack",
+    "link": "https://www.ndtv.com/india-news/india-bans-all-imports-from-pakistan-amid-tensions-over-pahalgam-terror-attack-8318627#publisher=newsstand",
+    "content": "In another strict move against Pakistan, India has banned all imports from the neighbouring country amid soaring tensions over the Pahalgam terror attack.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Donald Trump As Pope? US President Shares His AI Image In Papal Attire",
+    "link": "https://www.ndtv.com/world-news/donald-trump-as-pope-white-house-shares-ai-generated-image-of-president-in-papal-attire-8318811#publisher=newsstand",
+    "content": "Just a week after attending Pope Francis' funeral at the Vatican, Donald Trump expressed a desire to become the next head of the Catholic Church.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "If India attacks Pakistan, Bangladesh should occupy Northeastern States: Muhammad Yunus' aide",
     "link": "https://www.thehindu.com/news/international/if-india-attacks-pakistan-bangladesh-should-occupy-northeastern-states-muhammad-yunus-aide/article69533502.ece",
@@ -625,7 +961,7 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Maoist gunned down in encounter with security personnel in Chhattisgarh",
+    "title": "Maoist carrying ₹8 lakh bounty killed in encounter with security forces in Chhattisgarh",
     "link": "https://www.thehindu.com/news/national/chhattisgarh/maoist-gunned-down-in-encounter-with-security-personnel-in-chhattisgarh/article69533514.ece",
     "content": "The gunfight took place on Friday (May 2, 2025) night in a forest under the Jugad police station limits where a team of security personnel was out on an anti-Maoist operation",
     "category": "Global",
@@ -672,102 +1008,6 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "After PM Modi, Rajnath to skip Russia's Victory Day parade: Report",
-    "link": "https://timesofindia.indiatimes.com/india/after-pm-modi-rajnath-singh-to-skip-russias-victory-day-parade-junior-minister-sanjay-seth-to-attend-report/articleshow/120847712.cms",
-    "content": "Defence Minister Rajnath Singh is unlikely to attend Russia's Victory Day parade on May 9, with Minister of State for Defence Sanjay Seth expected to represent India. This decision occurs amidst heightened tensions between India and Pakistan following the recent terror attack in Pahalgam. Russia had initially invited Prime Minister Narendra Modi to the event.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Pakistan says there's 'imminent threat of kinetic action' by India",
-    "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-pakistan-says-theres-imminent-threat-of-kinetic-action-by-india/articleshow/120843715.cms",
-    "content": "Pakistan has expressed concerns over a potential military response from India following the Pahalgam terror attack, citing intelligence suggesting an \"imminent threat of kinetic action.\" Pakistan's UN ambassador warned that obstructing Indus waters would be considered an act of war, vowing retaliation. On April 24, PM Modi pledged strong action against those responsible for the Pahalgam terror attack.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Virat Kohli memes break internet for ‘liking’ Avneet Kaur photo",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-memes-break-internet-for-liking-avneet-kaur-instagram-photo/articleshow/120847484.cms",
-    "content": "Virat Kohli's recent 'like' on an Avneet Kaur fan page sparked a social media frenzy, prompting him to clarify it was an algorithmic error. Despite the online buzz, Kohli remains focused on his performance in the IPL 2025, where he has been instrumental for Royal Challengers Bengaluru.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Parents catch son, girlfriend eating chowmein, thrash them in public in Kanpur",
-    "link": "https://timesofindia.indiatimes.com/city/kanpur/thrashed-with-slippers-parents-assault-son-girlfriend-in-public-after-catching-them-eating-chowmein-in-kanpur/articleshow/120844415.cms",
-    "content": "A shocking incident happened in Kanpur. Parents assaulted their son and his girlfriend publicly. The incident occurred at Ram Gopal intersection. Shiv Karan and Sushila disapproved of their son's relationship. They attacked the couple at a street-side eatery. Police intervened and separated the parties. Gujaini police are investigating the matter. Legal action is underway following counseling.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Pahalgam terror attack: The banned Chinese smartphone link that NIA is probing",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/pahalgam-terror-attack-the-banned-chinese-smartphone-link-that-nia-is-probing/articleshow/120847589.cms",
-    "content": "The NIA has taken over the Pahalgam terror attack investigation, prompted by the detection of a banned Huawei satellite phone in the area. The attack, which killed 26, is claimed by the Pakistan-backed TRF. Security agencies are working with Western partners to track the device and investigate potential links to foreign entities.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Aggressive rehna hai': Bumrah's masterclass for Deshpande - Watch!",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mindset-wise-aggressive-rehna-hai-jasprit-bumrahs-masterclass-for-tushar-deshpande-watch/articleshow/120848439.cms",
-    "content": "Following Mumbai Indians' dominant victory over Rajasthan Royals, Jasprit Bumrah, known for his exceptional pace bowling, shared invaluable insights with RR's Tushar Deshpande on cultivating a winning mindset. Bumrah emphasised the importance of aggressive thinking, focusing on dismissing the batter rather than solely preventing boundaries.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Pakistan flags painted on roads spark tension in Goa",
-    "link": "https://timesofindia.indiatimes.com/city/goa/pakistan-flags-painted-on-roads-spark-tension-in-canacona/articleshow/120833376.cms",
-    "content": "Tension escalated in Canacona as Pakistani flags were discovered painted on roads at key locations early Friday, raising concerns about potential communal disharmony. Goa assembly speaker Ramesh Tawadkar filed a police complaint, urging a thorough investigation. Locals questioned the effectiveness of night patrolling, while community leaders appealed for calm. Police are reviewing CCTV footage to identify the culprits.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Pahalgam terror attack: India bans all imports from Pakistan",
-    "link": "https://timesofindia.indiatimes.com/india/pahalgam-terror-attack-india-bans-all-imports-from-pakistan/articleshow/120843636.cms",
-    "content": "Following the deadly Pahalgam terror attack, India has banned all direct and indirect imports from Pakistan, effective immediately. The Directorate General of Foreign Trade announced the decision on May 2, citing national security and public policy concerns.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Google changes its appraisal program, VP emails to employees: \"We want to be upfront that...\"",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-changes-its-appraisal-program-vp-emails-to-employees-we-want-to-be-upfront-that-/articleshow/120841762.cms",
-    "content": "Google is revamping its employee performance review system to reward top performers with increased bonuses and equity, aiming to incentivize high achievement across the company. To fund these enhanced rewards for those achieving \"Outstanding Impact,\" the company will slightly reduce bonus and equity multipliers for employees with \"Significant Impact\" and \"Moderate Impact\" ratings, ensuring a budget-neutral adjustment.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Caught on camera! Nehra's 'secret signals' to Siraj and Prasidh",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/caught-on-camera-ashish-nehras-secret-signals-to-mohammed-siraj-and-prasidh-krishna-watch/articleshow/120847385.cms",
-    "content": "Gujarat Titans defeated Sunrisers Hyderabad by 38 runs in their IPL 2025 match, propelled by Shubman Gill's explosive 76 and Jos Buttler's rapid 64, setting a target of 224/6. Despite Abhishek Sharma's valiant 74, SRH were restricted to 186/6 by disciplined bowling from Prasidh Krishna and Mohammed Siraj. This victory elevates GT to second place in the standings.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Becoming a troubling norm': Supriya Sule slams Air India over delays again",
-    "link": "https://timesofindia.indiatimes.com/city/delhi/becoming-a-troubling-norm-supriya-sule-slams-air-india-over-delays-again/articleshow/120841744.cms",
-    "content": "NCP-SP MP Supriya Sule has once again criticized Air India for repeated flight delays, highlighting a recent incident where her Delhi flight was delayed twice, leaving passengers stranded. Sule urged Union Civil Aviation Minister Ram Mohan Naidu Kinjarapu to intervene, calling the delays a \"troubling norm.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Zomato 'quietly ends' the food delivery service it started just 4 months back",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/zomato-quietly-ends-the-food-delivery-it-started-4-months-back/articleshow/120793334.cms",
-    "content": "Zomato has quietly removed its 15-minute food delivery service, Quick, from its app after just four months, hinting at a change in its rapid delivery strategy. This follows the shutdown of Zomato Instant in 2023. The company is now focusing on Bistro by Blinkit for quick snack deliveries amid increasing competition, separating it from the main restaurant delivery service.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Caste census: Tejashwi writes to PM Modi, demands reservation in private sector and judiciary",
     "link": "https://www.thehindu.com/news/national/caste-census-tejashwi-writes-to-pm-modi-demands-reservation-in-private-sector-and-judiciary/article69533378.ece",
@@ -804,6 +1044,54 @@
     "title": "Mild tremor hits north Gujarat; no casualty",
     "link": "https://www.thehindu.com/news/national/gujarat/mild-tremor-hits-north-gujarat-no-casualty/article69533365.ece",
     "content": "The tremor, with its epicentre near Vav in Banaskantha district, was recorded at 3.35 am on May 3, 2025",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "\"If India Attacks Pakistan...\": Muhammad Yunus Aide Snubs Bangladesh Ex-Officer's Remark",
+    "link": "https://www.ndtv.com/world-news/bangladesh-u-turn-after-retired-military-officers-occupy-northeast-call-8318516#publisher=newsstand",
+    "content": "Weeks after Muhammad Yunus' \"chicken's neck\" remark drew a sharp response from the Northeast's leaders, a retired Bangladesh officer has made a similar comment on the Indian region, referring to the soaring tensions over the Pahalgam terror attack.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "\"Will Wear Suicide Bomb, Go To Pak\": Karnataka Minister's Bizarre Remark",
+    "link": "https://www.ndtv.com/india-news/india-pakistan-tensions-bz-zameer-ahmed-khan-karnataka-ministers-will-wear-suicide-bomb-go-to-pak-remark-goes-viral-after-pahalgam-terror-attack-8319205#publisher=newsstand",
+    "content": "Karnataka Minister BZ Zameer Ahmed Khan's remark came amid simmering tensions between India and Pakistan after a deadly attack in Jammu and Kashmir's Pahalgam.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Bhopal Sex Assault Accused Tries To Snatch Police Firearm, Gets Shot In Leg",
+    "link": "https://www.ndtv.com/india-news/bhopal-sex-assault-accused-tries-to-snatch-police-firearm-gets-shot-in-leg-8319295#publisher=newsstand",
+    "content": "A man, who allegedly sexually assaulted female students of a college in Bhopal, sustained a gunshot wound during an altercation with law enforcement officers.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "8 Arrested In Killing Of Murder-Accused Suhas Shetty In Mangaluru",
+    "link": "https://www.ndtv.com/india-news/8-suspects-arrested-in-killing-of-murder-accused-in-mangaluru-8318870#publisher=newsstand",
+    "content": "The police had formed five special teams to apprehend the killers. All the accused are being interrogated.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Haryana Calls For All-Party Meeting Amid Escalating Water Row With Punjab",
+    "link": "https://www.ndtv.com/india-news/haryana-calls-for-all-party-meeting-amid-escalating-water-row-with-punjab-8319057#publisher=newsstand",
+    "content": "The meeting is aimed at building a unified political stance on the state's long-standing contention with Punjab regarding water allocation from the Bhakra system.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "'Rebuild And Protect': Manipur's Meitei And Thadou Groups Call For Unity, Slam \"Supremacists\"",
+    "link": "https://www.ndtv.com/india-news/rebuild-and-protect-manipur-meitei-and-thadou-groups-call-for-unity-slam-kuki-supremacists-8315028#publisher=newsstand",
+    "content": "Five civil society groups of Manipur's Thadou tribe and the Meitei community have agreed to work on a 10-point plan to bring peace and protect the territorial integrity of the state bordering Myanmar.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -860,110 +1148,6 @@
     "title": "Pahalgam terror attack: EAM Jaishankar speaks to European Union counterpart Kaja Kallas",
     "link": "https://www.thehindu.com/news/national/pahalgam-terror-attack-eam-jaishankar-speaks-to-european-union-counterpart-kaja-kallas/article69533208.ece",
     "content": "European Union urges India and Pakistan to show restraint and pursue dialogue amid rising tensions over Pahalgam attack",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "India extends $200m defence credit line to Angola",
-    "link": "https://timesofindia.indiatimes.com/india/200m-defence-credit-line-cooperation-in-public-infra-space-tech-pm-modi-holds-bilateral-talks-with-angolas-president-lourenco-terrorism/articleshow/120847093.cms",
-    "content": "Prime Minister Modi and Angolan President Lourenco convened in New Delhi, reaffirming India's dedication to strengthening ties with Angola and the broader African continent. Discussions centered on enhancing cooperation in agriculture, traditional medicine, and cultural exchange. Modi emphasised India's commitment to decisive action against terrorism.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "‘Continues to avoid Manipur’: Congress targets PM Modi after two years of conflict",
-    "link": "https://timesofindia.indiatimes.com/india/continues-to-avoid-and-shun-manipur-congress-targets-pm-modi-after-two-years-of-conflict/articleshow/120846864.cms",
-    "content": "On the second anniversary of Manipur's ethnic violence, Congress criticizes Prime Minister Modi for allegedly ignoring the state's unrest, highlighting the delayed government response and the ongoing suffering of displaced people. The party points out the Prime Minister's absence from Manipur and questions the effectiveness of the Union Home Minister.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Born to serve my country': Cop, family spared deportation to Pak after HC steps in",
-    "link": "https://timesofindia.indiatimes.com/india/born-to-serve-jk-police-and-my-country-policeman-iftkhar-ali-family-spared-deportation-to-pakistan-after-hc-steps-in/articleshow/120847465.cms",
-    "content": "Iftkhar Ali, a Jammu and Kashmir policeman, and his eight siblings narrowly escaped deportation to Pakistan after a court intervention. Ali, who has served in the police force for 27 years, believes the deportation notice was a conspiracy stemming from a land dispute. The family's citizenship status remains pending despite being admitted as permanent residents in the late 1990s.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'BJP regime fears questions': CM Stalin slams Centre over press freedom",
-    "link": "https://timesofindia.indiatimes.com/india/bjp-regime-fears-questions-cm-stalin-takes-shot-at-centre-over-indias-rank-in-global-press-freedom-index/articleshow/120847145.cms",
-    "content": "On World Press Freedom Day, Tamil Nadu CM MK Stalin criticized the BJP-led Union government for allegedly suppressing journalism and diminishing press freedom in India. He highlighted India's low ranking of 151 in the Global Press Freedom Index, accusing the BJP of silencing dissenting voices through raids and imprisonment of reporters.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Pakistan claims it successfully tested surface-to-surface missile of 450km range",
-    "link": "https://timesofindia.indiatimes.com/india/reckless-provocation-indian-officials-on-pakistans-proposed-testing-of-surface-to-surface-ballistic-missiles/articleshow/120843087.cms",
-    "content": "Amid heightened tensions following the Pahalgam terrorist attack, Pakistan's planned surface-to-surface ballistic missile test is viewed by New Delhi as a reckless provocation. Indian officials perceive this as a dangerous escalation, especially with recent ceasefire violations along the LoC. Despite issuing multiple NOTAMs, Pakistan has yet to conduct any missile firings, raising concerns about escalating tensions further.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'If RCB want to win the IPL, they must ...': Former India cricketer",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/if-rcb-want-to-win-the-ipl-they-must-former-india-cricketer-on-key-to-ending-trophy-drought/articleshow/120847067.cms",
-    "content": "Aakash Chopra emphasises the importance of a top-two finish for Royal Challengers Bengaluru to secure their first IPL title, as history favours teams finishing in the top two. While RCB eye a crucial win against Chennai Super Kings to solidify their playoff chances, Chopra urges captain Rajat Patidar to regain batting consistency for a successful campaign.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Trident of naval power': Indian Navy's showcase of strength",
-    "link": "https://timesofindia.indiatimes.com/india/trident-of-naval-power-indian-navys-latest-post-amid-tensions-with-pakistan/articleshow/120844411.cms",
-    "content": "Amid heightened India-Pakistan tensions following the Pahalgam attack, the Indian Navy showcased its naval power with a picture of a ship, submarine, and helicopter. While the Dhruv ALH in the image is currently grounded, the Navy's display coincides with extensive drills in the Arabian Sea.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Kohli goes down memory lane: When he bagged a Rs 20 lakh contract",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohli-goes-down-memory-lane-when-he-bagged-a-rs-20-lakh-contract-at-ipl-auction/articleshow/120842451.cms",
-    "content": "Ahead of Royal Challengers Bengaluru's match against Chennai Super Kings, ex-RCB skipper went down memory lane to recall the moment and scenes when he and his teammates were picked up by franchises for Rs 20 lakh during the early years of the IPL.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Teen girl's body found hanging from tree in Delhi's Japanese Park",
-    "link": "https://timesofindia.indiatimes.com/city/delhi/teen-girls-body-found-hanging-from-tree-in-delhis-japanese-park/articleshow/120843068.cms",
-    "content": "A teenage girl was found hanging in Japanese Park, Rohini. The discovery occurred early Saturday morning. Police suspect suicide in this case. The girl's identity is currently unknown. Authorities are investigating the scene. Forensic teams are examining the area. The body has been sent for post-mortem. Police are checking missing person reports.",
-    "category": "Local",
-    "sub_category": "Delhi"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "CIA, NSA to face major layoffs as Trump pushes intelligence reform",
-    "link": "https://timesofindia.indiatimes.com/world/us/cia-nsa-to-face-major-layoffs-as-trump-pushes-intelligence-reform/articleshow/120844334.cms",
-    "content": "The Trump administration initiated significant personnel cuts across key US intelligence agencies like the CIA and NSA, aiming to align with national security and budgetary priorities. These reductions, achieved through reduced hiring and early retirement, have eliminated hundreds of positions. Critics, including Senator Mark Warner, warn that these cuts could weaken national security and increase counterintelligence risks.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Watch: Moment when stampede broke out at Goa temple",
-    "link": "https://timesofindia.indiatimes.com/city/goa/watch-moment-when-stampede-broke-out-at-goa-temple/articleshow/120843182.cms",
-    "content": "A tragic stampede at Goa's Sree Lairai Devi temple during the Lairai Zatra festival has claimed at least six lives and injured 60 others. The incident occurred early Saturday morning as thousands of devotees gathered. Chief Minister Pramod Sawant has assured support to the affected families, while PM Narendra Modi has offered central assistance.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Two years of Manipur conflict: Thousands wait to go home",
-    "link": "https://timesofindia.indiatimes.com/city/imphal/two-years-of-manipur-conflict-thousands-wait-to-go-home/articleshow/120842226.cms",
-    "content": "Two years after ethnic conflict erupted in Manipur, thousands remain displaced, struggling with lost livelihoods and uncertain futures. G Kipgen, once a coaching institute owner, now worries about his children's future. Abung, a Meitei businessman, yearns for his home. Despite government efforts, deep insecurity and psychological distress persist among IDPs, with civil society demands and armed groups hindering peace.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Mangaluru murder case: 8 arrested in killing of Hindu activist Suhas Shetty",
-    "link": "https://timesofindia.indiatimes.com/city/mangaluru/8-arrested-in-killing-of-hindu-activist-suhas-shetty/articleshow/120844319.cms",
-    "content": "Karnataka police have apprehended eight individuals concerning the murder of Hindu activist Suhas Shetty. The attack occurred on Thursday night near Kinnipadavu Cross, where Shetty was ambushed by armed assailants. Shetty, who had a criminal record and was implicated in the 2022 killing of Mohammed Fazil, succumbed to his injuries after being hospitalized. Police are investigating the motive behind the attack.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1064,118 +1248,6 @@
     "sub_category": "Bengaluru"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "1 dead, 3 injured as speeding Mercedes hits bike, falls off bridge",
-    "link": "https://timesofindia.indiatimes.com/city/pune/1-dead-3-injured-as-speeding-mercedes-hits-bike-falls-off-bridge-in-pune/articleshow/120844180.cms",
-    "content": "A tragic incident occurred in Pune's Sinhgad Road area early Saturday when a speeding Mercedes collided with a motorcycle on Wadgaon bridge. The impact caused the car to fall off the bridge, resulting in the death of the motorcyclist. The pillion rider and the car's occupants sustained injuries, and the driver has been arrested for culpable homicide.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Make Vatican great again? Trump shares AI image after joking about becoming Pope",
-    "link": "https://timesofindia.indiatimes.com/world/us/make-vatican-great-again-trump-shares-ai-image-after-joking-about-becoming-pope/articleshow/120842463.cms",
-    "content": "Donald Trump, after joking about becoming Pope, posted an AI-generated image of himself in papal attire on Truth Social, sparking widespread reactions. This occurred as the Catholic Church prepares for a conclave on May 7 to elect a new Pope following Pope Francis's death. Several cardinals, including Parolin, Tagle, Ambongo, Zuppi, and Erdo, are considered potential successors.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Pahalgam fallout: Fearing India hit, Pak empties out terror launch pads off LoC",
-    "link": "https://timesofindia.indiatimes.com/india/pahalgam-fallout-fearing-india-hit-pakistan-empties-out-terror-launch-pads-off-loc/articleshow/120834528.cms",
-    "content": "Following the Pahalgam terror attack in Jammu and Kashmir, intelligence reports indicate that numerous Pakistani terrorists have retreated from the launchpads in Pakistan-Occupied Kashmir (POK) to deeper locations within POK and Pakistan. This withdrawal comes amid fears of retaliatory strikes by the Indian forces, reminiscent of the 2019 surgical strikes.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Saif Ali Khan to train in Kalaripayattu for hindi remake of 'Oppam'; Filming to begin soon",
-    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-to-train-in-kalaripayattu-for-hindi-remake-of-oppam-filming-to-begin-soon/articleshow/120846189.cms",
-    "content": "Saif Ali Khan will star in the Hindi remake of 'Oppam'. Priyadarshan will direct the film. Filming will begin by the end of 2025. Saif will play a blind character. He will train in Kalaripayattu for the role. He will take a break to prepare for the role. The original 'Oppam' was a Malayalam thriller.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Pakistani singer Abida Parveen's Instagram account banned amid tensions with Pakistan",
-    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pakistani-singer-abida-parveens-instagram-account-banned-in-india-amid-growing-tensions-between-the-two-nations/articleshow/120844741.cms",
-    "content": "Renowned Pakistani Sufi singer Abida Parveen’s Instagram profile is no longer accessible to users in India.This move is part of the ongoing restrictions imposed on several prominent Pakistani celebrities following the recent terror attacks in Pahalgam, India.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'If Modi permits, I will go as suicide bomber in war against Pakistan': K'taka min",
-    "link": "https://timesofindia.indiatimes.com/city/hubballi/if-narendra-modi-permits-i-will-go-as-suicide-bomber-in-war-against-pakistan-karnataka-minister-b-z-zameer-ahmad-khan/articleshow/120842151.cms",
-    "content": "Karnataka Housing Minister Zameer Ahmad Khan declared his readiness to fight against Pakistan, even as a suicide bomber, if permitted by Prime Minister Modi, Amit Shah, and the central government. Khan emphasized his Indian identity and asserted Pakistan's status as an enemy, expressing his willingness to take up arms for the country. He stated his commitment was not a joke.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Delhi caught napping! Rain brings the good, the bad, and the ugly",
-    "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-ncr-rain-why-weatherman-failed-to-predict-intensity-of-storm/articleshow/120839380.cms",
-    "content": "Delhi-NCR residents and even the IMD were caught off guard by Friday's intense thunderstorm and heavy rain. The IMD's nowcast failed to predict the storm's severity, with Safdarjung recording 60mm of rain in three hours. The confluence of intense heat, moisture from both the Arabian Sea and Bay of Bengal, strong westerlies, and a western disturbance created the potent storm.",
-    "category": "Local",
-    "sub_category": "Delhi"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "India suspends Pakistan's I&B minister Attaullah Tarar's X account",
-    "link": "https://timesofindia.indiatimes.com/india/after-khawaja-asif-india-suspends-pakistans-ib-minister-attaullah-tarars-x-account/articleshow/120841444.cms",
-    "content": "Amid rising tensions following the Pahalgam terror attack, India has withheld the X account of Pakistan's information minister, Attaullah Tarar, after he accused India of planning military action. This action follows a similar block on Pakistan's defense minister's account and a ban on 16 Pakistani YouTube channels for allegedly spreading misinformation.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "From Chepauk to Eden Gardens: Does home advantage even exist in the IPL?",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-chepauk-to-eden-gardens-does-home-advantage-even-exist-in-the-ipl/articleshow/120789896.cms",
-    "content": "While home advantage is significant in many sports, its impact in the IPL is debatable. Factors like familiarity and crowd support are often nullified by diverse team compositions. Despite strong home records of teams like CSK and MI, recent seasons show a decline in home wins, sparking debate about pitch conditions and the extent of home advantage in the league.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Pakistan violates ceasefire for 9th day, Indian Army gives prompt response",
-    "link": "https://timesofindia.indiatimes.com/india/pakistan-violates-ceasefire-for-ninth-consecutive-day-indian-army-gives-prompt-response/articleshow/120839264.cms",
-    "content": "For nine consecutive days, Pakistan has violated the ceasefire along the Line of Control (LoC), prompting proportionate responses from the Indian Army. The unprovoked small-arms fire targeted areas including Kupwara, Uri, and Akhnoor in J&amp;K. Pakistan has put its armed forces on high alert fearing a military action by India.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "6 killed in Goa: How did the temple stampede occur?",
-    "link": "https://timesofindia.indiatimes.com/india/goa-stampede-several-people-killed-many-injured-at-lairai-devi-temple-shree-devi-lairai-jatra-cm-pramod-sawant-police-investigation-pics-videos-updates/articleshow/120839393.cms",
-    "content": "A tragic stampede at the Lairai Devi temple in Goa during the Shree Devi Lairai jatra has resulted in the death of at least six people and injuries to over 70 others. Authorities have initiated an emergency response, with the injured being shifted to nearby hospitals. The cause of the stampede is currently unknown, and investigations are underway as the chief minister assesses the situation.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Red Bull's plans spark water scarcity fears near Berlin",
-    "link": "https://timesofindia.indiatimes.com/world/europe/red-bulls-plans-spark-water-scarcity-fears-near-berlin/articleshow/120841823.cms",
-    "content": "In Baruth, Brandenburg, Red Bull's water extraction plans are facing scrutiny amid climate change concerns. While the mayor emphasizes job creation and sufficient water reserves, environmentalists worry about sustainability and potential contamination. A legal challenge seeks transparency regarding subsidies and water costs, highlighting the tension between economic development and environmental protection in a water-scarce region.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Caste census merely first step': Tejashwi writes to PM Modi, bats for private quota",
-    "link": "https://timesofindia.indiatimes.com/india/caste-census-merely-first-step-tejashwi-yadav-writes-to-pm-modi-with-cautious-optimism-bats-for-private-sector-quota/articleshow/120841674.cms",
-    "content": "Tejashwi Yadav, RJD leader, urged Prime Minister Modi to reconsider the reservation cap after the caste census data is available, emphasizing the need for social justice and proportional representation. He highlighted the potential for the census to reveal significant underrepresentation of OBCs and EBCs, advocating for inclusivity in both political representation and the private sector, which benefits from public resources. ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Bihar's Saharsa airport runway turns exam centre for 300 job aspirants",
-    "link": "https://timesofindia.indiatimes.com/city/patna/students-use-saharsa-airport-runway-as-makeshift-exam-centre/articleshow/120829881.cms",
-    "content": "A viral video reveals students in Saharsa, Bihar, utilizing the airport runway as an exam center due to lack of space at coaching institutes. Despite a Rs 25 crore allocation for airport development under the UDAN scheme, the runway is being used for mock tests and physical training, raising questions about its intended purpose before flight operations commence.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": " Trinamool MP Yusuf Pathan seeks Home Minister’s intervention over alleged assault on migrant workers from Bengal in Odisha",
     "link": "https://www.thehindu.com/news/national/tmc-mp-yusuf-pathan-seeks-home-ministers-intervention-over-alleged-assault-on-migrant-workers-from-wb-in-odisha/article69531702.ece",
@@ -1216,30 +1288,6 @@
     "sub_category": "India"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Is it a bird, car or chopper? UP cops clip wings of man’s ‘jugaad helicopter’",
-    "link": "https://timesofindia.indiatimes.com/city/lucknow/up-cops-ground-chopper-car-fine-owner-25k/articleshow/120830713.cms",
-    "content": "Dinesh Patel from Jaunpur modified his Santro into a 'car-copter' hoping to capitalize on wedding season rentals. However, Pratapgarh police seized the vehicle and issued a Rs 25,000 fine for violating the Motor Vehicles Act. The unauthorized modifications and safety concerns led to the car's impoundment during a vehicle check.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Russia strikes Ukraine's Kharkiv with Iranian-made drones, 40 injured",
-    "link": "https://timesofindia.indiatimes.com/world/europe/russia-strikes-ukraines-kharkiv-with-iranian-made-drones-40-injured/articleshow/120841404.cms",
-    "content": "A Russian drone strike, utilizing Iranian-made Shahed drones, targeted Kharkiv, Ukraine's second-largest city, injuring over 40 people, including an 11-year-old girl. President Zelenskyy condemned the attack on residential areas and civilian infrastructure, emphasizing the lack of military targets. He urged world leaders to bolster Ukraine's air defenses, while a separate Russian strike on Zaporizhzhia wounded over 20.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Australia election slangs: From 'donkey voting' to 'corflute' and 'tradies'",
-    "link": "https://timesofindia.indiatimes.com/world/rest-of-world/australia-elections-from-donkey-voting-to-corflute-and-tradies-all-the-slangs-you-need-to-know/articleshow/120752642.cms",
-    "content": "Following Canada's election, Australia is gearing up for its federal election, pitting Anthony Albanese's Labor Party against Peter Dutton's Liberal-National coalition. Unique to Australian elections are compulsory voting and distinctive slang. Terms like 'donkey voting,' where voters randomly number candidates, 'corflutes,' the ubiquitous campaign posters, and 'stoushes,' referring to conflicts, add color to the political landscape.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Calcutta HC tells Police Commissioner to file report on attack on lawyers, issues contempt notices to eight protestors",
     "link": "https://www.thehindu.com/news/cities/kolkata/calcutta-hc-tells-police-commissioner-to-file-report-on-attack-on-lawyers-issues-contempt-notices-to-eight-protestors/article69531575.ece",
@@ -1272,62 +1320,6 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": " India set to become MICE tourism capital of the world, says Union Culture Minister",
-    "link": "https://www.thehindu.com/news/national/india-set-to-become-mice-tourism-capital-of-the-world-says-union-culture-minister/article69530790.ece",
-    "content": "The government and private exhibition industry must collaborate to establish India as a centre of MICE tourism, says Gajendra Singh Shekhawat",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Supreme Court orders return of Ph.D. scholar Ramadas to TISS",
-    "link": "https://www.thehindu.com/news/national/supreme-court-relief-to-dalit-scholar-ramadas-pursuing-phd-in-tiss/article69531773.ece",
-    "content": "A Bench headed by Justice Dipankar Datta gave relief to Mr. Ramadas, who had challenged his suspension and ban from entering any TISS campus.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": " Odisha govt. orders probe into Puri Jagannath priests’ role in West Bengal temple ceremony",
-    "link": "https://www.thehindu.com/news/national/odisha-govt-orders-probe-into-puri-jagannath-priests-role-in-west-bengal-temple-ceremony/article69531023.ece",
-    "content": "The probe will also find out if leftover timber procured for the Nabakalebara rituals at the Puri Jagannath Temple in Odisha was used to carve the idols of the sibling deities at a new Jagannath temple complex in Digha, West Bengal",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Districts outshine Kolkata, boys outperform girls in Bengal Class 10 board exams",
-    "link": "https://www.thehindu.com/news/national/west-bengal/districts-outshine-kolkata-boys-outperform-girls-in-bengal-class-10-board-exams/article69531244.ece",
-    "content": "Even though more female students appeared in this year’s Class 10 exams, girls recorded a lower success rate than boys.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": " Activists seek restoration of flagship schemes, focus on health infrastructure",
-    "link": "https://www.thehindu.com/news/national/rajasthan/activists-seek-restoration-of-flagship-schemes-focus-on-health-infrastructure/article69531205.ece",
-    "content": "The JSA, functioning as the Rajasthan chapter of the People’s Health Movement and supported by a coalition of 70 networks and organisations, has submitted a memorandum to Chief Minister Bhajan Lal Sharma",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Caste census will improve opportunities for the needy: Nirmala Sitharaman",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/caste-census-will-help-to-improve-opportunities-for-the-needy-says-union-finance-minister-nirmala-sitharaman/article69531411.ece",
-    "content": "Union Finance Minister says the DMK should not seek political mileage from the census, which will provide data necessary to create opportunities for the less privileged ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "The disasterpiece that changed everything for Astros ace Hunter Brown",
-    "link": "https://www.espn.com/mlb/story/_/id/44950219/mlb-2025-hunter-brown-calendar-year-al-cy-young-houston-astros",
-    "content": "ugliest pitcher in major league baseball history came a little more than a year ago . right-hander for the Houston Astros with a high-octane fastball and an array of off-speed pitches . he yielded 11 hits, the most ever for a start of less than one inning .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://www.espn.com/espn/rss/news",
     "title": "Wetzel: Never mind the girlfriend kerfuffle. Belichick will always be fine.",
     "link": "https://www.espn.com/college-football/story/_/id/44955459/nevermind-girlfriend-kerfuffle-belichick-always-fine",
@@ -1344,34 +1336,10 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Time for Ryan Garcia and Devin Haney to move on from each other -- for now",
-    "link": "https://www.espn.com/boxing/story/_/id/44975823/ryan-garcia-devin-haney-move-other-now",
-    "content": "a rematch between Ryan Garcia and Devin Haney was one of the most anticipated fights of 2025 . they were placed in separate bouts against the unique setting of Times Square . a plan hatched by Saudi Arabia's chairman of the general entertainment authority ended up becoming an utter disaster .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Grand Theft Auto VI release date revealed",
-    "link": "https://www.espn.com/gaming/story/_/id/44965809/grand-theft-auto-vi-gta-6-release-date",
-    "content": "\"we are very sorry that this is later than you expected,\" developer says . \"the interest and excitement surrounding a new Grand Theft Auto has been truly humbling for our entire team,\" developer said . the next iteration of rockstar's urban crime role-playing game is one of the most hotly anticipated video games of all time .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Five rookies with breakout potential",
-    "link": "https://www.espn.com/fantasy/womens-basketball/story/_/id/44900307/fantasy-women-basketball-rookies-breakout-potential",
-    "content": "the WNBA is a hard league to break into, but rookies are making an impact earlier than ever . in 2023, I recommended not drafting any rookies that weren't the overall no. 1 pick, Aliyah Boston . the 2024 draft class was an outlier from previous history; all four lottery picks averaged over 20 fantasy points per game .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Expert picks, best bets: How Sandhagen gets past Figueiredo at UFC Fight Night",
-    "link": "https://www.espn.com/mma/story/_/id/44938010/expert-picks-best-bets-ufc-fight-night-cory-sandhagen-vs-deiveson-figueiredo-pfl-first-round",
-    "content": "cory Sandhagen takes on former men's flyweight champion deiveson Figueiredo in main event at UFC Fight Night in Des Moines, Iowa . the bantamweight contender is aiming to bounce back from his first loss since 2023 . he was riding a three-fight win streak before dropping that fight .",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Fate loves irony': Musk, JD Vance defend Germany's 'right-wing extremist' AfD",
+    "link": "https://timesofindia.indiatimes.com/world/us/fate-loves-irony-elon-musk-jd-vance-defend-germanys-right-wing-extremist-afd/articleshow/120845583.cms",
+    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1385,6 +1353,30 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
+    "title": "Five rookies with breakout potential",
+    "link": "https://www.espn.com/fantasy/womens-basketball/story/_/id/44900307/fantasy-women-basketball-rookies-breakout-potential",
+    "content": "the WNBA is a hard league to break into, but rookies are making an impact earlier than ever . in 2023, I recommended not drafting any rookies that weren't the overall no. 1 pick, Aliyah Boston . the 2024 draft class was an outlier from previous history; all four lottery picks averaged over 20 fantasy points per game .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Time for Ryan Garcia and Devin Haney to move on from each other -- for now",
+    "link": "https://www.espn.com/boxing/story/_/id/44975823/ryan-garcia-devin-haney-move-other-now",
+    "content": "a rematch between Ryan Garcia and Devin Haney was one of the most anticipated fights of 2025 . they were placed in separate bouts against the unique setting of Times Square . a plan hatched by Saudi Arabia's chairman of the general entertainment authority ended up becoming an utter disaster .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Expert picks, best bets: How Sandhagen gets past Figueiredo at UFC Fight Night",
+    "link": "https://www.espn.com/mma/story/_/id/44938010/expert-picks-best-bets-ufc-fight-night-cory-sandhagen-vs-deiveson-figueiredo-pfl-first-round",
+    "content": "cory Sandhagen takes on former men's flyweight champion deiveson Figueiredo in main event at UFC Fight Night in Des Moines, Iowa . the bantamweight contender is aiming to bounce back from his first loss since 2023 . he was riding a three-fight win streak before dropping that fight .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
     "title": "Where does Bo Nickal rank among MMA's undefeated fighters?",
     "link": "https://www.espn.com/mma/story/_/id/44938903/ranking-best-unbeaten-mma-fighters-ilia-topuria-khamzat-chimaev",
     "content": "a select few undefeated fighters in professional MMA stand out from the pack . unbeaten fighters like Bo Nickal and Michael Morales are still rising prospects . morales faces Gilbert Burns in the main event at UFC Fight Night on sunday .",
@@ -1392,18 +1384,10 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Fate loves irony': Musk, JD Vance defend Germany's 'right-wing extremist' AfD",
-    "link": "https://timesofindia.indiatimes.com/world/us/fate-loves-irony-elon-musk-jd-vance-defend-germanys-right-wing-extremist-afd/articleshow/120845583.cms",
-    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Unanswered calls, delays from ‘Dial 100’ flagged; Telangana police says response time progressed",
-    "link": "https://www.thehindu.com/news/national/telangana/unanswered-calls-delays-from-dial-100-flagged-telangana-police-says-response-time-progressed/article69531492.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science .",
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Grand Theft Auto VI release date revealed",
+    "link": "https://www.espn.com/gaming/story/_/id/44965809/grand-theft-auto-vi-gta-6-release-date",
+    "content": "\"we are very sorry that this is later than you expected,\" developer says . \"the interest and excitement surrounding a new Grand Theft Auto has been truly humbling for our entire team,\" developer said . the next iteration of rockstar's urban crime role-playing game is one of the most hotly anticipated video games of all time .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1417,9 +1401,9 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Over 350 temporary non-teaching staff at Bharathiar University left in the lurch without pay since start of 2025",
-    "link": "https://www.thehindu.com/news/cities/Coimbatore/over-350-temporary-non-teaching-staff-at-bharathiar-university-left-in-the-lurch-without-pay-since-start-of-2025/article69533675.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! data Point Decoding the headlines with facts, figures, and numbers Health Matters Ramya Kannan writes to you on getting to good health and staying there The Hindu On Books Books of the week .",
+    "title": "Arrangements at 190 NEET-UG centres in Telangana reviewed ",
+    "link": "https://www.thehindu.com/news/national/telangana/arrangements-at-190-neet-ug-centres-in-telangana-reviewed/article69533833.ece",
+    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1432,18 +1416,18 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Arrangements at 190 NEET-UG centres in Telangana reviewed ",
-    "link": "https://www.thehindu.com/news/national/telangana/arrangements-at-190-neet-ug-centres-in-telangana-reviewed/article69533833.ece",
-    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Man accused of raping corpse on NY subway train is illegal immigrant",
+    "link": "https://timesofindia.indiatimes.com/world/us/man-accused-of-raping-corpse-on-new-york-subway-train-is-illegal-immigrant-who-repeatedly-crossed-us-border/articleshow/120843820.cms",
+    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More ​10 deadliest insects in the world ​ Tejasswi Prakash inspired top 10 gorgeous looks Top 10 iconic temples that are a must-visit in Tamil Nadu Krithi Shetty Radiates Elegance in Soft-Hued Ensembles 10 essential care tips every Labrador Retriever owner must know ​​8 types of summer desserts one needs to try​ Bollywood-inspired lehengas perfect for summer weddings ​10 sea creatures with truly unusual defences ​ Surbhi Chandna turns up the glam in these trendy looks",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "SSLC results: Teacher couple’s son tops State",
-    "link": "https://www.thehindu.com/news/national/karnataka/sslc-results-teacher-couples-son-tops-state/article69531135.ece",
-    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . health Matters Ramya Kannan writes to you on getting to good health .",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Diddy's trial set to expose darkest side of 'freak off activities'",
+    "link": "https://timesofindia.indiatimes.com/world/us/sean-diddy-in-the-dock-bad-boys-trial-set-to-expose-darkest-tracks-of-freak-off-activities/articleshow/120841920.cms",
+    "content": "our dedicated team of seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1457,11 +1441,75 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Unanswered calls, delays from ‘Dial 100’ flagged; Telangana police says response time progressed",
+    "link": "https://www.thehindu.com/news/national/telangana/unanswered-calls-delays-from-dial-100-flagged-telangana-police-says-response-time-progressed/article69531492.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Over 350 temporary non-teaching staff at Bharathiar University left in the lurch without pay since start of 2025",
+    "link": "https://www.thehindu.com/news/cities/Coimbatore/over-350-temporary-non-teaching-staff-at-bharathiar-university-left-in-the-lurch-without-pay-since-start-of-2025/article69533675.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! data Point Decoding the headlines with facts, figures, and numbers Health Matters Ramya Kannan writes to you on getting to good health and staying there The Hindu On Books Books of the week .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "T.N. CM Stalin calls for safeguarding press freedom",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-calls-for-safeguarding-press-freedom/article69533852.ece",
+    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Two boys drown in lake in Ranipet",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/two-boys-drown-in-lake-in-ranipet/article69530762.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health, and staying there The Hindu On Books Books of the week .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Kathakali to be staged in Kochi",
+    "link": "https://www.thehindu.com/news/national/kerala/kathakali-to-be-staged-in-kochi/article69530594.ece",
+    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "CM Pinarayi Vijayan to inaugurate first phase of beach project ",
+    "link": "https://www.thehindu.com/news/national/kerala/cm-pinarayi-vijayan-to-inaugurate-first-phase-of-beach-project/article69531632.ece",
+    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "A.P. Minister Kandula Durgesh takes part in ceremonial enshrinement of Buddha’s relics in Vietnam ",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-minister-kandula-durgesh-takes-part-in-ceremonial-enshrinement-of-buddhas-relics-in-vietnam/article69531443.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health, and staying there The Hindu On Books Books of the week .",
     "category": "Global",
     "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Daughter of domestic help scores 91.84% in SSLC exams in Karnataka\n",
+    "link": "https://www.thehindu.com/news/national/karnataka/domestic-helps-daughter-scores-9184-in-sslc/article69531717.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health and staying there The Hindu On Books Books of the week .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Pahalgam terror attack LIVE: India suspends all mail, parcel delivery with Pakistan",
+    "link": "https://www.thehindu.com/news/national/pahalgam-terror-attack-jammu-and-kashmir-loc-tension-may-3-2025/article69533218.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . 'the view from India' - the view from india - updated - May 03, 2025 04:43 pm IST Image for representation only .",
+    "category": "Local",
+    "sub_category": "India"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -1473,16 +1521,8 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tamil Nadu should have its own labour laws: LPF",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-should-have-its-own-labour-laws-lpf/article69530301.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Razakar wins big at Dada Saheb Phalke film festival",
-    "link": "https://www.thehindu.com/news/national/telangana/razakar-wins-big-at-dada-saheb-phalke-film-festival/article69532005.ece",
+    "title": "Two held on charges of murdering VCK functionary in Vellore",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/two-held-on-charges-of-murdering-vck-functionary-in-vellore/article69530751.ece",
     "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1505,9 +1545,33 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Thirumalai Mission Hospital in Ranipet gets new dialysis units ",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/thirumalai-mission-hospital-in-ranipet-gets-new-dialysis-units/article69529781.ece",
-    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! e-Paper The View From India Looking at World Affairs from the Indian perspective .",
+    "title": "SSLC results: Teacher couple’s son tops State",
+    "link": "https://www.thehindu.com/news/national/karnataka/sslc-results-teacher-couples-son-tops-state/article69531135.ece",
+    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . health Matters Ramya Kannan writes to you on getting to good health .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Razakar wins big at Dada Saheb Phalke film festival",
+    "link": "https://www.thehindu.com/news/national/telangana/razakar-wins-big-at-dada-saheb-phalke-film-festival/article69532005.ece",
+    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Tamil Nadu should have its own labour laws: LPF",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-should-have-its-own-labour-laws-lpf/article69530301.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Class 10 student killed after tractor overturns near Gudiyatham ",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/class-10-student-killed-after-tractor-overturns-near-gudiyatham/article69530769.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health and staying there The Hindu On Books Books of the week .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1515,14 +1579,6 @@
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Chennai based Anicut Capital leads ₹50 crore round in Sedna to build tech-driven B2B platform for HoReCa industry ",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/chennai-based-anicut-capital-leads-50-crore-round-in-sedna-to-build-tech-driven-b2b-platform-for-horeca-industry/article69531655.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health, and staying there The Hindu On Books Books of the week .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Two boys drown in lake in Ranipet",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/two-boys-drown-in-lake-in-ranipet/article69530762.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health, and staying there The Hindu On Books Books of the week .",
     "category": "Global",
     "sub_category": "General"
@@ -1537,6 +1593,14 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "HYDRAA chief lambastes officials over illegal structure",
+    "link": "https://www.thehindu.com/news/national/telangana/hydraa-chief-lambastes-officials-over-illegal-structure/article69531231.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the latest news is from the world of cinema and streaming . it's a weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "T.N. to intensify animal population control measures; to upgrade necessary infrastructure",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-to-intensify-animal-population-control-measures-to-upgrade-necessary-infrastructure/article69531827.ece",
     "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
@@ -1544,10 +1608,18 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Man accused of raping corpse on NY subway train is illegal immigrant",
-    "link": "https://timesofindia.indiatimes.com/world/us/man-accused-of-raping-corpse-on-new-york-subway-train-is-illegal-immigrant-who-repeatedly-crossed-us-border/articleshow/120843820.cms",
-    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More ​10 deadliest insects in the world ​ Tejasswi Prakash inspired top 10 gorgeous looks Top 10 iconic temples that are a must-visit in Tamil Nadu Krithi Shetty Radiates Elegance in Soft-Hued Ensembles 10 essential care tips every Labrador Retriever owner must know ​​8 types of summer desserts one needs to try​ Bollywood-inspired lehengas perfect for summer weddings ​10 sea creatures with truly unusual defences ​ Surbhi Chandna turns up the glam in these trendy looks",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "SSLC results: Dakshina Kannada district tops Karnataka after many years",
+    "link": "https://www.thehindu.com/news/cities/Mangalore/sslc-results-dakshina-kannada-district-tops-karnataka-after-many-years/article69532015.ece",
+    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . health Matters Ramya Kannan writes to you on getting to good health .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Thirumalai Mission Hospital in Ranipet gets new dialysis units ",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/thirumalai-mission-hospital-in-ranipet-gets-new-dialysis-units/article69529781.ece",
+    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! e-Paper The View From India Looking at World Affairs from the Indian perspective .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1556,6 +1628,14 @@
     "title": "Kaleidofin announces $5.3 million equity infusion by IDH Farmfit Fund ",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/kaleidofin-announces-53-million-equity-infusion-by-idh-farmfit-fund/article69531414.ece",
     "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Men posing as potential tenants rob woman of gold, cash and phone",
+    "link": "https://www.thehindu.com/news/national/telangana/men-posing-as-potential-tenants-rob-woman-of-gold-cash-and-phone/article69531322.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the latest news is from the world of cinema and streaming . a 56-year-old woman was robbed at her residence in parsigutta on may 2 .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1569,41 +1649,9 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Two held on charges of murdering VCK functionary in Vellore",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/two-held-on-charges-of-murdering-vck-functionary-in-vellore/article69530751.ece",
-    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Class 10 student killed after tractor overturns near Gudiyatham ",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/class-10-student-killed-after-tractor-overturns-near-gudiyatham/article69530769.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health and staying there The Hindu On Books Books of the week .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Men posing as potential tenants rob woman of gold, cash and phone",
-    "link": "https://www.thehindu.com/news/national/telangana/men-posing-as-potential-tenants-rob-woman-of-gold-cash-and-phone/article69531322.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the latest news is from the world of cinema and streaming . a 56-year-old woman was robbed at her residence in parsigutta on may 2 .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Diddy's trial set to expose darkest side of 'freak off activities'",
-    "link": "https://timesofindia.indiatimes.com/world/us/sean-diddy-in-the-dock-bad-boys-trial-set-to-expose-darkest-tracks-of-freak-off-activities/articleshow/120841920.cms",
-    "content": "our dedicated team of seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "SSLC results: Dakshina Kannada district tops Karnataka after many years",
-    "link": "https://www.thehindu.com/news/cities/Mangalore/sslc-results-dakshina-kannada-district-tops-karnataka-after-many-years/article69532015.ece",
-    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . health Matters Ramya Kannan writes to you on getting to good health .",
+    "title": "IHM-Hyderabad annual academic awards ",
+    "link": "https://www.thehindu.com/news/national/telangana/ihm-hyderabad-annual-academic-awards/article69522448.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health, and staying there The Hindu On Books Books of the week .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1625,24 +1673,8 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "HYDRAA chief lambastes officials over illegal structure",
-    "link": "https://www.thehindu.com/news/national/telangana/hydraa-chief-lambastes-officials-over-illegal-structure/article69531231.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the latest news is from the world of cinema and streaming . it's a weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Pahalgam terror attack LIVE: India suspends all mail, parcel delivery with Pakistan",
-    "link": "https://www.thehindu.com/news/national/pahalgam-terror-attack-jammu-and-kashmir-loc-tension-may-3-2025/article69533218.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the latest news is from the world of cinema and streaming . a weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "CM Pinarayi Vijayan to inaugurate first phase of beach project ",
-    "link": "https://www.thehindu.com/news/national/kerala/cm-pinarayi-vijayan-to-inaugurate-first-phase-of-beach-project/article69531632.ece",
+    "title": "Four special teams formed to look into Suhas Shetty murder: Parameshwara",
+    "link": "https://www.thehindu.com/news/national/karnataka/four-special-teams-formed-to-look-into-suhas-shetty-murder-parameshwara/article69531921.ece",
     "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science .",
     "category": "Global",
     "sub_category": "General"
@@ -1652,38 +1684,6 @@
     "title": "Cybercrime police facilitate refund of nearly ₹2.7 lakh in cryptocurrency fraud",
     "link": "https://www.thehindu.com/news/cities/Hyderabad/cybercrime-police-facilitate-refund-of-nearly-27-lakh-in-cryptocurrency-fraud/article69531708.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health, and staying there The Hindu On Books Books of the week .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Kathakali to be staged in Kochi",
-    "link": "https://www.thehindu.com/news/national/kerala/kathakali-to-be-staged-in-kochi/article69530594.ece",
-    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "IHM-Hyderabad annual academic awards ",
-    "link": "https://www.thehindu.com/news/national/telangana/ihm-hyderabad-annual-academic-awards/article69522448.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health, and staying there The Hindu On Books Books of the week .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Daughter of domestic help scores 91.84% in SSLC exams in Karnataka\n",
-    "link": "https://www.thehindu.com/news/national/karnataka/domestic-helps-daughter-scores-9184-in-sslc/article69531717.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in! health Matters Ramya Kannan writes to you on getting to good health and staying there The Hindu On Books Books of the week .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Four special teams formed to look into Suhas Shetty murder: Parameshwara",
-    "link": "https://www.thehindu.com/news/national/karnataka/four-special-teams-formed-to-look-into-suhas-shetty-murder-parameshwara/article69531921.ece",
-    "content": "Karnataka Today Your daily dose of news highlights from the world of cinema and streaming . today's Cache Your download of the top 5 technology stories of the day . the weekly newsletter from science writers takes the jargon out of science .",
     "category": "Global",
     "sub_category": "General"
 }
