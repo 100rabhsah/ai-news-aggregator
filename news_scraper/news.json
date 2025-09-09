@@ -17,9 +17,33 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
+    "title": "Dolphins star Hill accused of domestic violence",
+    "link": "https://www.espn.com/nfl/story/_/id/46206279/tyreek-hill-accused-domestic-violence-estranged-wife",
+    "content": "Tyreek Hill's estranged wife has alleged in court filings that he committed domestic violence, which the Dolphins receiver has vehemently denied.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Sources: Colorado expected to start Staub at QB",
+    "link": "https://www.espn.com/nfl/story/_/id/46205738/sources-colorado-expected-start-ryan-staub-qb-vs-houston",
+    "content": "The Colorado Buffaloes are expected to start Ryan Staub at quarterback for Friday's game at Houston, sources told ESPN.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
     "title": "49ers' Kittle out weeks; Purdy could miss Week 2",
     "link": "https://www.espn.com/nfl/story/_/id/46201209/49ers-kittle-weeks-purdy-iffy-due-two-injuries",
     "content": "The 49ers will be without star tight end George Kittle for multiple weeks due to a hamstring injury, while Brock Purdy might need to sit out Week 2 after hurting a shoulder and toe in the team's Week 1 win in Seattle.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Big 12 penalizes officiating crew over rules gaffe",
+    "link": "https://www.espn.com/college-football/story/_/id/46206255/big-12-pulls-officiating-crew-week-3-assignment-rules-gaff",
+    "content": "The Big 12 has removed an officiating crew from a Week 3 assignment after the group committed a rules violation during Missouri's win over Kansas, the conference announced on Tuesday.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -41,33 +65,9 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Gators' Bett apologizes for spitting at opponent",
-    "link": "https://www.espn.com/college-football/story/_/id/46202450/gators-dt-brendan-bett-apologizes-spitting-usf-player",
-    "content": "Florida defensive tackle Brendan Bett apologized Monday for spitting at a USF player during a crucial moment in an 18-16 loss last weekend, calling his actions a \"terrible mistake.\"",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Sources: Colorado expected to start Staub at QB",
-    "link": "https://www.espn.com/nfl/story/_/id/46205738/sources-colorado-expected-start-ryan-staub-qb-vs-houston",
-    "content": "The Colorado Buffaloes are expected to start Ryan Staub at quarterback for Friday's game at Houston, sources tell ESPN.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
     "title": "Dodgers just miss no-hitter again; Glasnow stars",
     "link": "https://www.espn.com/mlb/story/_/id/46203459/glasnow-two-relievers-one-hit-rockies-dodgers-3-1-win",
     "content": "Tyler Glasnow, who struck out 11 and walked two on 105 pitches in his first career start against Colorado, combined with the Los Angeles Dodgers bullpen to one-hit the Rockies in a 3-1 win Monday night, as the veteran starter improved to 2-3 this season.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Ex-Fins CB says Colts forced Tua into 'panic mode'",
-    "link": "https://www.espn.com/nfl/story/_/id/46199974/xavien-howard-says-colts-forced-tagovailoa-panic-mode",
-    "content": "Former Dolphins and current Colts corner Xavien Howard said the game plan Sunday was to take away QB Tua Tagovailoa's first read and get him into \"panic mode.\"",
     "category": "Global",
     "sub_category": "General"
 },
@@ -89,7 +89,7 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Biggest early season enigmas in our latest Bubble Watch",
+    "title": "Biggest early-season enigmas in our latest Bubble Watch",
     "link": "https://www.espn.com/college-football/story/_/id/46199525/college-football-playoff-2025-week-2-bubble-watch",
     "content": "Putting the spotlight on select teams and question marks around others as the early playoff picture takes shape.",
     "category": "Global",
@@ -123,7 +123,7 @@
     "source": "https://www.espn.com/espn/rss/news",
     "title": "Barnwell separates fact from fiction off NFL Week 1",
     "link": "https://www.espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
-    "content": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude in Week 1.",
+    "content": "Let's size up the legitimacy of the Lions' offensive woes, Aaron Rodgers' big day and the Dolphins' ineptitude.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -240,382 +240,6 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Transfer rumors, news: PSG prepare new deal for Barcola as Liverpool, Bayern circle",
-    "link": "https://www.espn.com/soccer/story/_/id/46204036/transfer-rumors-news-psg-bayern-munich-liverpool-bradley-barcola",
-    "content": "Bradley Barcola is wanted by Liverpool and Bayern Munich, and Paris Saint-Germain plan to offer the winger a new deal. Transfer Talk has the latest news, gossip and rumors.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Officials told to remove road encroachments on war footing in Guntur",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/officials-told-to-remove-road-encroachments-on-war-footing-in-guntur/article70029464.ece",
-    "content": "GMC Commissioner directs officials to ensure encroachments on major roads, margins, and drains do not recur; reviews complaints on poor sanitation and orders immediate measures",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Karnataka pitches for U.K.’s MRCP PG qualifier exams to be held in State",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-pitches-for-uks-mrcp-pg-qualifier-exams-to-be-held-in-state/article70029391.ece",
-    "content": "Karnataka is all set to sign eight MoUs with various U.K. universities to collaborate on healthcare research ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Upgraded 20-car Vande Bharat begins service  Thiruvananthapuram-Mangaluru route ",
-    "link": "https://www.thehindu.com/news/national/kerala/upgraded-20-car-vande-bharat-begins-service-thiruvananthapuram-mangaluru-route/article70029845.ece",
-    "content": "With this, both Vande Bharat Expresses operating fully within Kerala now run with the maximum 20-car configuration",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tamil Nadu government launches Marine Resources Foundation to protect and restore marine biodiversity ",
-    "link": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-government-launches-marine-resources-foundation-to-protect-and-restore-marine-biodiversity/article70029280.ece",
-    "content": "The government also launches a special purpose vehicle to restore the environmentally sensitive Manali-Ennore region. It will focus on green projects, waterbody restoration, solid waste management, pollution control, and community infrastructure development ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Kunnamkulam custodial assault case: Youth Congress leader moves court to arraign police driver as fifth accused",
-    "link": "https://www.thehindu.com/news/national/kerala/kunnamkulam-custodial-assault-case-youth-congress-leader-moves-court-to-arraign-police-driver-as-fifth-accused/article70030020.ece",
-    "content": "V.S. Sujith alleges driver Suhair brutally attacked him; fresh petitions push for stronger charges against suspended officers",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "A teacher who makes learning a joy",
-    "link": "https://www.thehindu.com/news/national/kerala/a-teacher-who-makes-learning-a-joy/article70029622.ece",
-    "content": "Lower primary teacher Kishorkumar M.S. introduces fresh and impactful ideas to the classroom each year. ‘Growing classroom’ is one such initiative ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "A.P. records double-digit growth in first quarter of 2025-26, surpasses national average ",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-records-double-digit-growth-in-first-quarter-of-2025-26-surpasses-national-average/article70029530.ece",
-    "content": "Industrial sector leads with 11.91% growth driven by 43.54% rise in mining and quarrying; services sector grows by 10.70% riding on gains in tourism, hotels, and transport; happy with growth figures, Chandrababu Naidu tells officials to work towards 17.1% target set for next year",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Andhra Pradesh Chief Minister unveils invitation for Dasara celebrations at Kanaka Durga temple in Vijayawada",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-chief-minister-unveils-invitation-for-dasara-celebrations-at-kanaka-durga-temple-in-vijayawada/article70029596.ece",
-    "content": "Officials invite Naidu to participate in Moola Nakshatram rituals; Endowments Commissioner reviews temple projects, says Sharannavaratri Utsavams draw over 10 lakh devotees",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Fantasy hockey defense tiers: The elite, the roster fillers and everyone in between",
-    "link": "https://www.espn.com/fantasy/hockey/story/_/id/46198150/espn-nhl-fantasy-hockey-draft-strategy-defensemen-tier-list",
-    "content": "Make your fantasy hockey draft strategy easier with detailed defensemen tiers and a guide to the position.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Forward tier list: From must-haves to lottery tickets",
-    "link": "https://www.espn.com/fantasy/hockey/story/_/id/46180997/espn-nhl-fantasy-hockey-draft-strategy-forward-tiers-wingers-centers-picks",
-    "content": "Make your fantasy hockey draft strategy easier with detailed forward tiers and a guide to the position.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "T.N. government to felicitate Ilaiyaraaja at event in Chennai on September 13",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-felicitate-ilaiyaraaja-at-event-in-chennai-on-september-13/article70029459.ece",
-    "content": "Besides the Chief Minister and the Deputy CM, actors Rajinikanth and Kama Haasan are expected to participate in the function to be held in the Jawarhalal Nehru Indoor Stadium",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Watch: Meet the temple artisans of Thiruvathigai",
-    "link": "https://www.thehindu.com/videos/watch-meet-the-temple-artisans-of-thiruvathigai/article70029783.ece",
-    "content": "Thiruvathigai in Cuddalore district, Tamil Nadu, is also renowned for its community of skilled artisans, who specialise in crafting temple vahanas, or processional mounts, and temple cars. We meet the skilled artisans who continue this remarkable tradition, taking orders from temples across the State",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Karnataka not against internationalisation of education, says Dr. Sudhakar ",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-not-against-internationalisation-of-education-says-dr-sudhakar/article70029476.ece",
-    "content": "Several universities in the U.K. are keen to set up campuses in Bengaluru, following the Karnataka delegation’s talks with the heads of various U.K. universities",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "3,985 quintals of rice seized in joint raid in Gurmitkal",
-    "link": "https://www.thehindu.com/news/national/karnataka/3985-quintals-of-rice-seized-in-joint-raid-in-gurmitkal/article70029361.ece",
-    "content": "The seized rice meant for government schemes was stored illegally in two mills for polishing and sales under different brand names ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "CPI(M) urges Andhra Pradesh Chief Minister to rescue tribal coffee farmers hit by borer pest in Paderu",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-urges-andhra-pradesh-chief-minister-to-rescue-tribal-coffee-farmers-hit-by-borer-pest-in-paderu/article70029555.ece",
-    "content": "The party State secretary demands higher compensation, State-funded pest control, Coffee Research Centre at Paderu, and stronger marketing and insurance cover for tribal growers",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Row over removal of gold-plated sheets from Dwarapalaka idols at Sabarimala",
-    "link": "https://www.thehindu.com/news/national/kerala/row-over-removal-of-gold-platings-from-dwarapalaka-idols-at-sabarimala/article70029637.ece",
-    "content": "Special Commissioner has informed Kerala High Court that the gold-plated sheets on the Dwarapalaka idols at the temple entrance have been detached without the court’s approval",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Punjab floods: PM Modi conducts aerial survey, meets affected people in Gurdaspur",
-    "link": "https://www.thehindu.com/news/national/punjab/pm-modi-punjab-visit-gurdaspur-september-9-2025/article70029635.ece",
-    "content": "In Gurdaspur, PM Modi met flood-affected people as well as NDRF and SDRF teams; he chaired an official meeting in Gurdaspur to review the situation",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Here are the big stories from Karnataka today",
-    "link": "https://www.thehindu.com/newsletter/karnataka-today/here-are-the-big-stories-from-karnataka-today/article70029545.ece",
-    "content": "Welcome to the Karnataka Today newsletter, your guide from The Hindu on the major news stories to follow today. Curated and written by Nalme Nachiyar.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Catering company ‘Madhampatty Pakashala’ moves Madras High Court against defamatory posts by costumer designer Joy Crizildaa  ",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/catering-company-moves-madras-high-court-against-defamatory-posts-against-its-director-madampatty-rangaraj-by-costumer-designer-joy-crizildaa/article70029105.ece",
-    "content": "Justice N. Senthilkumar orders notice, returnable by September 26, to her and permits the counsel for the catering company to serve private notice too",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Karnataka forest department staff locked up inside tiger trap cage by irate villagers in Bandipur buffer zone",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-forest-department-staff-locked-up-inside-tiger-trap-cage-by-irate-villagers-in-bandipur-buffer-zone/article70029281.ece",
-    "content": "In the wake of delayed rsponse from forest staff to repeated complaints about tiger sightings, the agitated villagers of Bommalapura gheraoed them and bundled them inside the cage meant for the tiger.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Construction of International Institute for People with Disabilities to start in Kasaragod on September 10",
-    "link": "https://www.thehindu.com/news/national/kerala/construction-of-international-institute-for-people-with-disabilities-to-start-in-kasaragod-on-september-10/article70029295.ece",
-    "content": "The institution, spread across 20 acres and modelled on DAC Thiruvananthapuram, will have training centres for arts and sports, advanced therapy systems, personalised assistive device units, vocational training centres, etc.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "In Focus podcast | Why most students in Bengal and Odisha take private tuitions",
-    "link": "https://www.thehindu.com/podcast/in-focus-podcast-why-most-students-in-bengal-and-odisha-take-private-tuitions/article70029350.ece",
-    "content": "Sabir Ahamed speaks to us about the factors contributing to the dependence on private tuition in the east, and how it is reshaping the education system in India.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "A.P. government ready to bear any cost for poor students: Minister",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-government-ready-to-bear-any-cost-for-poor-students-minister/article70028842.ece",
-    "content": "The State government is helping the families of students who died due to any illness through the Swanthana scheme, says Social Welfare Minister Dola Sree Bala Veeranjaneya Swamy",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "All establishments in Karnataka dealing with foreigners told to register with FRRO ",
-    "link": "https://www.thehindu.com/news/national/karnataka/all-establishments-in-karnataka-dealing-with-foreigners-told-to-register-with-frro/article70025678.ece",
-    "content": "The State government has directed Karnataka State Police to carry out a close surveillance of areas where a large number of foreign nationals reside. KSP has also been directed to use intelligence officials and those from the Reserve Police Forces for surveillance of these areas.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Ramdev’s remarks on allopathy: Closure report filed in Chhattisgarh FIR, Supreme Court told",
-    "link": "https://www.thehindu.com/news/national/ramdevs-remarks-on-allopathy-closure-report-filed-in-chhattisgarh-fir-supreme-court-told/article70028546.ece",
-    "content": "The complaints filed by the Indian Medical Association alleged that Mr. Ramdev’s remarks on allopathy undermined COVID-19 control efforts and discouraged people from seeking proper treatment",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Mudhol hounds Chandra and Kala safeguard sandalwood trees in Shikaripura forests ",
-    "link": "https://www.thehindu.com/news/national/karnataka/mudhol-hounds-chandra-and-kala-safeguard-sandalwood-trees-in-shikaripura-forests/article70016163.ece",
-    "content": "The dogs sense any suspicious activity, smell the presence of a foreign element and run very fast, says the forest staff at Chandrakala State Forest, known for cultivation of sandalwood.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "2008 Malegaon blast: Victims move HC against acquittal of Pragya Thakur, 6 others",
-    "link": "https://www.thehindu.com/news/national/maharashtra/2008-malegaon-blast-victims-move-hc-against-acquittal-of-pragya-thakur-6-others/article70029122.ece",
-    "content": "Bombay High Court appeal seeks to overturn Malegaon bomb blast acquittal, citing lack of evidence against accused",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "NIA conducts multi-state raids to probe ISIS-linked terror conspiracy case",
-    "link": "https://www.thehindu.com/news/national/nia-conducts-multi-state-raids-to-probe-isis-linked-terror-conspiracy-case/article70029099.ece",
-    "content": "The searches were conducted in the States of Bihar, Uttar Pradesh, Maharashtra, Karnataka and Tamil Nadu, as well as Jammu and Kashmir on Monday",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "ED questions BJP worker who filed petition in HC questioning Rahul Gandhi's citizenship",
-    "link": "https://www.thehindu.com/news/national/ed-questions-bjp-worker-who-filed-petition-in-hc-questioning-rahul-gandhis-citizenship/article70029046.ece",
-    "content": "S. Vignesh Shishir said before entering the ED office that he has been summoned under section 37 of the Foreign Exchange Management Act (FEMA) with regard to the said investigation.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Shivamogga: Video of pro-Pakistan slogans goes viral, Bhadravathi police book case",
-    "link": "https://www.thehindu.com/news/national/karnataka/shivamogga-video-of-pro-pakistan-slogans-goes-viral-bhadravathi-police-book-case/article70028916.ece",
-    "content": "The residents of Bhadravathi took out an Id-Milad procession in the town on September 8, and it is said that the video clip was shot during the procession.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Prohibitory orders extended in Maddur, security beefed up amid call for bandh",
-    "link": "https://www.thehindu.com/news/national/karnataka/prohibitory-orders-extended-in-maddur-security-beefed-up-amid-call-for-bandh/article70028853.ece",
-    "content": "About 800 police personnel led by four officials of the rank of Superintendent of Police, three officials of the rank of Additional Superintendent of Police, besides fifteen Deputy Superintendents and thirty Inspectors of Police are manning the town.  ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Over 500 people in Kerala’s Wayanad fall victim to ‘mule account’ scam",
-    "link": "https://www.thehindu.com/news/national/kerala/over-500-people-in-keralas-wayanad-fall-victim-to-mule-account-scam/article70028935.ece",
-    "content": "Fraudsters from outside the district rent local residents' bank accounts for money and misuse these for illicit transactions and other illegal activities, say investigators",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Delhi CM Secretariat, Maulana Azad Medical College get bomb threat",
-    "link": "https://www.thehindu.com/news/national/fire-tenders-rushed-after-bomb-threat-to-delhis-maulana-azad-medical-college/article70028924.ece",
-    "content": "According to the Delhi Fire Service (DFS), a separate call regarding the threat was also received, following which multiple fire tenders were rushed to the spot as a precautionary measure",
-    "category": "Local",
-    "sub_category": "Delhi"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "37 children fall ill after lizard found in midday meal at Kallakurichi school",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/37-children-fall-ill-after-lizard-found-in-midday-meal-at-kallakurichi-school/article70026034.ece",
-    "content": "The meal, prepared for 89 children, was served around noon, and a few children complained of nausea and vomiting after consuming it",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "J&K rains: 12,000 km of road length damaged due to floods, landslides",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-rains-12000-km-of-road-length-damaged-due-to-floods-landslides/article70028825.ece",
-    "content": "Taking note of the damage caused to the Seri-Kath Bridge at Kathua, the deputy chief minister asked NHAI authorities the reason for the bridge collapse in the recent floods despite having been constructed only a few years ago",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "132 works planned under Comprehensive Road Infrastructure Development Programme in Chennai",
-    "link": "https://www.thehindu.com/news/cities/chennai/132-works-planned-under-comprehensive-road-infrastructure-development-programme-in-chennai/article70023582.ece",
-    "content": "The works are planned at a combined cost of ₹561.50 crore, covering 230.68 km of roads across Chennai, Tiruvallur, Kancheepuram, and Chengalpattu districts",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Madras High Court suspends order appointing one-man commission to probe police excess during Chennai conservancy workers’ protest ",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-suspends-order-appointing-commission-to-probe-police-excess-during-conservancy-workers-protest-in-chennai/article70028421.ece",
-    "content": "Justices J. Nisha Banu and S. Sounthar keep the interim order in abeyance pursuant to a petition filed by Greater Chennai Commissioner of Police to vacate the order ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "PM Modi conducts aerial survey, financial assistance of ₹1,500 crore for Himachal Pradesh",
-    "link": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-visit-to-himachal-pradesh-and-punjab/article70028817.ece",
-    "content": "Himachal Pradesh, which is recovering from the floods, has been granted ₹5 crore each by the BJP-ruled States of Arunachal Pradesh, Assam, Haryana, Tripura and Uttar Pradesh",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Actor Aishwarya Rai urges Delhi High Court to protect publicity, personality rights",
-    "link": "https://www.thehindu.com/news/cities/Delhi/actor-aishwarya-rai-urges-delhi-high-court-to-protect-publicity-personality-rights/article70028814.ece",
-    "content": "Senior advocate Sandeep Sethi, appearing for Aishwarya Rai, said the actor seeks to enforce her publicity and personality rights and contended that some completely unreal intimate photographs were being circulated on the internet.",
-    "category": "Local",
-    "sub_category": "Delhi"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Police excess: SHRC recommends compensation to former Madurai Corporation councillor V.K. Gurusamy",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/police-excess-shrc-recommends-compensation-to-former-madurai-corporation-councillor-vk-gurusamy/article70026495.ece",
-    "content": "It also recommended that the State government initiate disciplinary proceedings against the personnel involved in the police excess case",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "TVK chief Vijay to begin his State-wide election campaign in Tiruchi on September 13",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-chief-vijay-to-begin-his-state-wide-election-campaign-at-tiruchi-on-september-13-2025/article70028736.ece",
-    "content": "In a statement, Mr. Vijay demanded that the cases filed against general secretary N. Anand and other party cadre by the police be withdrawn immediately ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Kancheepuram police accuse Principal District Judge of remanding DSP over personal dispute with his former PSO;  Madras High Court orders inquiry ",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/kancheepuram-principal-district-judge-remanded-dsp-over-personal-dispute-with-his-ex-staffer-police-tell-madras-hc/article70028562.ece",
-    "content": "Justice N. Sathish Kumar directs the High Court’s Registrar (Vigilance) to conduct an inquiry and submit a report by September 23. He also orders the immediate release of the DSP  since his remand was unwarranted   ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Telangana HC directs TGPSC to re-evaluate Group-I main exam answer sheets; hold exam again if re-evaluation is not completed",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-hc-directs-tgpsc-to-re-evaluate-group-i-main-exam-answer-sheets-hold-exam-again-if-re-evaluation-is-not-completed/article70028674.ece",
-    "content": "Justice Namavarapu Rajeshwar Rao of the High Court said the bench would not hesitate to cancel the entire Group-I exam conducted by the TGPSC if its orders were not complied with",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Brain-eating amoeba: Two children cured of amoebic encephalitis in Kerala",
-    "link": "https://www.thehindu.com/news/national/kerala/brain-eating-amoeba-two-children-cured-of-amoebic-encephalitis-in-kerala/article70028634.ece",
-    "content": "The children, aged 12 and seven, respectively, are the siblings of an eight-year-old from Thamarassery, who died of the infection on August 14",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Kulgam encounter enters second day; two jawans, two terrorists killed so far",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kulgam-encounter-enters-second-day-on-september-9-2025/article70028616.ece",
-    "content": "The encounter erupted after security forces launched a search operation in the Gudar forest area of Kulgam based on specific intelligence about the presence of terrorists, who opened fire on the security forces",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "India asks its nationals in Nepal to exercise caution",
-    "link": "https://www.thehindu.com/news/national/ministry-of-external-affairs-statement-on-nepal-situation/article70028573.ece",
-    "content": "The Ministry of External Affairs “As a close friend and neighbour, we hope that all concerned will exercise restraint and address any issues through peaceful means and dialogue”",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
     "title": "'Trump gave green light': Blasts in Doha; Israel confirms strike on Hamas leaders",
     "link": "https://timesofindia.indiatimes.com/world/middle-east/trump-gave-green-light-blasts-in-doha-israel-confirms-strike-on-hamas-leaders/articleshow/123787945.cms",
@@ -636,6 +260,14 @@
     "title": "Google tightens AI use: Coders face strict rules; external tools prohibited",
     "link": "https://timesofindia.indiatimes.com/technology/tech-news/new-guidelines-for-google-engineers-software-engineers-should-use-only/articleshow/123777424.cms",
     "content": "Google is mandating its software engineers to exclusively use internal AI models for coding, driven by CEO Sundar Pichai's call for AI adoption to maintain competitiveness. Employees are expected to demonstrate AI proficiency, potentially influencing performance reviews and career advancement.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "ITR filing FY25: What is the deadline & will it be extended? Know penalty for late filing",
+    "link": "https://timesofindia.indiatimes.com/business/financial-literacy/taxation/itr-filing-fy-2024-25-what-is-the-deadline-for-income-tax-returns-will-it-be-extended-know-penalty-for-late-filing/articleshow/123788568.cms",
+    "content": "ITR filing FY 2024-25: The Income Tax Department has extended the ITR filing deadline for AY 2025-26 to September 15, 2025, for non-audit taxpayers. This extension, from the usual July 31st, accommodates changes in ITR forms. Taxpayers are advised to file before the deadline to avoid penalties, including late fees up to Rs 5,000 and a 1% monthly interest on outstanding taxes.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -904,10 +536,122 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Asia Cup selection puzzle: Samson or Jitesh? 'All depends on Gill's batting position'",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/asia-cup-selection-puzzle-sanju-samson-or-jitesh-sharma-all-depends-on-shubman-gills-batting-position/articleshow/123780602.cms",
-    "content": "With Shubman Gill returning as T20I vice-captain, the management is certain to prefer a Gill - Abhishek Sharma opening combination. In that case, Sanju Samson may have to give up his opening role. But is that the right call? Or should the management continue with the Samson - Abhishek pairing?",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Armed Forces contingent leaves for Russia to join multilateral military exercise",
+    "link": "https://www.thehindu.com/news/national/armed-forces-contingent-leaves-for-russia-to-join-multilateral-military-exercise/article70030186.ece",
+    "content": "According to the Defence Ministry, ZAPAD 2025, scheduled from September 10 to 16, is aimed at boosting military cooperation, improving interoperability and providing a platform for participating nations to exchange tactics, techniques and procedures in conventional warfare and counter-terrorism operations",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Recruits will mandatorily serve in designated posts for 10 years, says Energy Minister ",
+    "link": "https://www.thehindu.com/news/national/karnataka/recruits-will-mandatorily-serve-in-designated-posts-for-10-years-says-energy-minister/article70030148.ece",
+    "content": "K.J. George says new policy will address the problem of shortage of staff due to transfers taken using political influence",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "NDA candidate C.P. Radhakrishnan elected 15th Vice-President of India",
+    "link": "https://www.thehindu.com/news/national/cp-radhakrishnan-becomes-vice-president-september-9-2025/article70030241.ece",
+    "content": "A total of 767 MPs cast their ballot in a turnout of 98.2%, of which 752 were valid and 15 votes were deemed invalid, Mr. Mody said; one postal ballot was cancelled as the MP declined to cast the vote",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "BJD’s abstention from V-P election appears to be a tacit bid to block Congress’s revival in Odisha ",
+    "link": "https://www.thehindu.com/news/national/bjds-abstention-from-v-p-election-appears-to-be-a-tacit-bid-to-block-congresss-revival-in-odisha/article70029776.ece",
+    "content": "The BJD and the BJP have exhibited an aggressive posturing as sworn rivals over the past decade and a half; yet at critical moments, they have come to each other’s rescue, says a political analyst",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Owaisi criticises India’s bilateral investment treaty with Israel",
+    "link": "https://www.thehindu.com/news/national/telangana/owaisi-criticises-indias-bilateral-investment-treaty-with-israel/article70029887.ece",
+    "content": "SIO also condemned the presence of Israel’s far-right Finance Minister Bezalel Smotrich, calls Israel ‘oppressor’",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Domestic help arrested for murder of elderly woman in Kurnool district",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/domestic-help-arrested-for-murder-of-elderly-woman-in-kurnool-district/article70029421.ece",
+    "content": "Police recover property stolen by the accused from the deceased’s house and the weapon used to commit the offence; accused planned to kill and rob valuables of the 75-year-old to make easy money, according to SP",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Bevco’s plastic bottle buy-back scheme poised to cover entire Kerala incrementally ",
+    "link": "https://www.thehindu.com/news/national/kerala/bevcos-plastic-bottle-buy-back-scheme-poised-to-cover-entire-kerala-incrementally/article70029998.ece",
+    "content": "The Bevco will charge a small monetary deposit of ₹20 for the bottle. When consumers return the empty bottle to the retail shop, it will refund the deposit or reduce it from the cost of their next purchase.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Action will be taken against corrupt officials, says Minister ",
+    "link": "https://www.thehindu.com/news/national/karnataka/action-will-be-taken-against-corrupt-officials-says-minister/article70030146.ece",
+    "content": "The Integrated Child Development Scheme that introduced the anganwadi system will complete 50 years this year, according to Hebbalkar ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Officials told to remove road encroachments on war footing in Guntur",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/officials-told-to-remove-road-encroachments-on-war-footing-in-guntur/article70029464.ece",
+    "content": "GMC Commissioner directs officials to ensure encroachments on major roads, margins, and drains do not recur; reviews complaints on poor sanitation and orders immediate measures",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Karnataka pitches for U.K.’s MRCP PG qualifier exams to be held in State",
+    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-pitches-for-uks-mrcp-pg-qualifier-exams-to-be-held-in-state/article70029391.ece",
+    "content": "Karnataka is all set to sign eight MoUs with various U.K. universities to collaborate on healthcare research ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Upgraded 20-car Vande Bharat begins service  Thiruvananthapuram-Mangaluru route ",
+    "link": "https://www.thehindu.com/news/national/kerala/upgraded-20-car-vande-bharat-begins-service-thiruvananthapuram-mangaluru-route/article70029845.ece",
+    "content": "With this, both Vande Bharat Expresses operating fully within Kerala now run with the maximum 20-car configuration",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Tamil Nadu government launches Marine Resources Foundation to protect and restore marine biodiversity ",
+    "link": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-government-launches-marine-resources-foundation-to-protect-and-restore-marine-biodiversity/article70029280.ece",
+    "content": "The government also launches a special purpose vehicle to restore the environmentally sensitive Manali-Ennore region. It will focus on green projects, waterbody restoration, solid waste management, pollution control, and community infrastructure development ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Kunnamkulam custodial assault case: Youth Congress leader moves court to arraign police driver as fifth accused",
+    "link": "https://www.thehindu.com/news/national/kerala/kunnamkulam-custodial-assault-case-youth-congress-leader-moves-court-to-arraign-police-driver-as-fifth-accused/article70030020.ece",
+    "content": "V.S. Sujith alleges driver Suhair brutally attacked him; fresh petitions push for stronger charges against suspended officers",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "A teacher who makes learning a joy",
+    "link": "https://www.thehindu.com/news/national/kerala/a-teacher-who-makes-learning-a-joy/article70029622.ece",
+    "content": "Lower primary teacher Kishorkumar M.S. introduces fresh and impactful ideas to the classroom each year. ‘Growing classroom’ is one such initiative ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "A.P. records double-digit growth in first quarter of 2025-26, surpasses national average ",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-records-double-digit-growth-in-first-quarter-of-2025-26-surpasses-national-average/article70029530.ece",
+    "content": "Industrial sector leads with 11.91% growth driven by 43.54% rise in mining and quarrying; services sector grows by 10.70% riding on gains in tourism, hotels, and transport; happy with growth figures, Chandrababu Naidu tells officials to work towards 17.1% target set for next year",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1072,25 +816,529 @@
     "sub_category": "General"
 },
 {
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Transfer rumors, news: PSG prepare new deal for Barcola as Liverpool, Bayern circle",
+    "link": "https://www.espn.com/soccer/story/_/id/46204036/transfer-rumors-news-psg-bayern-munich-liverpool-bradley-barcola",
+    "content": "Bradley Barcola is wanted by Liverpool and Bayern Munich, and Paris Saint-Germain plan to offer the winger a new deal. Transfer Talk has the latest news, gossip and rumors.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Fantasy hockey defense tiers: The elite, the roster fillers and everyone in between",
+    "link": "https://www.espn.com/fantasy/hockey/story/_/id/46198150/espn-nhl-fantasy-hockey-draft-strategy-defensemen-tier-list",
+    "content": "Make your fantasy hockey draft strategy easier with detailed defensemen tiers and a guide to the position.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Forward tier list: From must-haves to lottery tickets",
+    "link": "https://www.espn.com/fantasy/hockey/story/_/id/46180997/espn-nhl-fantasy-hockey-draft-strategy-forward-tiers-wingers-centers-picks",
+    "content": "Make your fantasy hockey draft strategy easier with detailed forward tiers and a guide to the position.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Medical college in Vijayapura gets 50 additional MBBS seats ",
-    "link": "https://www.thehindu.com/news/national/karnataka/medical-college-in-vijayapura-gets-50-additional-mbbs-seats/article70029523.ece",
+    "title": "Andhra Pradesh Chief Minister unveils invitation for Dasara celebrations at Kanaka Durga temple in Vijayawada",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-chief-minister-unveils-invitation-for-dasara-celebrations-at-kanaka-durga-temple-in-vijayawada/article70029596.ece",
+    "content": "Officials invite Naidu to participate in Moola Nakshatram rituals; Endowments Commissioner reviews temple projects, says Sharannavaratri Utsavams draw over 10 lakh devotees",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "T.N. government to felicitate Ilaiyaraaja at event in Chennai on September 13",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-felicitate-ilaiyaraaja-at-event-in-chennai-on-september-13/article70029459.ece",
+    "content": "Besides the Chief Minister and the Deputy CM, actors Rajinikanth and Kama Haasan are expected to participate in the function to be held in the Jawarhalal Nehru Indoor Stadium",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Watch: Meet the temple artisans of Thiruvathigai",
+    "link": "https://www.thehindu.com/videos/watch-meet-the-temple-artisans-of-thiruvathigai/article70029783.ece",
+    "content": "Thiruvathigai in Cuddalore district, Tamil Nadu, is also renowned for its community of skilled artisans, who specialise in crafting temple vahanas, or processional mounts, and temple cars. We meet the skilled artisans who continue this remarkable tradition, taking orders from temples across the State",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Karnataka not against internationalisation of education, says Dr. Sudhakar ",
+    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-not-against-internationalisation-of-education-says-dr-sudhakar/article70029476.ece",
+    "content": "Several universities in the U.K. are keen to set up campuses in Bengaluru, following the Karnataka delegation’s talks with the heads of various U.K. universities",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "3,985 quintals of rice seized in joint raid in Gurmitkal",
+    "link": "https://www.thehindu.com/news/national/karnataka/3985-quintals-of-rice-seized-in-joint-raid-in-gurmitkal/article70029361.ece",
+    "content": "The seized rice meant for government schemes was stored illegally in two mills for polishing and sales under different brand names ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "CPI(M) urges Andhra Pradesh Chief Minister to rescue tribal coffee farmers hit by borer pest in Paderu",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-urges-andhra-pradesh-chief-minister-to-rescue-tribal-coffee-farmers-hit-by-borer-pest-in-paderu/article70029555.ece",
+    "content": "The party State secretary demands higher compensation, State-funded pest control, Coffee Research Centre at Paderu, and stronger marketing and insurance cover for tribal growers",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Row over removal of gold-plated sheets from Dwarapalaka idols at Sabarimala",
+    "link": "https://www.thehindu.com/news/national/kerala/row-over-removal-of-gold-platings-from-dwarapalaka-idols-at-sabarimala/article70029637.ece",
+    "content": "Special Commissioner has informed Kerala High Court that the gold-plated sheets on the Dwarapalaka idols at the temple entrance have been detached without the court’s approval",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Punjab floods: PM Modi conducts aerial survey, meets affected people in Gurdaspur",
+    "link": "https://www.thehindu.com/news/national/punjab/pm-modi-punjab-visit-gurdaspur-september-9-2025/article70029635.ece",
+    "content": "In Gurdaspur, PM Modi met flood-affected people as well as NDRF and SDRF teams; he chaired an official meeting in Gurdaspur to review the situation",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Here are the big stories from Karnataka today",
+    "link": "https://www.thehindu.com/newsletter/karnataka-today/here-are-the-big-stories-from-karnataka-today/article70029545.ece",
+    "content": "Welcome to the Karnataka Today newsletter, your guide from The Hindu on the major news stories to follow today. Curated and written by Nalme Nachiyar.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Catering company ‘Madhampatty Pakashala’ moves Madras High Court against defamatory posts by costumer designer Joy Crizildaa  ",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/catering-company-moves-madras-high-court-against-defamatory-posts-against-its-director-madampatty-rangaraj-by-costumer-designer-joy-crizildaa/article70029105.ece",
+    "content": "Justice N. Senthilkumar orders notice, returnable by September 26, to her and permits the counsel for the catering company to serve private notice too",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Karnataka forest department staff locked up inside tiger trap cage by irate villagers in Bandipur buffer zone",
+    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-forest-department-staff-locked-up-inside-tiger-trap-cage-by-irate-villagers-in-bandipur-buffer-zone/article70029281.ece",
+    "content": "In the wake of delayed rsponse from forest staff to repeated complaints about tiger sightings, the agitated villagers of Bommalapura gheraoed them and bundled them inside the cage meant for the tiger.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Construction of International Institute for People with Disabilities to start in Kasaragod on September 10",
+    "link": "https://www.thehindu.com/news/national/kerala/construction-of-international-institute-for-people-with-disabilities-to-start-in-kasaragod-on-september-10/article70029295.ece",
+    "content": "The institution, spread across 20 acres and modelled on DAC Thiruvananthapuram, will have training centres for arts and sports, advanced therapy systems, personalised assistive device units, vocational training centres, etc.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "In Focus podcast | Why most students in Bengal and Odisha take private tuitions",
+    "link": "https://www.thehindu.com/podcast/in-focus-podcast-why-most-students-in-bengal-and-odisha-take-private-tuitions/article70029350.ece",
+    "content": "Sabir Ahamed speaks to us about the factors contributing to the dependence on private tuition in the east, and how it is reshaping the education system in India.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "A.P. government ready to bear any cost for poor students: Minister",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-government-ready-to-bear-any-cost-for-poor-students-minister/article70028842.ece",
+    "content": "The State government is helping the families of students who died due to any illness through the Swanthana scheme, says Social Welfare Minister Dola Sree Bala Veeranjaneya Swamy",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "All establishments in Karnataka dealing with foreigners told to register with FRRO ",
+    "link": "https://www.thehindu.com/news/national/karnataka/all-establishments-in-karnataka-dealing-with-foreigners-told-to-register-with-frro/article70025678.ece",
+    "content": "The State government has directed Karnataka State Police to carry out a close surveillance of areas where a large number of foreign nationals reside. KSP has also been directed to use intelligence officials and those from the Reserve Police Forces for surveillance of these areas.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Ramdev’s remarks on allopathy: Closure report filed in Chhattisgarh FIR, Supreme Court told",
+    "link": "https://www.thehindu.com/news/national/ramdevs-remarks-on-allopathy-closure-report-filed-in-chhattisgarh-fir-supreme-court-told/article70028546.ece",
+    "content": "The complaints filed by the Indian Medical Association alleged that Mr. Ramdev’s remarks on allopathy undermined COVID-19 control efforts and discouraged people from seeking proper treatment",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Mudhol hounds Chandra and Kala safeguard sandalwood trees in Shikaripura forests ",
+    "link": "https://www.thehindu.com/news/national/karnataka/mudhol-hounds-chandra-and-kala-safeguard-sandalwood-trees-in-shikaripura-forests/article70016163.ece",
+    "content": "The dogs sense any suspicious activity, smell the presence of a foreign element and run very fast, says the forest staff at Chandrakala State Forest, known for cultivation of sandalwood.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "2008 Malegaon blast: Victims move HC against acquittal of Pragya Thakur, 6 others",
+    "link": "https://www.thehindu.com/news/national/maharashtra/2008-malegaon-blast-victims-move-hc-against-acquittal-of-pragya-thakur-6-others/article70029122.ece",
+    "content": "Bombay High Court appeal seeks to overturn Malegaon bomb blast acquittal, citing lack of evidence against accused",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "NIA conducts multi-state raids to probe ISIS-linked terror conspiracy case",
+    "link": "https://www.thehindu.com/news/national/nia-conducts-multi-state-raids-to-probe-isis-linked-terror-conspiracy-case/article70029099.ece",
+    "content": "The searches were conducted in the States of Bihar, Uttar Pradesh, Maharashtra, Karnataka and Tamil Nadu, as well as Jammu and Kashmir on Monday",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "ED questions BJP worker who filed petition in HC questioning Rahul Gandhi's citizenship",
+    "link": "https://www.thehindu.com/news/national/ed-questions-bjp-worker-who-filed-petition-in-hc-questioning-rahul-gandhis-citizenship/article70029046.ece",
+    "content": "S. Vignesh Shishir said before entering the ED office that he has been summoned under section 37 of the Foreign Exchange Management Act (FEMA) with regard to the said investigation.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Shivamogga: Video of pro-Pakistan slogans goes viral, Bhadravathi police book case",
+    "link": "https://www.thehindu.com/news/national/karnataka/shivamogga-video-of-pro-pakistan-slogans-goes-viral-bhadravathi-police-book-case/article70028916.ece",
+    "content": "The residents of Bhadravathi took out an Id-Milad procession in the town on September 8, and it is said that the video clip was shot during the procession.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Prohibitory orders extended in Maddur, security beefed up amid call for bandh",
+    "link": "https://www.thehindu.com/news/national/karnataka/prohibitory-orders-extended-in-maddur-security-beefed-up-amid-call-for-bandh/article70028853.ece",
+    "content": "About 800 police personnel led by four officials of the rank of Superintendent of Police, three officials of the rank of Additional Superintendent of Police, besides fifteen Deputy Superintendents and thirty Inspectors of Police are manning the town.  ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Over 500 people in Kerala’s Wayanad fall victim to ‘mule account’ scam",
+    "link": "https://www.thehindu.com/news/national/kerala/over-500-people-in-keralas-wayanad-fall-victim-to-mule-account-scam/article70028935.ece",
+    "content": "Fraudsters from outside the district rent local residents' bank accounts for money and misuse these for illicit transactions and other illegal activities, say investigators",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Work on service roads on Vengalam-Azhiyur stretch to be completed in a week",
+    "link": "https://www.thehindu.com/news/national/kerala/work-on-service-roads-on-vengalam-azhiyur-stretch-to-be-completed-in-a-week/article70029711.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Nepal crisis deepens: Social media ban lifted - then why is GenZ still protesting?",
-    "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-crisis-deepens-social-media-ban-lifted-then-why-is-the-genz-still-protesting-all-you-need-to-know/articleshow/123778228.cms",
-    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . a journey across continents as we unravel the stories that shape our interconnected world . read more 10 beautiful tropical aquarium fish suitable for Indian climate .",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Cultivate curiosity, adaptability to meet demands of technology, students urged ",
+    "link": "https://www.thehindu.com/news/national/karnataka/cultivate-curiosity-adaptability-to-meet-demands-of-technology-students-urged/article70029770.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "Technology"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "ISD constable arrested for abduction and extortion",
+    "link": "https://www.thehindu.com/news/cities/bangalore/isd-constable-arrested-for-abduction-and-extortion/article70029349.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Three of family arrested for killing man in Bagalkot ",
-    "link": "https://www.thehindu.com/news/national/karnataka/three-of-family-arrested-for-killing-man-in-bagalkot/article70029643.ece",
+    "title": "Farmers’ bodies seek grants for development of lakes in Mysuru district",
+    "link": "https://www.thehindu.com/news/national/karnataka/farmers-bodies-seek-grants-for-development-of-lakes-in-mysuru-district/article70029696.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "MP requests centre’s intervention to bring back Indians stuck in Nepal",
+    "link": "https://www.thehindu.com/news/national/kerala/mp-requests-centres-intervention-to-bring-back-indians-stuck-in-nepal/article70029722.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "YSRCP’s ‘Annadata Poru’ was a success, says YSRCP MLC ",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcps-annadata-poru-was-a-success-says-ysrcp-mlc/article70029692.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Tippiri Tirupathi, a senior Maoist leader from Jagtial district, the native district of Muppala Lakshman Rao, likely to succeed Nambala Keshav Rao, as CPI (Maoist) general secretary",
+    "link": "https://www.thehindu.com/news/national/telangana/tippiri-tirupathi-a-senior-maoist-leader-from-jagtial-district-the-native-district-of-muppala-lakshman-rao-likely-to-succeed-nambala-keshav-rao-as-cpi-maoist-general-secretary/article70029710.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "3,446 MT vegetables procured through Onam markets this season: Agriculture Department",
+    "link": "https://www.thehindu.com/news/national/kerala/3446-mt-vegetables-procured-through-onam-markets-this-season-agriculture-department/article70027032.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . 3,446 metric tonnes of vegetables were procured through 2,000 markets this festival season .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "ED raids properties linked to Chitradurga MLA Veerendra again",
+    "link": "https://www.thehindu.com/news/national/karnataka/ed-raids-properties-linked-to-chitradurga-mla-veerendra-again/article70029999.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "SUV with fake number plate found abandoned near DCM’s residence; FIR registered",
+    "link": "https://www.thehindu.com/news/cities/bangalore/case-registered-after-suv-with-fake-number-plate-found-abandoned-near-dcms-residence/article70029193.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "‘Swaraj Utsav’ to be conducted in Karnataka’s Pandavapura on Sept. 13",
+    "link": "https://www.thehindu.com/news/national/karnataka/swaraj-utsav-to-be-conducted-in-karnatakas-pandavapura-on-sept-13/article70029447.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "K.E. Ismail slams his exclusion from CPI State meet",
+    "link": "https://www.thehindu.com/news/national/kerala/ke-ismail-slams-his-exclusion-from-cpi-state-meet/article70029967.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Tribespeople in Edamalakkudy launch open protest, plant banana plant on road",
+    "link": "https://www.thehindu.com/news/national/kerala/tribespeople-in-edamalakkudy-launch-open-protest-plant-banana-plant-on-road/article70029715.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "14 children hospitalised after consuming shawarma in Kerala’s Kannur",
+    "link": "https://www.thehindu.com/news/national/kerala/14-children-hospitalised-after-consuming-shawarma-in-keralas-kannur/article70029068.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Watch live analysis: Nepal’s Gen Z protest and the future of its democracy ",
+    "link": "https://www.thehindu.com/news/national/watch-live-analysis-nepals-gen-z-protest-and-the-future-of-its-democracy/article70029181.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Central Railway to operate 230 special trains during Dasara and Deepavali festival season",
+    "link": "https://www.thehindu.com/news/national/karnataka/central-railway-to-operate-230-special-trains-during-dasara-and-deepavali-festival-season/article70029893.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "AIADMK MLA Sengottaiyan confirms meeting BJP leaders Amit Shah, Nirmala Sitharaman in New Delhi",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-mla-sengottaiyan-confirms-meeting-bjp-leaders-amit-shah-nirmala-sitharaman-in-new-delhi/article70029192.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Local",
+    "sub_category": "Delhi"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Two arrested for transporting 21 kg ganja in private bus from Odisha to Hyderabad",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/two-arrested-for-transporting-21-kg-ganja-in-private-bus-from-odisha-to-hyderabad/article70029173.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Malayalam rapper Vedan interrogated in rape case",
+    "link": "https://www.thehindu.com/news/national/kerala/malayalam-rapper-vedan-interrogated-in-rape-case/article70029898.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Kerala Cabinet clears ₹8,862-crore NABARD loan plan for KWA’s Jal Jeevan Mission projects",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-cabinet-clears-8862-crore-nabard-loan-plan-for-kwas-jal-jeevan-mission-projects/article70029282.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Youth spirit to soar as ‘Yuva Sambrama 2025’ kicks off on Sept. 10",
+    "link": "https://www.thehindu.com/news/national/karnataka/youth-spirit-to-soar-as-yuva-sambrama-2025-kicks-off-on-sept-10/article70029436.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Man loses over ₹3 lakh in loan fraud",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/man-loses-over-3-lakh-in-loan-fraud/article70028934.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Condition of Edapally-Thrissur NH 544: Kerala HC directs Thrissur Collector to appear online",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-further-extends-suspension-of-toll-collection-at-paliyekkara-toll-plaza/article70029400.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Head Constable honoured for rescue of woman in Hyderabad’s Banjara Hills floods ",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/head-constable-honoured-for-rescue-of-woman-in-hyderabads-banjara-hills-floods/article70029278.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "CII Mysuru to organise session on legal essentials for HR and IR teams",
+    "link": "https://www.thehindu.com/news/national/karnataka/cii-mysuru-to-organise-session-on-legal-essentials-for-hr-and-ir-teams/article70029237.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Domestic help arrested for stealing ₹7 lakh worth of gold valuables in Bengaluru",
+    "link": "https://www.thehindu.com/news/national/karnataka/domestic-help-arrested-for-stealing-7-lakh-worth-of-gold-valuables-in-bengaluru/article70029000.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Local",
+    "sub_category": "Bengaluru"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Narsingi Town Planning Officer arrested while accepting ₹4 lakh bribe ",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/narsingi-town-planning-officer-arrested-while-accepting-4-lakh-bribe/article70029480.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Excise enforcement constable held for extortion from film celebrities with drug case threats",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/excise-enforcement-constable-held-for-extortion-from-film-celebrities-with-drug-case-threats/article70029606.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Couple booked for cheating people on pretext of interest-free gold loans; suspects absconding",
+    "link": "https://www.thehindu.com/news/national/karnataka/couple-booked-for-cheating-people-on-pretext-of-interest-free-gold-loans-suspects-absconding/article70028911.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Punjab MP Amritpal Singh abstains from voting in V-P election ",
+    "link": "https://www.thehindu.com/news/national/assam/punjab-mp-amritpal-singh-abstains-from-voting-in-vice-presidential-elections/article70029338.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "AITUC submits memo to Jagan against privatisation of tourism assets",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/aituc-submits-memo-to-jagan-against-privatisation-of-tourism-assets/article70029567.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Indiramma Houses for all eligible in three years: Minister Ponguleti",
+    "link": "https://www.thehindu.com/news/national/telangana/indiramma-houses-for-all-eligible-in-three-years-minister-ponguleti/article70029495.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Tuhin Menon on his track ‘Parotta & Beef’ which crossed one million views on YouTube: The emotion is universal",
+    "link": "https://www.thehindu.com/entertainment/music/tuhin-menons-on-his-track-parotta-beef-which-crossed-1-million-views-the-emotion-is-universal/article70028967.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Yogi Vemana University secures top NIRF rankings",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/yogi-vemana-university-secures-top-nirf-rankings/article70029636.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Five red sanders smugglers arrested, nine logs seized",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/five-red-sanders-smugglers-arrested-nine-logs-seized/article70029502.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "College union polls: meeting at CU on September 12",
+    "link": "https://www.thehindu.com/news/national/kerala/college-union-polls-meeting-at-cu-on-september-12/article70029598.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Sanal Kumar Sasidharan granted bail in actor stalking case",
+    "link": "https://www.thehindu.com/news/national/kerala/sanal-kumar-sasidharan-granted-bail-in-actor-stalking-case/article70029748.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "EAGLE busts ₹3 crore hawala racket linked to Nigerian drug cartels",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/eagle-busts-3-crore-hawala-racket-linked-to-nigerian-drug-cartels/article70029378.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Bengaluru: CCB arrests drug peddler duo during raid on hotel in Ramamurthy Nagar",
+    "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-ccb-arrests-drug-peddler-duo-during-raid-on-hotel-in-ramamurthy-nagar/article70028968.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Local",
+    "sub_category": "Bengaluru"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Habitual offender held in Kondapur with 560 grams of ganja",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/habitual-offender-held-in-kondapur-with-560-grams-of-ganja/article70029615.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1105,9 +1353,17 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "KSRTC daily collection touches record ₹10.19 cr.  ",
-    "link": "https://www.thehindu.com/news/national/kerala/ksrtc-daily-collection-touches-record-1019-cr/article70029774.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
+    "title": "BJP stages protest over pro-Pakistan slogans in Karnataka’s Bhadravathi",
+    "link": "https://www.thehindu.com/news/national/karnataka/bjp-stages-protest-over-pro-pakistan-slogans-in-karnatakas-bhadravathi/article70029687.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Medical college in Vijayapura gets 50 additional MBBS seats ",
+    "link": "https://www.thehindu.com/news/national/karnataka/medical-college-in-vijayapura-gets-50-additional-mbbs-seats/article70029523.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1129,16 +1385,8 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Anbumani lauds Karnataka govt. for caste enumeration",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-lauds-karnataka-govt-for-caste-enumeration/article70029945.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Convict escapes custody during treatment at Kidwai hospital",
-    "link": "https://www.thehindu.com/news/national/karnataka/convict-escapes-custody-during-treatment-at-kidwai-hospital/article70029444.ece",
+    "title": "Three of family arrested for killing man in Bagalkot ",
+    "link": "https://www.thehindu.com/news/national/karnataka/three-of-family-arrested-for-killing-man-in-bagalkot/article70029643.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1152,33 +1400,25 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "2008 Malegaon blast case: Victims move HC against acquittal of Pragya Thakur, Purohit & others",
-    "link": "https://timesofindia.indiatimes.com/india/2008-malegaon-blast-case-victims-move-bombay-high-court-against-acquittal-of-pragya-thakur-purohit-and-others/articleshow/123783046.cms",
-    "content": "the TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide . the team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "We are A-team of Telangana, not B-team of BJP or Congress: KTR",
-    "link": "https://www.thehindu.com/news/national/telangana/we-are-a-team-of-telangana-not-b-team-of-bjp-or-congress-ktr/article70029313.ece",
+    "title": "Anbumani lauds Karnataka govt. for caste enumeration",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-lauds-karnataka-govt-for-caste-enumeration/article70029945.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Stalemate continues between Telangana, A.P. over pending dues of common institutions and CSS funds  ",
-    "link": "https://www.thehindu.com/news/national/telangana/stalemate-continues-between-telangana-ap-over-pending-dues-of-common-institutions-and-css-funds/article70029467.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "title": "KSRTC daily collection touches record ₹10.19 cr.  ",
+    "link": "https://www.thehindu.com/news/national/kerala/ksrtc-daily-collection-touches-record-1019-cr/article70029774.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Work on service roads on Vengalam-Azhiyur stretch to be completed in a week",
-    "link": "https://www.thehindu.com/news/national/kerala/work-on-service-roads-on-vengalam-azhiyur-stretch-to-be-completed-in-a-week/article70029711.ece",
+    "title": "Convict escapes custody during treatment at Kidwai hospital",
+    "link": "https://www.thehindu.com/news/national/karnataka/convict-escapes-custody-during-treatment-at-kidwai-hospital/article70029444.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1192,58 +1432,34 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Make the best use of opportunity to study at Sharnbasva University, freshers told  ",
-    "link": "https://www.thehindu.com/news/national/karnataka/make-the-best-use-of-opportunity-to-study-at-sharnbasva-university-freshers-told/article70029561.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "ISD constable arrested for abduction and extortion",
-    "link": "https://www.thehindu.com/news/cities/bangalore/isd-constable-arrested-for-abduction-and-extortion/article70029349.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "YSRCP’s ‘Annadata Poru’ was a success, says YSRCP MLC ",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcps-annadata-poru-was-a-success-says-ysrcp-mlc/article70029692.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Malayalam rapper Vedan appears before police for questioning in rape case",
-    "link": "https://www.thehindu.com/news/national/kerala/malayalam-rapper-vedan-appears-before-police-for-questioning-in-rape-case/article70028627.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Videos show FM Paudel being chased, kicked, assaulted on streets; Ex-PM Deuba hurt | Watch",
-    "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-in-chaos-videos-show-finance-minister-paudel-chased-kicked-and-assaulted-on-streets-ex-pm-deuba-hurt-amid-gen-z-protests-watch/articleshow/123784402.cms",
-    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
+    "title": "Nepal crisis deepens: Social media ban lifted - then why is GenZ still protesting?",
+    "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-crisis-deepens-social-media-ban-lifted-then-why-is-the-genz-still-protesting-all-you-need-to-know/articleshow/123778228.cms",
+    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . a journey across continents as we unravel the stories that shape our interconnected world . read more 10 beautiful tropical aquarium fish suitable for Indian climate .",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Nepal's next PM? Meet Kathmandu mayor Balen Shah - studied in Karnataka; banned Indian films",
-    "link": "https://timesofindia.indiatimes.com/world/south-asia/rapper-mayor-and-now-nepals-next-pm-meet-balen-shah-studied-in-karnataka-banned-indian-films-in-kathmandu/articleshow/123787777.cms",
-    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
-    "category": "Local",
-    "sub_category": "India"
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Kerala’s KIRF model emerges an alternative to NIRF amid ‘peer perception’ debate",
+    "link": "https://www.thehindu.com/news/national/kerala/keralas-kirf-model-emerges-an-alternative-to-nirf-amid-peer-perception-debate/article70029890.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Unrest in Nepal: Mob attacks ministers, vandalises Parliament - top videos of chaos",
-    "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-protests-mob-attacks-ministers-vandalises-parliament-sets-sc-on-fire-top-10-videos-of-chaos/articleshow/123783273.cms",
-    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "We are A-team of Telangana, not B-team of BJP or Congress: KTR",
+    "link": "https://www.thehindu.com/news/national/telangana/we-are-a-team-of-telangana-not-b-team-of-bjp-or-congress-ktr/article70029313.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Hosur’s real estate boom poised to take flight with proposed airport ",
+    "link": "https://www.thehindu.com/news/national/karnataka/hosurs-real-estate-boom-poised-to-take-flight-with-proposed-airport/article70028991.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1257,6 +1473,38 @@
 },
 {
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Videos show FM Paudel being chased, kicked, assaulted on streets; Ex-PM Deuba hurt | Watch",
+    "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-in-chaos-videos-show-finance-minister-paudel-chased-kicked-and-assaulted-on-streets-ex-pm-deuba-hurt-amid-gen-z-protests-watch/articleshow/123784402.cms",
+    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "2008 Malegaon blast case: Victims move HC against acquittal of Pragya Thakur, Purohit & others",
+    "link": "https://timesofindia.indiatimes.com/india/2008-malegaon-blast-case-victims-move-bombay-high-court-against-acquittal-of-pragya-thakur-purohit-and-others/articleshow/123783046.cms",
+    "content": "the TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide . the team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Make the best use of opportunity to study at Sharnbasva University, freshers told  ",
+    "link": "https://www.thehindu.com/news/national/karnataka/make-the-best-use-of-opportunity-to-study-at-sharnbasva-university-freshers-told/article70029561.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Giridhar Parvatam appointed new director of CSIR-CFTRI, Mysuru",
+    "link": "https://www.thehindu.com/news/national/karnataka/giridhar-parvatam-appointed-new-director-of-csir-cftri-mysuru/article70029291.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
     "title": "Chaos in Nepal: MEA issues advisory; helpline numbers released - key points",
     "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-lifts-social-media-ban-pm-kp-oli-blames-ambiguity-for-gen-z-protest-that-claimed-19-lives-key-points/articleshow/123776339.cms",
     "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More Stunning pictures of Sai Tamhankar Loud and clear: 10 animals with super hearing powers! Karishma Tanna’s journey through elegance and charm How to use coconut milk for hair growth 10 beautiful tropical aquarium fish suitable for Indian climate Divyanka Tripathi’s inspired top 10 gorgeous looks 5 Most loved zodiac signs in the workplace Vani Bhojan redefines charm and style in THESE pics Saniya Iyappan — A journey in frames 10 co-parenting hacks that actually work",
@@ -1265,235 +1513,35 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Infant Mortality Rate in Telangana drops by nearly half since 2014",
-    "link": "https://www.thehindu.com/news/national/telangana/infant-mortality-rate-in-telangana-drops-by-nearly-half-since-2014/article70028558.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "title": "Autism starts from the womb, says Dr Chandrasekhar of Hyderabad’s Resplice Institute",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/autism-starts-from-the-womb-says-dr-chandrasekhar-of-hyderabads-resplice-institute/article70029950.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "All India Prison Duty Meet opens in Hyderabad with focus on reforms and technology",
-    "link": "https://www.thehindu.com/news/national/telangana/all-india-prison-duty-meet-opens-in-hyderabad-with-focus-on-reforms-and-technology/article70028659.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Nepal's next PM? Meet Kathmandu mayor Balen Shah - studied in Karnataka; banned Indian films",
+    "link": "https://timesofindia.indiatimes.com/world/south-asia/rapper-mayor-and-now-nepals-next-pm-meet-balen-shah-studied-in-karnataka-banned-indian-films-in-kathmandu/articleshow/123787777.cms",
+    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
     "category": "Local",
     "sub_category": "India"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "AIADMK MLA Sengottaiyan confirms meeting BJP leaders Amit Shah, Nirmala Sitharaman in New Delhi",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-mla-sengottaiyan-confirms-meeting-bjp-leaders-amit-shah-nirmala-sitharaman-in-new-delhi/article70029192.ece",
+    "title": "Suspension of IPS officers Anjaneyulu, Kanthi Rana Tata extended by six months",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/suspension-of-ips-officers-anjaneyulu-kanthi-rana-tata-extended-by-six-months/article70029836.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Local",
-    "sub_category": "Delhi"
+    "category": "Global",
+    "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "14 children hospitalised after consuming shawarma in Kerala’s Kannur",
-    "link": "https://www.thehindu.com/news/national/kerala/14-children-hospitalised-after-consuming-shawarma-in-keralas-kannur/article70029068.ece",
+    "title": "Stalemate continues between Telangana, A.P. over pending dues of common institutions and CSS funds  ",
+    "link": "https://www.thehindu.com/news/national/telangana/stalemate-continues-between-telangana-ap-over-pending-dues-of-common-institutions-and-css-funds/article70029467.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
     "category": "Global",
     "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Two arrested for transporting 21 kg ganja in private bus from Odisha to Hyderabad",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/two-arrested-for-transporting-21-kg-ganja-in-private-bus-from-odisha-to-hyderabad/article70029173.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Kerala Cabinet clears ₹8,862-crore NABARD loan plan for KWA’s Jal Jeevan Mission projects",
-    "link": "https://www.thehindu.com/news/national/kerala/kerala-cabinet-clears-8862-crore-nabard-loan-plan-for-kwas-jal-jeevan-mission-projects/article70029282.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Watch live analysis: Nepal’s Gen Z protest and the future of its democracy ",
-    "link": "https://www.thehindu.com/news/national/watch-live-analysis-nepals-gen-z-protest-and-the-future-of-its-democracy/article70029181.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Head Constable honoured for rescue of woman in Hyderabad’s Banjara Hills floods ",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/head-constable-honoured-for-rescue-of-woman-in-hyderabads-banjara-hills-floods/article70029278.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Condition of Edapally-Thrissur NH 544: Kerala HC directs Thrissur Collector to appear online",
-    "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-further-extends-suspension-of-toll-collection-at-paliyekkara-toll-plaza/article70029400.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "CII Mysuru to organise session on legal essentials for HR and IR teams",
-    "link": "https://www.thehindu.com/news/national/karnataka/cii-mysuru-to-organise-session-on-legal-essentials-for-hr-and-ir-teams/article70029237.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Man loses over ₹3 lakh in loan fraud",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/man-loses-over-3-lakh-in-loan-fraud/article70028934.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Domestic help arrested for stealing ₹7 lakh worth of gold valuables in Bengaluru",
-    "link": "https://www.thehindu.com/news/national/karnataka/domestic-help-arrested-for-stealing-7-lakh-worth-of-gold-valuables-in-bengaluru/article70029000.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Local",
-    "sub_category": "Bengaluru"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Punjab MP Amritpal Singh casts vote for V-P election from Assam jail",
-    "link": "https://www.thehindu.com/news/national/assam/punjab-mp-amritpal-singh-casts-vote-for-v-p-election-from-assam-jail/article70029338.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Excise enforcement constable held for extortion from film celebrities with drug case threats",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/excise-enforcement-constable-held-for-extortion-from-film-celebrities-with-drug-case-threats/article70029606.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Narsingi Town Planning Officer arrested while accepting ₹4 lakh bribe ",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/narsingi-town-planning-officer-arrested-while-accepting-4-lakh-bribe/article70029480.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Couple booked for cheating people on pretext of interest-free gold loans; suspects absconding",
-    "link": "https://www.thehindu.com/news/national/karnataka/couple-booked-for-cheating-people-on-pretext-of-interest-free-gold-loans-suspects-absconding/article70028911.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tuhin Menon on his track ‘Parotta & Beef’ which crossed one million views on YouTube: The emotion is universal",
-    "link": "https://www.thehindu.com/entertainment/music/tuhin-menons-on-his-track-parotta-beef-which-crossed-1-million-views-the-emotion-is-universal/article70028967.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "AITUC submits memo to Jagan against privatisation of tourism assets",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/aituc-submits-memo-to-jagan-against-privatisation-of-tourism-assets/article70029567.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Yogi Vemana University secures top NIRF rankings",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/yogi-vemana-university-secures-top-nirf-rankings/article70029636.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "EAGLE busts ₹3 crore hawala racket linked to Nigerian drug cartels",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/eagle-busts-3-crore-hawala-racket-linked-to-nigerian-drug-cartels/article70029378.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Indiramma Houses for all eligible in three years: Minister Ponguleti",
-    "link": "https://www.thehindu.com/news/national/telangana/indiramma-houses-for-all-eligible-in-three-years-minister-ponguleti/article70029495.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "BJP stages protest over pro-Pakistan slogans in Karnataka’s Bhadravathi",
-    "link": "https://www.thehindu.com/news/national/karnataka/bjp-stages-protest-over-pro-pakistan-slogans-in-karnatakas-bhadravathi/article70029687.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Sanal Kumar Sasidharan granted bail in actor stalking case",
-    "link": "https://www.thehindu.com/news/national/kerala/sanal-kumar-sasidharan-granted-bail-in-actor-stalking-case/article70029748.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Bengaluru: CCB arrests drug peddler duo during raid on hotel in Ramamurthy Nagar",
-    "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-ccb-arrests-drug-peddler-duo-during-raid-on-hotel-in-ramamurthy-nagar/article70028968.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Local",
-    "sub_category": "Bengaluru"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Five red sanders smugglers arrested, nine logs seized",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/five-red-sanders-smugglers-arrested-nine-logs-seized/article70029502.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Habitual offender held in Kondapur with 560 grams of ganja",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/habitual-offender-held-in-kondapur-with-560-grams-of-ganja/article70029615.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "3,446 MT vegetables procured through Onam markets this season: Agriculture Department",
-    "link": "https://www.thehindu.com/news/national/kerala/3446-mt-vegetables-procured-through-onam-markets-this-season-agriculture-department/article70027032.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . 3,446 metric tonnes of vegetables were procured through 2,000 markets this festival season .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Farmers’ bodies seek grants for development of lakes in Mysuru district",
-    "link": "https://www.thehindu.com/news/national/karnataka/farmers-bodies-seek-grants-for-development-of-lakes-in-mysuru-district/article70029696.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Cultivate curiosity, adaptability to meet demands of technology, students urged ",
-    "link": "https://www.thehindu.com/news/national/karnataka/cultivate-curiosity-adaptability-to-meet-demands-of-technology-students-urged/article70029770.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "Technology"
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
@@ -1505,97 +1553,25 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tippiri Tirupathi, a senior Maoist leader from Jagtial district, the native district of Muppala Lakshman Rao, likely to succeed Nambala Keshav Rao, as CPI (Maoist) general secretary",
-    "link": "https://www.thehindu.com/news/national/telangana/tippiri-tirupathi-a-senior-maoist-leader-from-jagtial-district-the-native-district-of-muppala-lakshman-rao-likely-to-succeed-nambala-keshav-rao-as-cpi-maoist-general-secretary/article70029710.ece",
+    "title": "GPS survey for Poozhithode-Padinjarathara road to be completed soon",
+    "link": "https://www.thehindu.com/news/national/kerala/gps-survey-for-poozhithode-padinjarathara-road-to-be-completed-soon/article70029461.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "‘Swaraj Utsav’ to be conducted in Karnataka’s Pandavapura on Sept. 13",
-    "link": "https://www.thehindu.com/news/national/karnataka/swaraj-utsav-to-be-conducted-in-karnatakas-pandavapura-on-sept-13/article70029447.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "SUV with fake number plate found abandoned near DCM’s residence; FIR registered",
-    "link": "https://www.thehindu.com/news/cities/bangalore/case-registered-after-suv-with-fake-number-plate-found-abandoned-near-dcms-residence/article70029193.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "College union polls: meeting at CU on September 12",
-    "link": "https://www.thehindu.com/news/national/kerala/college-union-polls-meeting-at-cu-on-september-12/article70029598.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "ED raids properties linked to Chitradurga MLA Veerendra again",
-    "link": "https://www.thehindu.com/news/national/karnataka/ed-raids-properties-linked-to-chitradurga-mla-veerendra-again/article70029999.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "MP requests centre’s intervention to bring back Indians stuck in Nepal",
-    "link": "https://www.thehindu.com/news/national/kerala/mp-requests-centres-intervention-to-bring-back-indians-stuck-in-nepal/article70029722.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tribespeople in Edamalakkudy launch open protest, plant banana plant on road",
-    "link": "https://www.thehindu.com/news/national/kerala/tribespeople-in-edamalakkudy-launch-open-protest-plant-banana-plant-on-road/article70029715.ece",
+    "title": "GHMC starts an exercise to map PTINs with electricity connections",
+    "link": "https://www.thehindu.com/news/national/telangana/ghmc-starts-an-exercise-to-map-ptins-with-electricity-connections/article70030242.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "'That kid is so tough': Caden Durham wants to drive LSU to the finish",
-    "link": "https://www.espn.com/college-football/story/_/id/46197585/caden-durham-lsu-running-back",
-    "content": "the 205-pound linebacker is the top high school running back in his class in Texas . he wears his normal size 11 cleats, no steel plate lining the bottom, no more padded insoles . \"the prototype,\" running backs coach Frank Wilson says of what we are looking for .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "K.E. Ismail slams his exclusion from CPI State meet",
-    "link": "https://www.thehindu.com/news/national/kerala/ke-ismail-slams-his-exclusion-from-cpi-state-meet/article70029967.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Central Railway to operate 230 special trains during Dasara and Deepavali festival season",
-    "link": "https://www.thehindu.com/news/national/karnataka/central-railway-to-operate-230-special-trains-during-dasara-and-deepavali-festival-season/article70029893.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Malayalam rapper Vedan interrogated in rape case",
-    "link": "https://www.thehindu.com/news/national/kerala/malayalam-rapper-vedan-interrogated-in-rape-case/article70029898.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "How Missouri's pair of five-star recruits fit, plus more 2026 commitment breakdowns",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/45769515/how-mens-college-basketball-five-star-commits-2026-espn-100-class-fit-new-school",
-    "content": "a total of 18 five-stars are atop the ESPN 100 player rankings for the men's college basketball class of 2026 . three are off the board as of early September . most recently, no. 12 JaShawn Andrews was the first of this group, announcing his commitment to Arkansas .",
+    "title": "What to know about all 32 playcallers in the NFL: We have key trends to watch for every team",
+    "link": "https://www.espn.com/nfl/story/_/id/46137832/nfl-playcallers-32-teams-mike-mcdaniel-sean-mcvay-brian-schottenheimer",
+    "content": "the 2025 season is underway, which means we got our first look at new playcallers such as the Detroit Lions ' John Morton, Tampa Bay Buccaneers ' Josh Grizzard and the Super Bowl champion Philadelphia Eagles' each of them will carry the dual responsibility of coaching and calling offensive plays .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1608,10 +1584,18 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "From top prospect to fringe player, Kobbie Mainoo in limbo at Manchester United",
-    "link": "https://www.espn.com/soccer/story/_/id/46198671/manchester-united-kobbie-mainoo-ruben-amorim-transfers-limbo",
-    "content": "Kobbie Mainoo isn't one for big outbursts of emotion, so much so that when he waved his arms to pump up the crowd, he got a bit of light teasing from his teammates in the dressing room afterwards . his decision to ask for a loan move in the final days of the transfer window was not taken lightly .",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Unrest in Nepal: Mob attacks ministers, vandalises Parliament - top videos of chaos",
+    "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-protests-mob-attacks-ministers-vandalises-parliament-sets-sc-on-fire-top-10-videos-of-chaos/articleshow/123783273.cms",
+    "content": "seasoned journalists and passionate writers tirelessly sift through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock . we strive to keep you informed about the ever-evolving world, providing a nuanced understanding of international affairs to our readers .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Formula-E case: ACB submits final report to government",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/formula-e-case-acb-submits-final-report-to-government/article70030168.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1625,9 +1609,25 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "McCarthy, Vikings spoil Ben Johnson's Bears debut",
-    "link": "https://www.espn.com/nfl/story/_/id/46201604/nfl-monday-night-football-bears-vikings-jj-mccarthy-caleb-williams-ben-johnson",
-    "content": "the team's new era at quarterback began with a rousing comeback win over the Chicago Bears . the Vikings' defense kept the team in the game while the offense struggled . a 14-yard scramble in the fourth quarter put the team up by 10 and accounted for the final margin .",
+    "title": "What happened to Oklahoma State? Is USF the team to watch?",
+    "link": "https://www.espn.com/college-football/story/_/page/mondaytakeaways090825/2025-college-football-week-2-takeaways",
+    "content": "the ACC and Big Ten show they have multiple teams in contention for the college football playoff . south Florida beat yet another AP Top 25 team and Oklahoma State suffered its biggest loss in over 100 years . our college football experts break down key takeaways from Week 2 performances .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "How Missouri's pair of five-star recruits fit, plus more 2026 commitment breakdowns",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/45769515/how-mens-college-basketball-five-star-commits-2026-espn-100-class-fit-new-school",
+    "content": "a total of 18 five-stars are atop the ESPN 100 player rankings for the men's college basketball class of 2026 . three are off the board as of early September . most recently, no. 12 JaShawn Andrews was the first of this group, announcing his commitment to Arkansas .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "From top prospect to fringe player, Kobbie Mainoo in limbo at Manchester United",
+    "link": "https://www.espn.com/soccer/story/_/id/46198671/manchester-united-kobbie-mainoo-ruben-amorim-transfers-limbo",
+    "content": "Kobbie Mainoo isn't one for big outbursts of emotion, so much so that when he waved his arms to pump up the crowd, he got a bit of light teasing from his teammates in the dressing room afterwards . his decision to ask for a loan move in the final days of the transfer window was not taken lightly .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1641,14 +1641,6 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Week 2 Power Rankings: Stacking the teams, plus top non-QB newcomer performances",
-    "link": "https://www.espn.com/nfl/story/_/id/46139936/nfl-week-2-power-rankings-poll-32-teams-2025-best-newcomer",
-    "content": "the Minnesota Vikings beat the Chicago Bears on \"Monday Night Football\" the Packers finished their opening week of the 2025 season with a comeback win . the Pittsburgh Steelers, the Green Bay Packers and the Buffalo Bills topped their power rankings .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
     "title": "Fantasy reaction: Bigsby trade a boon to Etienne's fantasy value",
     "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
     "content": "the fantasy football buzz file aims to provide fantasy managers with the intel they need as news breaks around the NFL . a big spike in Jacory Croskey-Merritt's start rate after his nice performance in Week 1 . Travis Etienne Jr. is the biggest winner here after leading the team .",
@@ -1657,17 +1649,25 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "What happened to Oklahoma State? Is USF the team to watch?",
-    "link": "https://www.espn.com/college-football/story/_/page/mondaytakeaways090825/2025-college-football-week-2-takeaways",
-    "content": "the ACC and Big Ten show they have multiple teams in contention for the college football playoff . south Florida beat yet another AP Top 25 team and Oklahoma State suffered its biggest loss in over 100 years . our college football experts break down key takeaways from Week 2 performances .",
+    "title": "McCarthy, Vikings spoil Ben Johnson's Bears debut",
+    "link": "https://www.espn.com/nfl/story/_/id/46201604/nfl-monday-night-football-bears-vikings-jj-mccarthy-caleb-williams-ben-johnson",
+    "content": "the team's new era at quarterback began with a rousing comeback win over the Chicago Bears . the Vikings' defense kept the team in the game while the offense struggled . a 14-yard scramble in the fourth quarter put the team up by 10 and accounted for the final margin .",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "What to know about all 32 playcallers in the NFL: We have key trends to watch for every team",
-    "link": "https://www.espn.com/nfl/story/_/id/46137832/nfl-playcallers-32-teams-mike-mcdaniel-sean-mcvay-brian-schottenheimer",
-    "content": "the 2025 season is underway, which means we got our first look at new playcallers such as the Detroit Lions ' John Morton, Tampa Bay Buccaneers ' Josh Grizzard and the Super Bowl champion Philadelphia Eagles' each of them will carry the dual responsibility of coaching and calling offensive plays .",
+    "title": "'That kid is so tough': Caden Durham wants to drive LSU to the finish",
+    "link": "https://www.espn.com/college-football/story/_/id/46197585/caden-durham-lsu-running-back",
+    "content": "the 205-pound linebacker is the top high school running back in his class in Texas . he wears his normal size 11 cleats, no steel plate lining the bottom, no more padded insoles . \"the prototype,\" running backs coach Frank Wilson says of what we are looking for .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Week 2 Power Rankings: Stacking the teams, plus top non-QB newcomer performances",
+    "link": "https://www.espn.com/nfl/story/_/id/46139936/nfl-week-2-power-rankings-poll-32-teams-2025-best-newcomer",
+    "content": "the Minnesota Vikings beat the Chicago Bears on \"Monday Night Football\" the Packers finished their opening week of the 2025 season with a comeback win . the Pittsburgh Steelers, the Green Bay Packers and the Buffalo Bills topped their power rankings .",
     "category": "Global",
     "sub_category": "General"
 },
