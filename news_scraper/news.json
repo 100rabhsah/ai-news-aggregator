@@ -1,153 +1,337 @@
 [
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Forensic Tests Confirm 17-Year-Old Killed Mexican Mayor Carlos Manzo",
-    "link": "https://www.ndtv.com/world-news/forensic-tests-confirm-17-year-old-killed-mexican-mayor-carlos-manzo-9591974#publisher=newsstand",
-    "content": "A 17-year-old boy has been confirmed as the perpetrator of the deadly shooting of Carlos Manzo, mayor of the Mexican city of Uruapan, during a public event in the state of Michoacan over the weekend, the state prosecutor's office said on Thursday.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Winds Shatter Window, Blow Roofs As Typhoon Kalmaegi Kills 5 In Vietnam",
-    "link": "https://www.ndtv.com/world-news/winds-shatter-window-blow-roofs-as-typhoon-kalmaegi-kills-5-in-vietnam-9592079#publisher=newsstand",
-    "content": "After wreaking havoc in the Philippines, Typhoon Kalmaegi brought fierce winds and torrential rains to Vietnam, where five people have been killed and many others remain missing after several houses collapsed in Gia Lai and neighbouring Dak Lak.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Wine Order Leaves Bitter Aftertaste As Bengaluru Man Loses Rs 17,994 In Scam",
-    "link": "https://www.ndtv.com/bangalore-news/wine-order-leaves-bitter-aftertaste-as-bengaluru-man-loses-rs-17-994-in-scam-9591910#publisher=newsstand",
-    "content": "What was meant to be a simple attempt to order a bottle of wine for a home function turned into a bitter experience for a Bengaluru resident, who ended up losing Rs 17,994 to an online delivery scam.",
-    "category": "Local",
-    "sub_category": "Bengaluru"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Inside 'Anandamath': The Celebrated Book That Gave India 'Vande Mataram'",
-    "link": "https://www.ndtv.com/india-news/inside-anandamath-the-celebrated-book-that-gave-india-vande-mataram-9591468#publisher=newsstand",
-    "content": "As India commemorates 150 years of Vande Mataram, the spotlight turns to Anandamath, the novel where Bankim Chandra Chatterjee introduced the hymn to the nation.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "\"Don't Carry Burden On Yourself\": Top Court To Father Of Air India Pilot",
-    "link": "https://www.ndtv.com/india-news/top-court-notice-to-centre-on-air-india-pilots-fathers-plea-for-judicial-inquiry-9591598#publisher=newsstand",
-    "content": "No one can blame the pilot-in-command of the Air India Boeing 787 Dreamliner for the crash in Ahmedabad that killed 260, the Supreme Court told the pilot's father today and sent notices to the Centre and the civil aviation regulator DGCA.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "West Bengal Mandates Rabindranath Tagore's State Song At School Assemblies",
-    "link": "https://www.ndtv.com/india-news/west-bengal-mandates-rabindranath-tagores-state-song-at-school-assemblies-9592054#publisher=newsstand",
-    "content": "The West Bengal Board of Secondary Education issued a notification making Nobel laureate Rabindranath Tagore's 'Banglar mati, Banglar jol', the state's official song, mandatory at morning assemblies in government-aided and sponsored schools across th",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Gujarat Horror: Dhaba Worker Forced To Lick Feet At Knifepoint, Filmed",
-    "link": "https://www.ndtv.com/india-news/gujarat-horror-dhaba-worker-forced-to-lick-feet-at-knifepoint-filmed-9592000#publisher=newsstand",
-    "content": "Shocking visuals have emerged in Gujarat's Surat of a 26-year-old man being forced to lick another man's feet and apologise to him at knifepoint.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Supreme Court's Big Order On Stray Dogs, Cattle At Rail Stations, Highways",
-    "link": "https://www.ndtv.com/india-news/remove-stray-dogs-from-bus-stands-railway-stations-top-courts-big-order-9591433#publisher=newsstand",
-    "content": "The Supreme Court also directed state governments, municipal authorities, and road and transport authorities to remove cattle from highways and expressways and rehabilitate them in shelters.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Tesla To xAI, Elon Musk's Tech Empire That Makes Him A Trillion-Dollar CEO",
-    "link": "https://www.ndtv.com/world-news/tesla-to-xai-elon-musks-tech-empire-that-makes-him-a-trillion-dollar-ceo-spacex-neuralink-x-the-boring-company-9591659#publisher=newsstand",
-    "content": "Elon Musk has secured a $1 trillion pay deal from Tesla, in what is the largest corporate pay package in history.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Navi Mumbai Man Beats Cousin To Death On Suspicion Of Mobile Theft",
-    "link": "https://www.ndtv.com/cities/navi-mumbai-man-beats-cousin-to-death-on-suspicion-of-mobile-theft-9591822#publisher=newsstand",
-    "content": "A 34-year-old man was beaten to death by his cousin and an aide on suspicion of stealing a mobile phone in Navi Mumbai, police said on Friday.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "How chaos at Mumbai's CMST forced commuters onto tracks; 2 killed by local train",
+    "link": "https://timesofindia.indiatimes.com/city/mumbai/overcrowded-trains-jam-packed-stations-how-commuters-during-peak-hours-were-forced-onto-tracks-at-mumbais-csmt-2-killed-by-a-local-train/articleshow/125150001.cms",
+    "content": "Mumbai's Central Railway faced severe disruption as a railway employee protest at CSMT led to overcrowded platforms and stalled trains. Commuters, desperate to get home, walked on tracks near Sandhurst Road, resulting in a tragic accident where two died and three were injured. The protest stemmed from an FIR against engineers in a prior fatal accident.",
     "category": "Local",
     "sub_category": "Mumbai"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Case Against 2 UP Police Officials After Man Falls Off Roof During Raid",
-    "link": "https://www.ndtv.com/india-news/case-against-2-up-police-officials-after-man-falls-off-roof-during-raid-9589730#publisher=newsstand",
-    "content": "Two police personnel, including a sub-inspector, have been booked in connection with a Dalit man's death allegedly during a raid here, officials said on Thursday.",
-    "category": "Global",
-    "sub_category": "General"
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Air India crash: SC tells pilot’s father ‘you shouldn’t carry burden on yourself’",
+    "link": "https://timesofindia.indiatimes.com/india/air-india-crash-sc-tells-pilots-father-you-shouldnt-carry-burden-on-yourself-notice-to-centre-issued/articleshow/125151179.cms",
+    "content": "The Supreme Court has stated that the pilot-in-command of the Air India Boeing Dreamliner that crashed in Ahmedabad, killing 260 people, is not to be blamed. The apex court assured the pilot's 91-year-old father that his son is not at fault, calling the incident an accident. A notice was issued to the Centre and DGCA regarding the father's plea for a fair investigation.",
+    "category": "Local",
+    "sub_category": "India"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Major Security Lapse At Delhi Airport As UK National Flees During Layover",
-    "link": "https://www.ndtv.com/india-news/major-security-lapse-at-delhi-airport-as-british-national-flees-immigration-counter-london-bangkok-9591347#publisher=newsstand",
-    "content": "A major security lapse was reported at Delhi's Indira Gandhi International Airport last week when a British national, who arrived from Bangkok, fled the immigration counter and entered the city.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Delhi chokes again: AQI at 311 with 26 of 38 stations in ‘very poor zone",
+    "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-chokes-again-aqi-at-311-with-26-of-38-stations-in-very-poor-zone-bawana-most-polluted/articleshow/125151039.cms",
+    "content": "Delhi's air quality plunged into the 'very poor' category on Friday, with the city-wide AQI hitting 311. Bawana recorded the highest pollution levels at 366. Meanwhile, the minimum temperature dipped to 12.7°C, and shallow fog is expected to persist, impacting visibility across the capital.",
     "category": "Local",
     "sub_category": "Delhi"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Nancy Pelosi To Retire After 40 years. Here Are Some Pelosi-isms",
-    "link": "https://www.ndtv.com/world-news/nancy-pelosi-retires-us-house-speaker-nancy-pelosi-to-retire-after-40-years-here-are-some-pelosi-isms-9590346#publisher=newsstand",
-    "content": "Nancy Pelosi is bringing her history-making career in the US House to an end, but she leaves a linguistic legacy in Congress and beyond.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Vande Mataram song row: PM Modi says key stanzas removed in 1937; Kharge hits out at BJP, RSS",
+    "link": "https://timesofindia.indiatimes.com/india/vande-mataram-song-row-pm-modi-says-key-stanzas-removed-in-1937-mallikarjun-kharge-hits-out-at-bjp-rss/articleshow/125151714.cms",
+    "content": "Prime Minister Narendra Modi accused the 1937 Congress government of removing stanzas from Vande Mataram, claiming it fractured the song and sowed seeds of partition. He emphasized the song's enduring inspiration for nation-building and highlighted India's civilisational ethos of the nation as a mother and Shakti.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Bankim Chandra Chatterjee: The Man Who Wrote Iconic 'Vande Mataram'",
-    "link": "https://www.ndtv.com/india-news/bankim-chandra-chatterjee-the-man-who-wrote-iconic-vande-mataram-9591198#publisher=newsstand",
-    "content": "India's national song \"Vande Mataram\" marks its 150th anniversary today. Written by Bankim Chandra Chatterjee in 1875, the song went on to become a powerful symbol of India's freedom movement and national pride.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "India's citizenship test? Chhetri tests ex-Aussie Ryan before handing passport - watch video",
+    "link": "https://timesofindia.indiatimes.com/sports/football/news/indias-citizenship-test-sunil-chhetri-quizzes-ryan-williams-before-handing-ex-aussie-the-passport/articleshow/125152681.cms",
+    "content": "Former Australian winger Ryan Williams is now an Indian citizen, a landmark for Indian football.  Sunil Chhetri presented his passport, marking the AIFF's first success with OCI players. Williams, eligible through his Anglo-Indian heritage, impressed with his cultural knowledge.  His move could bolster the national team for upcoming qualifiers.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "No Nvidia, Intel, AMD: China over chip war; claims Trump cannot help",
+    "link": "https://timesofindia.indiatimes.com/technology/tech-news/china-makes-it-clear-we-do-not-want-nvidia-intel-amd-and-donald-trump-cannot-help/articleshow/125154376.cms",
+    "content": "China is mandating state-funded data centers to exclusively use domestic AI chips, instructing projects under construction to remove foreign components. This significant move aims to achieve AI chip self-sufficiency, impacting major foreign suppliers like Nvidia, AMD, and Intel. The directive underscores Beijing's accelerating push to reduce reliance on American technology amidst ongoing trade tensions.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Confused Between Hurricane, Cyclone, Typhoon? Here's The Difference",
-    "link": "https://www.ndtv.com/world-news/confused-between-hurricane-cyclone-typhoon-heres-the-difference-9591774#publisher=newsstand",
-    "content": "They get different names in different parts of the world. Hurricane is used in the Atlantic, Caribbean Sea, central and northeast Pacific. They are typhoons in the northwest Pacific. In the Bay of Bengal and the Arabian Sea, they are called cyclones.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Animal rights activist fumes over SC directive to remove stray dogs",
+    "link": "https://timesofindia.indiatimes.com/city/delhi/going-to-be-a-nightmare-in-country-animal-rights-activist-fumes-over-sc-directive-to-remove-stray-dogs-from-all-institutions/articleshow/125154437.cms",
+    "content": "Animal rights activist Gauri Maulekhi criticized the Supreme Court's order to remove stray dogs from public places, calling it a sweeping directive passed without hearing all parties. She argued the order is impractical and will disrupt existing animal welfare systems, potentially worsening the problem.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Zohran Mamdani, Sadiq Khan Face Criticism From Trump, Get Abused Over Faith",
-    "link": "https://www.ndtv.com/world-news/new-york-mayor-london-mayor-zohran-mamdani-sadiq-khan-face-criticism-from-trump-get-abused-over-faith-9591344#publisher=newsstand",
-    "content": "London's Sadiq Khan has a lot in common with New York Mayor-elect Zohran Mamdani  but also many differences.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Our bundle of joy': Katrina Kaif, Vicky Kaushal welcome baby boy",
+    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-vicky-kaushal-welcome-baby-boy-our-bundle-of-joy-priyanka-chopra-arjun-kapoor-and-others-react/articleshow/125150947.cms",
+    "content": "Bollywood stars Katrina Kaif and Vicky Kaushal are celebrating the arrival of their baby boy, born on November 7, 2025. The couple shared the joyous news on social media, expressing immense love and gratitude. This marks the beginning of a new chapter for the beloved pair, who had previously announced their pregnancy in September with a heartwarming picture.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Request For Blanket, Bedsheet Turns Fatal, Army Soldier Killed On Train",
-    "link": "https://www.ndtv.com/india-news/army-soldier-killed-in-argument-with-train-attendant-over-blanket-bedsheet-9591708#publisher=newsstand",
-    "content": "According to information provided by the railways, a coach attendant, who was railway personnel, killed the soldier following an argument over a blanket and sheet.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Murder on Sabarmati Express: Army jawan stabbed to death after argument over blanket",
+    "link": "https://timesofindia.indiatimes.com/city/jaipur/murder-on-sabarmati-express-army-jawan-stabbed-to-death-after-argument-over-blanket-cops-struggle-to-find-eyewitness/articleshow/125153186.cms",
+    "content": "An Army jawan was fatally stabbed on the Sabarmati Express following a dispute with an AC attendant over a blanket. Police have arrested the attendant and recovered a knife. Investigators are struggling to find eyewitnesses as the train passed through multiple stations, making passenger identification difficult.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Suspected Kidnapping Of Woman In Coimbatore Triggers Massive Police Search",
-    "link": "https://www.ndtv.com/india-news/coimbatore-crime-news-suspected-kidnapping-of-woman-in-coimbatore-triggers-massive-police-search-9591514#publisher=newsstand",
-    "content": "A late-night alarm over the suspected kidnapping of a woman in Tamil Nadu's Coimbatore has triggered a massive police search, though officers said there is no confirmation that any woman was kidnapped.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Technical glitch at Delhi airport: Hundreds of flights delayed; what caused disruption",
+    "link": "https://timesofindia.indiatimes.com/technology/tech-news/delhi-airport-flight-delay-what-has-caused-the-technical-glitch-affecting-hundreds-of-flights-across-india/articleshow/125150625.cms",
+    "content": "Hundreds of flights faced delays at Delhi's Indira Gandhi International Airport due to a technical glitch in the Air Traffic Control system. The Automatic Message Switching System crashed, forcing controllers to manually process every flight. This slowdown significantly impacted operations at India's busiest airport. Airlines warned passengers of extended waiting times. Technical teams are working to restore the system, but a timeline for normal operations remains unclear. The disruption highlights the critical reliance on automated systems in aviation.",
+    "category": "Local",
+    "sub_category": "Delhi"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Sorry. Can't live with them anymore': Telangana woman kills self over fear of ants",
+    "link": "https://timesofindia.indiatimes.com/city/hyderabad/woman-ends-life-due-to-fear-of-ants-in-sangareddy/articleshow/125142263.cms",
+    "content": "A 25-year-old woman in Sangareddy district allegedly died by suicide due to a severe childhood fear of ants. She reportedly took the extreme step after noticing ants while cleaning her home. Her husband discovered her after returning from work, and a suicide note was found.",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "CBI Case Against Ex-Punjab Top Cop, Wife Over Son's Mysterious Death",
-    "link": "https://www.ndtv.com/india-news/cbi-mohammad-mustafa-cbi-case-against-ex-punjab-top-cop-wife-over-sons-mysterious-death-9590510#publisher=newsstand",
-    "content": "The CBI has registered an FIR against former Punjab DGP Mohammad Mustafa, his wife Razia Sultana and others in connection with the \"murder case\" of their son Aquil Akhtar (35), who was found dead under suspicious circumstances in Panchkula.",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Gold price in your city: Check rates for 22k and 24K gold in Delhi, Mumbai and more",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-gold-rate-in-your-city-on-november-07-2025-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur/articleshow/125154238.cms",
+    "content": "Gold futures surged on Friday, marking their third consecutive session of gains due to weak US economic data. This data has intensified expectations of an imminent interest rate cut by the Federal Reserve, driving investors towards safe-haven assets like bullion. Silver prices also advanced alongside gold.",
+    "category": "Local",
+    "sub_category": "Delhi"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Peter Thiel’s warning resurfaces: What he predicted about Zohran Mamdani?",
+    "link": "https://timesofindia.indiatimes.com/technology/tech-news/leaked-2020-email-from-palantir-co-founder-to-zuckerberg-predicted-mamdanis-socialist-triumph-in-new-york/articleshow/125135573.cms",
+    "content": "Tech titan Peter Thiel warned Silicon Valley in 2020 that rising millennial support for socialism stemmed from economic hardship, not ideology.  His foresight appears validated by Zohran Mamdani's election as New York's first Muslim and South Asian mayor on a platform of housing affordability and debt relief, highlighting a growing demand for alternatives to a perceived rigged capitalist system.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Deepfake scam: B'luru police probe AI videos of Kohli, Nirmala Sitharaman; case filed",
+    "link": "https://timesofindia.indiatimes.com/city/bengaluru/deepfake-videos-show-virat-kohli-nirmala-sitharaman-promoting-stock-trading/articleshow/125141596.cms",
+    "content": "Bengaluru cybercrime police have filed a suo motu case against unidentified individuals for creating and circulating AI-generated deepfake videos. These videos falsely depict prominent personalities like Virat Kohli and Nirmala Sitharaman endorsing fraudulent stock trading platforms and online games, aiming to lure unsuspecting victims into investment scams.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Lenskart IPO: Ahead of listing, GMP plunges 70%; what analysts are saying",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/lenskart-ipo-ahead-of-listing-gmp-plunges-70-what-analysts-are-saying/articleshow/125153398.cms",
+    "content": "Lenskart's IPO grey market premium has plummeted by 70% ahead of its listing, raising concerns about substantial listing gains despite strong oversubscription. While the company boasts a robust business model and impressive financial growth, elevated valuations and subdued secondary market conditions are prompting caution among investors and market observers.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Had a habit of ...': Bangladesh bowler alleges indecent behaviour by ex-selector; BCB investigates",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/had-a-habit-of-pulling-girls-close-pressing-them-to-his-chest-bangladesh-bowler-alleges-indecent-behaviour-by-ex-selector-asked-about-periods/articleshow/125151082.cms",
+    "content": "Bangladesh Cricket Board has formed a committee to probe allegations of inappropriate behaviour by a former selector against ex-pacer Jahanara Alam during the 2022 ODI World Cup. Alam detailed lewd questions and unwanted physical advances, claiming multiple officials acted improperly. The board vows swift action after a 15-day investigation.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "IND vs AUS: 'Not Bumrah anymore': Ashwin reveals who teams will fear most in India’s T20 squad",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-australia/not-jasprit-bumrah-anymore-r-ashwin-reveals-who-teams-will-fear-most-in-indias-t20-world-cup-squad/articleshow/125149781.cms",
+    "content": "India took a 2-1 lead against Australia in their T20I series. Former spinner R Ashwin highlighted Abhishek Sharma and Varun Chakaravarthy as key targets for opposition teams in the upcoming T20 World Cup. Ashwin noted Australia's effective strategy against Sharma, aiming to limit his powerful off-side shots.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "‘Confirmed chaal, charitra, chehra’: PK reacts to attack on Bihar dy CM’s convoy; claims ‘nobody safe’",
+    "link": "https://timesofindia.indiatimes.com/india/confirmed-chaal-charitra-chehra-of-his-govt-prashant-kishor-reacts-to-attack-on-bihar-deputy-cms-convoy-claims-nobody-safe/articleshow/125150563.cms",
+    "content": "Prashant Kishor slammed Bihar's deteriorating law and order after Deputy CM Vijay Sinha's convoy was attacked. Kishor stated Sinha's remarks confirmed the ruling NDA government's failure, asserting no one is safe. The incident saw Sinha accuse RJD supporters of stone-pelting and cow dung attacks, prompting the Election Commission to demand immediate action against miscreants.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Russia crude available at highest discount in a year; India, China cut purchases",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/donald-trump-sanctions-impact-russia-crude-available-at-highest-discount-in-a-year-india-china-cut-purchases/articleshow/125151097.cms",
+    "content": "India and China, major buyers of Russian crude, have significantly reduced their oil purchases following new US sanctions on Rosneft and Lukoil. This has widened the price gap between Russian Urals and Brent crude in Asia to a year-high, signaling increasing pressure on Russia's vital oil revenues. Refiners in both nations have halted December orders, risking unsold Russian oil volumes.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Dak Prescott pays tribute to teammate Marshawn Kneeland on emotional day",
+    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/triggering-day-for-many-reasons-dallas-cowboys-quarterback-dak-prescott-pays-a-humble-tribute-to-defensive-end-marshawn-kneeland/articleshow/125152627.cms",
+    "content": "Dallas Cowboys star Dak Prescott is grappling with the tragic death of teammate Marshawn Kneeland, who reportedly died by self-inflicted gunshot wound after a police chase. This devastating loss echoes Prescott's own experience, having lost his older brother Jace to suicide in 2020. Prescott expressed profound grief and urged loved ones to cherish each moment.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Babar Azam vs Virat Kohli | Pak batter makes shocking claim - 'Huge difference!'",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricketer-makes-shocking-virat-kohli-babar-azam-comparison-theres-a-huge-difference/articleshow/125151149.cms",
+    "content": "Pakistani cricketer Azam Khan has drawn a comparison between Babar Azam and Virat Kohli. Khan stated Babar elevated Pakistan's batting reputation like Kohli did for India. He also noted Babar lacked support from senior players unlike Kohli. Khan believes Pakistani fans do not fully appreciate Babar's contributions. He also agreed with Suryakumar Yadav's comment on the India-Pakistan 'rivalry'.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "IND vs AUS: 'Makes no sense!' Ex-India cricketer furious over Sanju Samson’s treatment",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-australia/makes-no-sense-ex-india-cricketer-furious-over-sanju-samsons-treatment-by-team-management/articleshow/125148797.cms",
+    "content": "Aakash Chopra has criticized India's management for their inconsistent handling of Sanju Samson. Despite decent performances, Samson has been shuffled and dropped, with Jitesh Sharma now preferred. Chopra questions the logic behind Samson's exclusion, especially after his strong showings as an opener.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Indian MBBS student found dead in Russian dam; was missing for 19 days",
+    "link": "https://timesofindia.indiatimes.com/city/jaipur/missing-mbbsstudent-fromalwar-dist-founddead-in-russia/articleshow/125143407.cms",
+    "content": "A 22-year-old Indian MBBS student, Ajit Chaudhary, missing for 19 days from Russia's Bashkir State Medical University, was found dead in a dam near the campus. His body was identified by fellow students, ending a desperate search that began after his clothes were found on a swollen riverbank. The family had sold land to fund his education.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Moments after $1 trillion pay nod: Musk breaks into dance with robot — who did it better?",
+    "link": "https://timesofindia.indiatimes.com/world/us/moments-after-1-trillion-pay-nod-tesla-ceo-elon-musk-breaks-into-dance-with-robot-who-did-it-better/articleshow/125149232.cms",
+    "content": "Elon Musk celebrated a monumental Tesla payday, potentially worth $1 trillion, after shareholders overwhelmingly approved his compensation package. The deal, which could make him the world's first trillionaire, aims to secure his leadership for years, driving Tesla's ambitions in AI and robotics.  Despite controversies, investors backed Musk's vision, though critics raise concerns about concentrating so much power.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Zarine Khan, mother of Sussanne and Zayed, passes away at 81",
+    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zarine-khan-mother-of-sussanne-khan-and-zayed-khan-passes-away-at-81/articleshow/125151607.cms",
+    "content": "The Bollywood fraternity is mourning the loss of a revered figure, Zarine Khan (Zarin Katrak), wife of veteran actor Sanjay Khan and mother of actor Zayed Khan, designer Sussanne Khan and Farah Khan Ali. Zarine Khan passed away peacefully today, surrounded by her family. She was 81 years old.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "NHL trade rumors: Nazem Kadri linked to Canadiens as Penguins stay silent",
+    "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-trade-rumors-nazem-kadri-linked-to-montreal-canadiens-as-pittsburgh-penguins-silence-the-noise/articleshow/125142196.cms",
+    "content": "The Pittsburgh Penguins' strong start has silenced trade rumors for their veteran stars, with GM Kyle Dubas prioritizing competitiveness and future building. Meanwhile, the Calgary Flames face uncertainty regarding Nazem Kadri's future, with his contract and past conduct raising questions about his trade value, despite interest from teams like Montreal and Carolina.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Aditi Mishra becomes JNU’s 1st woman president since 2019: Left sweeps all posts",
+    "link": "https://timesofindia.indiatimes.com/city/delhi/left-sweeps-jnusu-polls-first-woman-prez-since-2019/articleshow/125141227.cms",
+    "content": "The Left Unity panel achieved a clean sweep in the JNUSU elections, securing all four central posts for 2025-26. Aditi Mishra of AISA became the first woman president since 2019. This victory marks a significant comeback for the Left, reclaiming dominance on campus after a previous setback.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Watch: US strikes another vessel in eastern Pacific",
+    "link": "https://timesofindia.indiatimes.com/world/us/watch-us-strikes-another-vessel-in-eastern-pacific-lethal-kinetic-attack-on-alleged-drug-boat-kills-two/articleshow/125100373.cms",
+    "content": "The United States has conducted another strike on a drug vessel in the eastern Pacific, leading to two fatalities. This action is part of an ongoing maritime campaign that has resulted in at least 66 deaths. Defense Secretary Pete Hegseth shared the video and confirmed the strike targeted a vessel involved in illicit narcotics smuggling.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Marshawn Kneeland girlfriend: Who is Catalina, the woman who loved the late Cowboys star?",
+    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/who-is-marshawn-kneelands-girlfriend-catalina-inside-the-life-of-the-woman-who-loved-the-late-cowboys-star/articleshow/125143693.cms",
+    "content": "The NFL community mourns Marshawn Kneeland, a promising 24-year-old Dallas Cowboys defensive end. His girlfriend, Catalina, alerted police during his final moments, revealing his struggles. Their relationship was private, built on mutual respect and shared values. Catalina, an entrepreneur, was his grounding force, supporting his career and remaining a private figure even after his tragic passing.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Gisele Bündchen Says Prioritizing Tom Brady Took a Personal Toll",
+    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/gisele-bndchen-implied-that-prioritizing-tom-brady-for-years-took-a-personal-toll-when-you-love-someone-you-dont-put-them-in-jail/articleshow/125033119.cms",
+    "content": "Supermodel Gisele Bündchen, in a candid interview, shared insights into her marriage with Tom Brady, describing their split as a 'death and rebirth.' She detailed her journey of shifting from supporting her partner's career to rediscovering her own dreams and defining personal success. Bündchen emphasizes her graciousness towards Brady, highlighting her focus on authenticity and fulfillment in her new chapter.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Security breach at Delhi airport: UK passenger from Bangkok dodges immigration",
+    "link": "https://timesofindia.indiatimes.com/india/security-breach-at-delhi-airport-uk-passenger-from-bangkok-dodges-immigration-hunt-on-after-major-lapse/articleshow/125150562.cms",
+    "content": "A significant security lapse occurred at New Delhi's Indira Gandhi International Airport (IGI) when a British national, Fitz Patrick, reportedly bypassed immigration after arriving from Bangkok. Authorities have launched a manhunt using technical and human intelligence to locate the individual, who is believed to have exited without completing mandatory checks. ",
+    "category": "Local",
+    "sub_category": "Delhi"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "‘Fake vote, fake photo’: Rahul’s ‘wholesale chori’ charge at BJP; claims party will repeat it in Bihar",
+    "link": "https://timesofindia.indiatimes.com/india/fake-vote-fake-photo-rahuls-wholesale-chori-charge-at-bjp-claims-party-will-repeat-it-in-bihar/articleshow/125148294.cms",
+    "content": "Rahul Gandhi accused Prime Minister Narendra Modi and the BJP of electoral malpractice, alleging \"chunav chori\" (election theft). He claimed systematic manipulation, citing Haryana as an example of \"wholesale chori\" and \"one man, multiple votes,\" and stated the Prime Minister came to power through such means.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Change it!': Ex-IND pacer wants major rule removed after Gill LBW scare; urges ICC",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-australia/icc-should-change-it-ex-india-all-rounder-wants-major-rule-removed-after-shubman-gill-moment-in-4th-t20i/articleshow/125148452.cms",
+    "content": "A former India all-rounder urged the ICC to change a rule after Shubman Gill's review in the India-Australia T20I. He highlighted how a successful review, despite an inside edge, results in a dot ball and potential run loss, which could be critical in close matches. He believes this rule needs immediate attention to prevent future issues.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Watch: Trump's guest faints during White House event; netizens slam his 'too calm' response",
+    "link": "https://timesofindia.indiatimes.com/world/us/watch-trumps-guest-faints-during-white-house-event-netizens-slam-his-too-calm-response/articleshow/125149857.cms",
+    "content": "A guest fainted during a White House event on lowering obesity drug costs, causing a temporary halt. The man, Gordon Finlay, representing a pharmaceutical company, received prompt medical attention. President Trump later confirmed the guest was fine, attributing the incident to lightheadedness and the long standing time in the Oval Office.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "2 killed as local Mumbai train ploughs through commuters at CSMT",
+    "link": "https://timesofindia.indiatimes.com/city/mumbai/2-lives-lost-after-flash-protest-at-mumbais-csmt-brings-suburban-services-to-a-halt-for-nearly-an-hour/articleshow/125138913.cms",
+    "content": "A flash protest by Central Railway employees at CSMT halted suburban services for an hour, leading to a tragic incident where two commuters died and three were injured after being hit by a train while walking on tracks. The protest was against an FIR lodged following a previous accident.",
+    "category": "Local",
+    "sub_category": "Mumbai"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Groww IPO day 3: GMP softens to 11% reaching Rs 111; should you subscribe?",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/groww-ipo-day-3-gmp-softens-to-11-reaching-rs-111-should-you-subscribe/articleshow/125150024.cms",
+    "content": "Groww's IPO is on its final bidding day, having garnered significant retail investor interest and a 1.64 times subscription by Day 2. The platform's valuation stands at 33.8 times FY25 earnings, with a Rs 11 grey market premium indicating a potential listing price of Rs 111. Brokerages largely recommend subscribing, citing Groww's strong market position and growth potential.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Women's World Cup: 'It still haunts me'- Alyssa Healy breaks silence on Australia’s defeat vs India",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-world-cup-2025/it-still-haunts-me-alyssa-healy-breaks-silence-on-australias-world-cup-heartbreak-against-india/articleshow/125147850.cms",
+    "content": "Australia captain Alyssa Healy admitted the heartbreaking semi-final loss to India in the ICC Women's World Cup still \"hurts,\" despite her team's strong campaign. She believes Australia left runs on the field and struggled to adapt to the pitch conditions under lights, ultimately falling short in the knockout game.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Love, revenge & fake emails: How 'heartbroken' Chennai techie sent bomb threat mails to 21 schools across state to trap ex-boyfriend",
+    "link": "https://timesofindia.indiatimes.com/city/bengaluru/love-revenge-fake-emails-how-heartbroken-chennai-techie-sent-bomb-threat-mails-to-21-schools-across-state-to-trap-ex-boyfriend/articleshow/125147317.cms",
+    "content": "An engineering graduate was arrested for sending bomb threat emails to 21 schools across India, including in Bengaluru and Mysuru. The accused, Rene Joshilda, allegedly used her ex-lover's name to implicate him in the crime. She was taken into Bengaluru police custody on a body warrant.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Gold price prediction: What's the outlook for today? Why ‘buy on dips’ makes sense",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-november-07-2025-should-you-buy-or-sell-mcx-gold/articleshow/125149047.cms",
+    "content": "Gold price prediction today: Gold prices are showing early recovery signs, prompting a 'buy on dips' strategy for investors. Technical indicators suggest a potential short-term trend reversal, with key support around ₹1,20,100. Analysts recommend entering around ₹1,20,600-₹1,20,700, targeting ₹1,21,800, with a breakout potentially pushing prices to ₹1,22,200.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "CBSE to introduce global curriculum across UAE and other countries from April 2026",
+    "link": "https://timesofindia.indiatimes.com/world/middle-east/cbse-to-introduce-global-curriculum-across-uae-and-other-countries-from-april-2026/articleshow/125150517.cms",
+    "content": "India’s Central Board of Secondary Education (CBSE) will introduce its Global Curriculum in April 2026, targeting CBSE-affiliated schools in the UAE and other countries. Announced at the Sahodaya School Complex conference in Dubai, the curriculum aims to combine international learning standards with Indian educational values, offering greater flexibility, global recognition, and enhanced teacher training, while aligning with NEP 2020.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "A 480-million-year-old fossil changes what we know about the origin of parasites",
+    "link": "https://timesofindia.indiatimes.com/science/a-480-million-year-old-fossil-changes-what-we-know-about-the-origin-of-parasites/articleshow/125150506.cms",
+    "content": "Ancient fossils unearthed in Morocco reveal parasitic worms burrowing into mollusc shells approximately 480 million years ago, pushing back the known timeline for parasitism by 60 million years. This discovery in the Fezouata Shale formation offers a remarkable glimpse into complex early marine ecosystems, showcasing sophisticated host-parasite interactions much earlier than previously believed.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "‘Govinda admitted, hum kya karein?’: IPS officer D Sivanandhan reveals how actors and musicians performed a show for Dawood Ibrahim’s daughter",
+    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-admitted-hum-kya-karein-ips-officer-d-sivanandhan-reveals-how-actors-and-musicians-performed-a-show-for-dawood-ibrahims-daughter/articleshow/125135190.cms",
+    "content": "In the 1990s, Bollywood's glamour was overshadowed by underworld influence, with gangsters financing hit films like 'Satya' and 'Company' to enhance their image. Actors and producers lived under constant threat, forced to comply with demands from figures like Dawood Ibrahim, as revealed by former Joint CP Crime Mumbai D Sivanandhan.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -408,344 +592,288 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Air India crash: SC tells pilot’s father ‘you shouldn’t carry burden on yourself’",
-    "link": "https://timesofindia.indiatimes.com/india/air-india-crash-sc-tells-pilots-father-you-shouldnt-carry-burden-on-yourself-notice-to-centre-issued/articleshow/125151179.cms",
-    "content": "The Supreme Court has stated that the pilot-in-command of the Air India Boeing Dreamliner that crashed in Ahmedabad, killing 260 people, is not to be blamed. The apex court assured the pilot's 91-year-old father that his son is not at fault, calling the incident an accident. A notice was issued to the Centre and DGCA regarding the father's plea for a fair investigation.",
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Why Dreamliner Crash Probe Is A Struggle Between Science And Emotion",
+    "link": "https://www.ndtv.com/india-news/why-air-india-boeing-787-dreamliner-crash-probe-is-a-struggle-between-science-and-emotion-9592462#publisher=newsstand",
+    "content": "The Supreme Court's comments today, which gave comfort to the father of the pilot-in-command of Air India's Boeing 787 Dreamliner that crashed in Ahmedabad, has brought the focus back on theories of electrical malfunction and other probable causes.",
+    "category": "Global",
+    "sub_category": "Science"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Pune Woman Viral Amid 'Vote Theft' Charges After Brazilian Model Row",
+    "link": "https://www.ndtv.com/india-news/pune-woman-viral-amid-vote-theft-charges-after-brazilian-model-row-9592473#publisher=newsstand",
+    "content": "A fresh controversy has emerged following Leader of the Opposition Rahul Gandhi's 'vote theft' charges.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Probe Agency ED Arrests Kolkata-Based Consultant In Reliance Power Fraud Case",
+    "link": "https://www.ndtv.com/india-news/probe-agency-ed-arrests-kolkata-based-consultant-in-reliance-power-fraud-case-9592494#publisher=newsstand",
+    "content": "The ED has arrested a Kolkata-based consultant in connection with a money laundering probe against businessman Anil Ambani's group company Reliance Power over issuance of an alleged fake bank guarantee of Rs 68 crore.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "US To Investigate Russia Interference In 2016 Presidential Election: Report",
+    "link": "https://www.ndtv.com/world-news/us-to-investigate-russia-interference-in-2016-presidential-election-in-which-donald-trump-won-report-9590227#publisher=newsstand",
+    "content": "Federal prosecutors are preparing grand jury subpoenas to investigate Obama-era intelligence officials who produced an assessment finding Russia interfered in the 2016 presidential election in a bid to help Donald Trump, according to two sources.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Migrants Are 'X Factor' In Bihar Assembly Elections: Prashant Kishor",
+    "link": "https://www.ndtv.com/india-news/migrants-are-x-factor-in-bihar-assembly-elections-prashant-kishor-9592410#publisher=newsstand",
+    "content": "Suraaj Party founder Prashant Kishor on Friday claimed that migrants from Bihar, who returned home for Chhath festivities and have not yet gone back to their places of work, are the \"X factor\" in the assembly polls.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Supreme Court's Big Order On Stray Dogs, Cattle At Railway Stations, Highways",
+    "link": "https://www.ndtv.com/india-news/remove-stray-dogs-from-bus-stands-railway-stations-top-courts-big-order-9591433#publisher=newsstand",
+    "content": "The Supreme Court also directed state governments, municipal authorities, and road and transport authorities to remove cattle from highways and expressways and rehabilitate them in shelters.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Suspicious Package At US Military Base Sickens Several People",
+    "link": "https://www.ndtv.com/world-news/suspicious-package-at-us-military-base-sickens-several-people-9592244#publisher=newsstand",
+    "content": "A suspicious package was delivered to a US military base in Maryland, which caused multiple people to fall ill and led to several being taken to hospital, CNN reported on Thursday.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "China Commissions Third Aircraft Carrier Fujian: All You Need To Know",
+    "link": "https://www.ndtv.com/world-news/china-commissions-third-aircraft-carrier-fujian-all-you-need-to-know-9592362#publisher=newsstand",
+    "content": "With the commissioning of its third aircraft carrier, China now boasts the second largest number of such ships in the world, though it still lags far behind the 11 operated by the US Navy.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Class 4 Girl Who Died By Suicide At Jaipur School Wanted To Skip Class: Sources",
+    "link": "https://www.ndtv.com/india-news/class-4-girl-who-died-by-suicide-in-jaipur-neerja-modi-school-wanted-to-skip-class-sources-probe-9592215#publisher=newsstand",
+    "content": "A nine-year-old girl, who died by suicide after jumping from the fourth floor of a private Jaipur school building last week, reportedly did not want to attend classes that day, investigators said.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "AI-Generated Disinformation Tactics Spotted Ahead Of COP30",
+    "link": "https://www.ndtv.com/world-news/ai-generated-disinformation-tactics-spotted-ahead-of-cop30-9590019#publisher=newsstand",
+    "content": "A clip said to show massive flooding in the Amazonian city hosting the UN climate summit is just one widely-shared example of how disinformation, cheaply created by AI and circulating on social media, is influencing perceptions of COP30.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Kerala Man Dies Of Chest Pain At Medical College, Family Launches Protest",
+    "link": "https://www.ndtv.com/kerala-news/kerala-man-dies-of-chest-pain-at-medical-college-family-launches-protest-9592310#publisher=newsstand",
+    "content": "The death of a 48-year-old man in a government hospital in Thiruvananthapuram has triggered protests with family alleging delay and lack of proper treatment.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "'My Pic Used For Political Agenda': Brazilian Woman On Rahul Gandhi's H-Bomb",
+    "link": "https://www.ndtv.com/india-news/brazilian-woman-larissa-nery-to-ndtv-at-center-of-rahul-gandhis-hydrogen-bomb-row-thought-it-was-ai-brazilian-model-voter-list-9590699#publisher=newsstand",
+    "content": "Larissa Nery clarified that the viral picture was taken around eight years back when she was about 20 years old, adding that she got it clicked for a photographer friend.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Winds Shatter Windows, Blow Roofs As Typhoon Kalmaegi Kills 5 In Vietnam",
+    "link": "https://www.ndtv.com/world-news/winds-shatter-window-blow-roofs-as-typhoon-kalmaegi-kills-5-in-vietnam-9592079#publisher=newsstand",
+    "content": "After wreaking havoc in the Philippines, Typhoon Kalmaegi brought fierce winds and torrential rains to Vietnam, where five people have been killed and many others remain missing after several houses collapsed in Gia Lai and neighbouring Dak Lak.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Madhya Pradesh To Conduct Bhagavad Gita Sessions For Constables Training",
+    "link": "https://www.ndtv.com/india-news/madhya-pradesh-police-to-conduct-bhagavad-gita-sessions-for-constables-under-training-9591830#publisher=newsstand",
+    "content": "After Ramcharitmanas, the Madhya Pradesh Police training wing has directed all its centres to hold Bhagavad Gita recital sessions for their recruits, as this will help them lead a \"righteous\" life.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "\"Sorry\" Strategy: New Viral Apology Trend And Why Brands Follow It",
+    "link": "https://www.ndtv.com/india-news/sorry-strategy-new-viral-apology-trend-and-why-brands-follow-it-9591383#publisher=newsstand",
+    "content": "From irresistible snacks to unforgettable vacations, brands are poking fun at themselves, and it&#039;s resonating with audiences like never before.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Love Triumphs: Breaking Social Barriers, Two Women Marry In Sundarbans",
+    "link": "https://www.ndtv.com/india-news/love-triumphs-breaking-social-barriers-two-women-marry-in-sundarbans-9592154#publisher=newsstand",
+    "content": "A remote part of the Sundarbans witnessed an extraordinary story of love between two women. Riya Sardar from Mandirbazar and Rakhi Naskar from Bakultala got married and broke barriers for those who believe in true love.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Forensic Tests Confirm 17-Year-Old Killed Mexican Mayor Carlos Manzo",
+    "link": "https://www.ndtv.com/world-news/forensic-tests-confirm-17-year-old-killed-mexican-mayor-carlos-manzo-9591974#publisher=newsstand",
+    "content": "A 17-year-old boy has been confirmed as the perpetrator of the deadly shooting of Carlos Manzo, mayor of the Mexican city of Uruapan, during a public event in the state of Michoacan over the weekend, the state prosecutor's office said on Thursday.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Wine Order Leaves Bitter Aftertaste As Bengaluru Man Loses Rs 17,994 In Scam",
+    "link": "https://www.ndtv.com/bangalore-news/wine-order-leaves-bitter-aftertaste-as-bengaluru-man-loses-rs-17-994-in-scam-9591910#publisher=newsstand",
+    "content": "What was meant to be a simple attempt to order a bottle of wine for a home function turned into a bitter experience for a Bengaluru resident, who ended up losing Rs 17,994 to an online delivery scam.",
+    "category": "Local",
+    "sub_category": "Bengaluru"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Inside 'Anandamath': The Celebrated Book That Gave India 'Vande Mataram'",
+    "link": "https://www.ndtv.com/india-news/inside-anandamath-the-celebrated-book-that-gave-india-vande-mataram-9591468#publisher=newsstand",
+    "content": "As India commemorates 150 years of Vande Mataram, the spotlight turns to Anandamath, the novel where Bankim Chandra Chatterjee introduced the hymn to the nation.",
     "category": "Local",
     "sub_category": "India"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Vande Mataram song row: PM Modi says key stanzas removed in 1937; Kharge hits out at BJP, RSS",
-    "link": "https://timesofindia.indiatimes.com/india/vande-mataram-song-row-pm-modi-says-key-stanzas-removed-in-1937-mallikarjun-kharge-hits-out-at-bjp-rss/articleshow/125151714.cms",
-    "content": "Prime Minister Narendra Modi accused the 1937 Congress government of removing stanzas from Vande Mataram, claiming it fractured the song and sowed seeds of partition. He emphasized the song's enduring inspiration for nation-building and highlighted India's civilisational ethos of the nation as a mother and Shakti.",
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "BC's 'Red Bandana' uniforms, UCF's 'Space Game' look leads Week 11 CFB threads",
+    "link": "https://www.espn.com/college-football/story/_/id/46872272/boston-college-red-bandana-ucf-space-game-week-11-college-football-uniforms",
+    "content": "the Eagles are currently on an eight-game losing streak . every season, for one game, the uniforms honor Boston College alum Welles Crowther . \"FOR WELLES\" is written on the jersey's back nameplate .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Week 11 Anger Index: The case for outrage over BYU's and Miami's CFP rankings",
+    "link": "https://www.espn.com/college-football/story/_/id/46847596/week-11-anger-index-teams-upset-college-football-playoff-ranking-2025",
+    "content": "the college football playoff committee has released its first top 25 ranking of the season . it's the sport's version of Walmart opening its doors at midnight on black Friday . this year, the committee has said it is considering a new \"record strength\" metric .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "How to watch ESPN amid Disney-YouTube TV blackout",
+    "link": "https://www.espn.com/college-football/story/_/id/46746772/how-watch-espn-amid-disney-youtube-tv-blackout",
+    "content": "the blackout affects ABC, the ESPN networks, the Disney-branded channels, Freeform, the FX networks and the Xfinity network . the conflict affects the channel's ability to carry Disney programming . if you don't have cable access, you can get instant access to ESPN content through a variety of services including Cox, Dish, DirecTV, Fios, Fubo, Hulu + Live TV, Mediacom, Optimum, Sling, Spectrum TV and ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "F1 title battle: Verstappen feeling 'no pressure'",
+    "link": "https://www.espn.com/f1/story/_/id/46872725/max-verstappen-feels-no-pressure-f1-title-push",
+    "content": "Max Verstappen is the first season ticket for the 2026 season . the four-time world champion is just 36 points adrift of lando norris and McLaren . he is 104 points off the title pace after his home race in the Netherlands five rounds ago .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Expert picks, best bets: How Randy Brown could get an upset win at UFC Fight Night",
+    "link": "https://www.espn.com/mma/story/_/id/46860254/ufc-fight-night-expert-picks-best-bets-gabriel-bonfim-vs-randy-brown",
+    "content": "welterweight title fight tops next week's UFC 322 fight card . Neither Brown nor Bonfim are ranked in the MMA divisional rankings . the first of two consecutive weeks of main events takes place on saturday .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "The Bilas Index: Jay Bilas picks his top 68 teams this season",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/46849241/jay-bilas-index-mens-college-basketball-rankings-top-teams-2025-26",
+    "content": "the Bilas Index is the most powerful and consequential instrument of basketball wisdom and judgment known to humankind . it serves as much more than a guide or a road map to this men's college basketball season . the Bilastrator's immense and powerful brain is superior in processing basketball performance, potential and ability .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "CFP Bubble Watch: Where do things stand following the first committee ranking?",
+    "link": "https://www.espn.com/college-football/story/_/id/46833341/college-football-playoff-2025-bubble-watch-week-10",
+    "content": "the lone ACC team in the bracket if it were released today would be no. 14 Virginia . the canes would earn a spot as the fourth-highest ranked conference champion . teams labeled Still in the mix haven't been elated .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Jon Sumrall is one of the hottest coaching candidates. He also has a team to coach",
+    "link": "https://www.espn.com/college-football/story/_/id/46860153/jon-sumrall-tulane-coaching-carousel-lsu-auburn",
+    "content": "coach Jon Sumrall spoke as a coach who had changed jobs before . he polled players about who had agents and saw half the hands go up . sumrall and some assistants had rebuffed power 4 moves to stay with Tulane for 2025 .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "NHL prospect pipeline rankings: Sharks, Islanders, then ...?",
+    "link": "https://www.espn.com/nhl/story/_/id/46860573/nhl-2025-26-prospect-pipeline-rankings-best-players-draft-future",
+    "content": "a player who is under 23, with under 50 NHL games played, is eligible for this list . the rankings are done by assigning a value to each of the prospects based on his NHL projection and taking the cumulative value of each team's prospects . this means some teams with many prospects might rank higher than others with fewer, but more talented prospects.",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Footballer gives up Australian citizenship to play for India",
-    "link": "https://timesofindia.indiatimes.com/city/goa/aussie-footballer-ryan-williams-gives-up-citizenship-to-play-for-india/articleshow/125142392.cms",
-    "content": "Anglo-Indian footballer Ryan Williams, with Australian citizenship, has embraced his Indian roots by obtaining an Indian passport. This significant move makes the 32-year-old eligible to represent India's national team, fulfilling a lifelong ambition and honoring his grandfather's legacy. Williams aims to inspire other foreign-born players to consider playing for India.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Deepfake scam: B'luru police probe AI videos of Kohli, Nirmala Sitharaman; case filed",
-    "link": "https://timesofindia.indiatimes.com/city/bengaluru/deepfake-videos-show-virat-kohli-nirmala-sitharaman-promoting-stock-trading/articleshow/125141596.cms",
-    "content": "Bengaluru cybercrime police have filed a suo motu case against unidentified individuals for creating and circulating AI-generated deepfake videos. These videos falsely depict prominent personalities like Virat Kohli and Nirmala Sitharaman endorsing fraudulent stock trading platforms and online games, aiming to lure unsuspecting victims into investment scams.",
+    "title": "Suspicious white powder at US military base: Several people fall ill",
+    "link": "https://timesofindia.indiatimes.com/world/us/suspicious-white-powder-at-us-military-base-several-people-fall-ill-investigations-under-way/articleshow/125152320.cms",
+    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "OpenAI CEO issues 1000-word clarification: One sentence that ‘forced’ him",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/one-sentence-that-forced-openai-ceo-sam-altman-issue-a-thousand-word-clarification/articleshow/125152295.cms",
-    "content": "OpenAI CEO Sam Altman clarified remarks by CFO Sarah Friar regarding government-backed loans for AI infrastructure. Altman stressed that OpenAI does not seek government guarantees for its datacenters, emphasizing that taxpayers shouldn't bail out private companies. He suggested governments could build their own AI infrastructure for national benefit, distinct from private ventures.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Had a habit of ...': Bangladesh bowler alleges indecent behaviour by ex-selector; BCB investigates",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/had-a-habit-of-pulling-girls-close-pressing-them-to-his-chest-bangladesh-bowler-alleges-indecent-behaviour-by-ex-selector-asked-about-periods/articleshow/125151082.cms",
-    "content": "Bangladesh Cricket Board has formed a committee to probe allegations of inappropriate behaviour by a former selector against ex-pacer Jahanara Alam during the 2022 ODI World Cup. Alam detailed lewd questions and unwanted physical advances, claiming multiple officials acted improperly. The board vows swift action after a 15-day investigation.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "IND vs AUS: 'Not Bumrah anymore': Ashwin reveals who teams will fear most in India’s T20 squad",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-australia/not-jasprit-bumrah-anymore-r-ashwin-reveals-who-teams-will-fear-most-in-indias-t20-world-cup-squad/articleshow/125149781.cms",
-    "content": "India took a 2-1 lead against Australia in their T20I series. Former spinner R Ashwin highlighted Abhishek Sharma and Varun Chakaravarthy as key targets for opposition teams in the upcoming T20 World Cup. Ashwin noted Australia's effective strategy against Sharma, aiming to limit his powerful off-side shots.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Our bundle of joy': Katrina Kaif, Vicky Kaushal welcome baby boy",
-    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-vicky-kaushal-welcome-baby-boy-our-bundle-of-joy-priyanka-chopra-arjun-kapoor-and-others-react/articleshow/125150947.cms",
-    "content": "Bollywood stars Katrina Kaif and Vicky Kaushal are celebrating the arrival of their baby boy, born on November 7, 2025. The couple shared the joyous news on social media, expressing immense love and gratitude. This marks the beginning of a new chapter for the beloved pair, who had previously announced their pregnancy in September with a heartwarming picture.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Technical glitch at Delhi airport: Hundreds of flights delayed; what caused disruption",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/delhi-airport-flight-delay-what-has-caused-the-technical-glitch-affecting-hundreds-of-flights-across-india/articleshow/125150625.cms",
-    "content": "Hundreds of flights faced delays at Delhi's Indira Gandhi International Airport due to a technical glitch in the Air Traffic Control system. The Automatic Message Switching System crashed, forcing controllers to manually process every flight. This slowdown significantly impacted operations at India's busiest airport. Airlines warned passengers of extended waiting times. Technical teams are working to restore the system, but a timeline for normal operations remains unclear. The disruption highlights the critical reliance on automated systems in aviation.",
-    "category": "Local",
-    "sub_category": "Delhi"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "‘Confirmed chaal, charitra, chehra’: PK reacts to attack on Bihar dy CM’s convoy; claims ‘nobody safe’",
-    "link": "https://timesofindia.indiatimes.com/india/confirmed-chaal-charitra-chehra-of-his-govt-prashant-kishor-reacts-to-attack-on-bihar-deputy-cms-convoy-claims-nobody-safe/articleshow/125150563.cms",
-    "content": "Prashant Kishor slammed Bihar's deteriorating law and order after Deputy CM Vijay Sinha's convoy was attacked. Kishor stated Sinha's remarks confirmed the ruling NDA government's failure, asserting no one is safe. The incident saw Sinha accuse RJD supporters of stone-pelting and cow dung attacks, prompting the Election Commission to demand immediate action against miscreants.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Russia crude available at highest discount in a year; India, China cut purchases",
-    "link": "https://timesofindia.indiatimes.com/business/india-business/donald-trump-sanctions-impact-russia-crude-available-at-highest-discount-in-a-year-india-china-cut-purchases/articleshow/125151097.cms",
-    "content": "India and China, major buyers of Russian crude, have significantly reduced their oil purchases following new US sanctions on Rosneft and Lukoil. This has widened the price gap between Russian Urals and Brent crude in Asia to a year-high, signaling increasing pressure on Russia's vital oil revenues. Refiners in both nations have halted December orders, risking unsold Russian oil volumes.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Peter Thiel’s warning resurfaces: What he predicted about Zohran Mamdani?",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/leaked-2020-email-from-palantir-co-founder-to-zuckerberg-predicted-mamdanis-socialist-triumph-in-new-york/articleshow/125135573.cms",
-    "content": "Tech titan Peter Thiel warned Silicon Valley in 2020 that rising millennial support for socialism stemmed from economic hardship, not ideology.  His foresight appears validated by Zohran Mamdani's election as New York's first Muslim and South Asian mayor on a platform of housing affordability and debt relief, highlighting a growing demand for alternatives to a perceived rigged capitalist system.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Dak Prescott pays tribute to teammate Marshawn Kneeland on emotional day",
-    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/triggering-day-for-many-reasons-dallas-cowboys-quarterback-dak-prescott-pays-a-humble-tribute-to-defensive-end-marshawn-kneeland/articleshow/125152627.cms",
-    "content": "Dallas Cowboys star Dak Prescott is grappling with the tragic death of teammate Marshawn Kneeland, who reportedly died by self-inflicted gunshot wound after a police chase. This devastating loss echoes Prescott's own experience, having lost his older brother Jace to suicide in 2020. Prescott expressed profound grief and urged loved ones to cherish each moment.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Babar Azam vs Virat Kohli | Pak batter makes shocking claim - 'Huge difference!'",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricketer-makes-shocking-virat-kohli-babar-azam-comparison-theres-a-huge-difference/articleshow/125151149.cms",
-    "content": "Pakistani cricketer Azam Khan has drawn a comparison between Babar Azam and Virat Kohli. Khan stated Babar elevated Pakistan's batting reputation like Kohli did for India. He also noted Babar lacked support from senior players unlike Kohli. Khan believes Pakistani fans do not fully appreciate Babar's contributions. He also agreed with Suryakumar Yadav's comment on the India-Pakistan 'rivalry'.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "IND vs AUS: 'Makes no sense!' Ex-India cricketer furious over Sanju Samson’s treatment",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-australia/makes-no-sense-ex-india-cricketer-furious-over-sanju-samsons-treatment-by-team-management/articleshow/125148797.cms",
-    "content": "Aakash Chopra has criticized India's management for their inconsistent handling of Sanju Samson. Despite decent performances, Samson has been shuffled and dropped, with Jitesh Sharma now preferred. Chopra questions the logic behind Samson's exclusion, especially after his strong showings as an opener.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Indian MBBS student found dead in Russian dam; was missing for 19 days",
-    "link": "https://timesofindia.indiatimes.com/city/jaipur/missing-mbbsstudent-fromalwar-dist-founddead-in-russia/articleshow/125143407.cms",
-    "content": "A 22-year-old Indian MBBS student, Ajit Chaudhary, missing for 19 days from Russia's Bashkir State Medical University, was found dead in a dam near the campus. His body was identified by fellow students, ending a desperate search that began after his clothes were found on a swollen riverbank. The family had sold land to fund his education.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Moments after $1 trillion pay nod: Musk breaks into dance with robot — who did it better?",
-    "link": "https://timesofindia.indiatimes.com/world/us/moments-after-1-trillion-pay-nod-tesla-ceo-elon-musk-breaks-into-dance-with-robot-who-did-it-better/articleshow/125149232.cms",
-    "content": "Elon Musk celebrated a monumental Tesla payday, potentially worth $1 trillion, after shareholders overwhelmingly approved his compensation package. The deal, which could make him the world's first trillionaire, aims to secure his leadership for years, driving Tesla's ambitions in AI and robotics.  Despite controversies, investors backed Musk's vision, though critics raise concerns about concentrating so much power.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Zarine Khan, mother of Sussanne and Zayed, passes away at 81",
-    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zarine-khan-mother-of-sussanne-khan-and-zayed-khan-passes-away-at-81/articleshow/125151607.cms",
-    "content": "The Bollywood fraternity is mourning the loss of a revered figure, Zarine Khan (Zarin Katrak), wife of veteran actor Sanjay Khan and mother of actor Zayed Khan, designer Sussanne Khan and Farah Khan Ali. Zarine Khan passed away peacefully today, surrounded by her family. She was 81 years old.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "NHL trade rumors: Nazem Kadri linked to Canadiens as Penguins stay silent",
-    "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-trade-rumors-nazem-kadri-linked-to-montreal-canadiens-as-pittsburgh-penguins-silence-the-noise/articleshow/125142196.cms",
-    "content": "The Pittsburgh Penguins' strong start has silenced trade rumors for their veteran stars, with GM Kyle Dubas prioritizing competitiveness and future building. Meanwhile, the Calgary Flames face uncertainty regarding Nazem Kadri's future, with his contract and past conduct raising questions about his trade value, despite interest from teams like Montreal and Carolina.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Aditi Mishra becomes JNU’s 1st woman president since 2019: Left sweeps all posts",
-    "link": "https://timesofindia.indiatimes.com/city/delhi/left-sweeps-jnusu-polls-first-woman-prez-since-2019/articleshow/125141227.cms",
-    "content": "The Left Unity panel achieved a clean sweep in the JNUSU elections, securing all four central posts for 2025-26. Aditi Mishra of AISA became the first woman president since 2019. This victory marks a significant comeback for the Left, reclaiming dominance on campus after a previous setback.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Watch: US strikes another vessel in eastern Pacific",
-    "link": "https://timesofindia.indiatimes.com/world/us/watch-us-strikes-another-vessel-in-eastern-pacific-lethal-kinetic-attack-on-alleged-drug-boat-kills-two/articleshow/125100373.cms",
-    "content": "The United States has conducted another strike on a drug vessel in the eastern Pacific, leading to two fatalities. This action is part of an ongoing maritime campaign that has resulted in at least 66 deaths. Defense Secretary Pete Hegseth shared the video and confirmed the strike targeted a vessel involved in illicit narcotics smuggling.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Marshawn Kneeland girlfriend: Who is Catalina, the woman who loved the late Cowboys star?",
-    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/who-is-marshawn-kneelands-girlfriend-catalina-inside-the-life-of-the-woman-who-loved-the-late-cowboys-star/articleshow/125143693.cms",
-    "content": "The NFL community mourns Marshawn Kneeland, a promising 24-year-old Dallas Cowboys defensive end. His girlfriend, Catalina, alerted police during his final moments, revealing his struggles. Their relationship was private, built on mutual respect and shared values. Catalina, an entrepreneur, was his grounding force, supporting his career and remaining a private figure even after his tragic passing.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Gisele Bündchen Says Prioritizing Tom Brady Took a Personal Toll",
-    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/gisele-bndchen-implied-that-prioritizing-tom-brady-for-years-took-a-personal-toll-when-you-love-someone-you-dont-put-them-in-jail/articleshow/125033119.cms",
-    "content": "Supermodel Gisele Bündchen, in a candid interview, shared insights into her marriage with Tom Brady, describing their split as a 'death and rebirth.' She detailed her journey of shifting from supporting her partner's career to rediscovering her own dreams and defining personal success. Bündchen emphasizes her graciousness towards Brady, highlighting her focus on authenticity and fulfillment in her new chapter.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Security breach at Delhi airport: UK passenger from Bangkok dodges immigration",
-    "link": "https://timesofindia.indiatimes.com/india/security-breach-at-delhi-airport-uk-passenger-from-bangkok-dodges-immigration-hunt-on-after-major-lapse/articleshow/125150562.cms",
-    "content": "A significant security lapse occurred at New Delhi's Indira Gandhi International Airport (IGI) when a British national, Fitz Patrick, reportedly bypassed immigration after arriving from Bangkok. Authorities have launched a manhunt using technical and human intelligence to locate the individual, who is believed to have exited without completing mandatory checks. ",
-    "category": "Local",
-    "sub_category": "Delhi"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "‘Fake vote, fake photo’: Rahul’s ‘wholesale chori’ charge at BJP; claims party will repeat it in Bihar",
-    "link": "https://timesofindia.indiatimes.com/india/fake-vote-fake-photo-rahuls-wholesale-chori-charge-at-bjp-claims-party-will-repeat-it-in-bihar/articleshow/125148294.cms",
-    "content": "Rahul Gandhi accused Prime Minister Narendra Modi and the BJP of electoral malpractice, alleging \"chunav chori\" (election theft). He claimed systematic manipulation, citing Haryana as an example of \"wholesale chori\" and \"one man, multiple votes,\" and stated the Prime Minister came to power through such means.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Change it!': Ex-IND pacer wants major rule removed after Gill LBW scare; urges ICC",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-australia/icc-should-change-it-ex-india-all-rounder-wants-major-rule-removed-after-shubman-gill-moment-in-4th-t20i/articleshow/125148452.cms",
-    "content": "A former India all-rounder urged the ICC to change a rule after Shubman Gill's review in the India-Australia T20I. He highlighted how a successful review, despite an inside edge, results in a dot ball and potential run loss, which could be critical in close matches. He believes this rule needs immediate attention to prevent future issues.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Watch: Trump's guest faints during White House event; netizens slam his 'too calm' response",
-    "link": "https://timesofindia.indiatimes.com/world/us/watch-trumps-guest-faints-during-white-house-event-netizens-slam-his-too-calm-response/articleshow/125149857.cms",
-    "content": "A guest fainted during a White House event on lowering obesity drug costs, causing a temporary halt. The man, Gordon Finlay, representing a pharmaceutical company, received prompt medical attention. President Trump later confirmed the guest was fine, attributing the incident to lightheadedness and the long standing time in the Oval Office.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "2 killed as local Mumbai train ploughs through commuters at CSMT",
-    "link": "https://timesofindia.indiatimes.com/city/mumbai/2-lives-lost-after-flash-protest-at-mumbais-csmt-brings-suburban-services-to-a-halt-for-nearly-an-hour/articleshow/125138913.cms",
-    "content": "A flash protest by Central Railway employees at CSMT halted suburban services for an hour, leading to a tragic incident where two commuters died and three were injured after being hit by a train while walking on tracks. The protest was against an FIR lodged following a previous accident.",
-    "category": "Local",
-    "sub_category": "Mumbai"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Groww IPO day 3: GMP softens to 11% reaching Rs 111; should you subscribe?",
-    "link": "https://timesofindia.indiatimes.com/business/india-business/groww-ipo-day-3-gmp-softens-to-11-reaching-rs-111-should-you-subscribe/articleshow/125150024.cms",
-    "content": "Groww's IPO is on its final bidding day, having garnered significant retail investor interest and a 1.64 times subscription by Day 2. The platform's valuation stands at 33.8 times FY25 earnings, with a Rs 11 grey market premium indicating a potential listing price of Rs 111. Brokerages largely recommend subscribing, citing Groww's strong market position and growth potential.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Women's World Cup: 'It still haunts me'- Alyssa Healy breaks silence on Australia’s defeat vs India",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-world-cup-2025/it-still-haunts-me-alyssa-healy-breaks-silence-on-australias-world-cup-heartbreak-against-india/articleshow/125147850.cms",
-    "content": "Australia captain Alyssa Healy admitted the heartbreaking semi-final loss to India in the ICC Women's World Cup still \"hurts,\" despite her team's strong campaign. She believes Australia left runs on the field and struggled to adapt to the pitch conditions under lights, ultimately falling short in the knockout game.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Love, revenge & fake emails: How 'heartbroken' Chennai techie sent bomb threat mails to 21 schools across state to trap ex-boyfriend",
-    "link": "https://timesofindia.indiatimes.com/city/bengaluru/love-revenge-fake-emails-how-heartbroken-chennai-techie-sent-bomb-threat-mails-to-21-schools-across-state-to-trap-ex-boyfriend/articleshow/125147317.cms",
-    "content": "An engineering graduate was arrested for sending bomb threat emails to 21 schools across India, including in Bengaluru and Mysuru. The accused, Rene Joshilda, allegedly used her ex-lover's name to implicate him in the crime. She was taken into Bengaluru police custody on a body warrant.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Gold price prediction: What's the outlook for today? Why ‘buy on dips’ makes sense",
-    "link": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-november-07-2025-should-you-buy-or-sell-mcx-gold/articleshow/125149047.cms",
-    "content": "Gold price prediction today: Gold prices are showing early recovery signs, prompting a 'buy on dips' strategy for investors. Technical indicators suggest a potential short-term trend reversal, with key support around ₹1,20,100. Analysts recommend entering around ₹1,20,600-₹1,20,700, targeting ₹1,21,800, with a breakout potentially pushing prices to ₹1,22,200.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "CBSE to introduce global curriculum across UAE and other countries from April 2026",
-    "link": "https://timesofindia.indiatimes.com/world/middle-east/cbse-to-introduce-global-curriculum-across-uae-and-other-countries-from-april-2026/articleshow/125150517.cms",
-    "content": "India’s Central Board of Secondary Education (CBSE) will introduce its Global Curriculum in April 2026, targeting CBSE-affiliated schools in the UAE and other countries. Announced at the Sahodaya School Complex conference in Dubai, the curriculum aims to combine international learning standards with Indian educational values, offering greater flexibility, global recognition, and enhanced teacher training, while aligning with NEP 2020.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "A 480-million-year-old fossil changes what we know about the origin of parasites",
-    "link": "https://timesofindia.indiatimes.com/science/a-480-million-year-old-fossil-changes-what-we-know-about-the-origin-of-parasites/articleshow/125150506.cms",
-    "content": "Ancient fossils unearthed in Morocco reveal parasitic worms burrowing into mollusc shells approximately 480 million years ago, pushing back the known timeline for parasitism by 60 million years. This discovery in the Fezouata Shale formation offers a remarkable glimpse into complex early marine ecosystems, showcasing sophisticated host-parasite interactions much earlier than previously believed.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "‘Govinda admitted, hum kya karein?’: IPS officer D Sivanandhan reveals how actors and musicians performed a show for Dawood Ibrahim’s daughter",
-    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-admitted-hum-kya-karein-ips-officer-d-sivanandhan-reveals-how-actors-and-musicians-performed-a-show-for-dawood-ibrahims-daughter/articleshow/125135190.cms",
-    "content": "In the 1990s, Bollywood's glamour was overshadowed by underworld influence, with gangsters financing hit films like 'Satya' and 'Company' to enhance their image. Actors and producers lived under constant threat, forced to comply with demands from figures like Dawood Ibrahim, as revealed by former Joint CP Crime Mumbai D Sivanandhan.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "They were visibly uncomfortable: Men seen forcing foreign tourists for photos on Goa beach",
-    "link": "https://timesofindia.indiatimes.com/city/goa/they-were-visibly-uncomfortable-men-seen-forcing-foreign-tourists-for-photos-in-goa/articleshow/125147540.cms",
-    "content": "Goa authorities are cracking down on tourist harassment following disturbing incidents at Arambol and Vagator beaches.  Stricter patrolling and swift response mechanisms are being implemented to ensure visitor safety.  The tourism department emphasized that assault and intimidation will face severe action, urging establishments and visitors alike to uphold responsible conduct for a secure tourism environment.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Longer wait times, flight delays: Delhi airport ATC hit by technical snag; airlines issue advisory",
-    "link": "https://timesofindia.indiatimes.com/india/delhi-atc-software-issue-causing-flight-delays/articleshow/125148789.cms",
-    "content": "Delhi Airport is experiencing significant flight delays since Thursday evening due to a software issue with the Aeronautical Message Switching System (AMSS) in air traffic control. This technical problem has slowed down flight movements, leading to stacked-up delays and impacting both departures and arrivals. Authorities are working to resolve the issue, with rectification expected by Friday evening.",
-    "category": "Local",
-    "sub_category": "Delhi"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Suryakumar Yadav loses his temper at Shivam Dube during 4th T20I vs Australia",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-australia/suryakumar-yadav-loses-his-temper-at-shivam-dube-during-4th-t20i-vs-australia/articleshow/125147036.cms",
-    "content": "India captain Suryakumar Yadav showed rare frustration during the fourth T20I against Australia. Despite this brief moment, India secured a crucial 48-run victory, leveling the series. Washington Sundar's exceptional bowling performance led to a dramatic Australian collapse, securing the win for India.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "What really happens inside your body when you hold your breath too long",
-    "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-really-happens-inside-your-body-when-you-hold-your-breath-too-long/articleshow/125149506.cms",
-    "content": "Scientists explored how repeated breath-holding impacts the body.  A study found that practicing breath-holding techniques significantly increases endurance.  This improvement stems from the body becoming more efficient at balancing oxygen and carbon dioxide.  The repetition itself, rather than specific techniques, conditions the body.  This physiological adaptation allows for longer holds and quicker recovery.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Dodgers eye $80M ex-Cubs champion to boost roster and title hopes",
-    "link": "https://timesofindia.indiatimes.com/sports/mlb/mlb-trade-rumors-los-angeles-dodgers-could-resign-80-million-ex-chicago-cubs-champion-to-bolster-squad-and-improve-title-odds/articleshow/125146578.cms",
-    "content": "Former MVP Cody Bellinger is reportedly a target for a blockbuster reunion with the Los Angeles Dodgers. After a strong showing with the Yankees, Bellinger opted out of his contract, making him a highly sought-after free agent. His return would bolster the Dodgers' lineup and defense, potentially aiding their championship aspirations.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Stock market today: Nifty50 opens below 25,400; BSE Sensex down over 450 points",
-    "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-november-07-2025-dalal-street-indian-equities-global-markets-donald-trump-tariffs/articleshow/125148777.cms",
-    "content": "Stock market today: Nifty50 and BSE Sensex, the Indian equity benchmark indices, opened in red on Friday on weak global cues. While Nifty50 went below 25,400, BSE Sensex was down over 450 points. ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Top stocks to buy: Stock recommendations for today - check list",
-    "link": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-november-07-2025-manappuram-finance-dabur-india-stocks-to-buy-today/articleshow/125148733.cms",
-    "content": "Stock market recommendations:Bajaj Broking Research identifies Manappuram Finance and Dabur India as top stock picks for November 7, 2025. The Nifty is consolidating near a crucial demand zone, suggesting a healthy pullback within an uptrend.",
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Week 11 preview: Five freshmen who have impressed, how the Aggies got better in 2025 and more",
+    "link": "https://www.espn.com/college-football/story/_/page/gamedaykickoff110625/2025-college-football-gameday-kickoff-week-11-texas-byu-texas-tech",
+    "content": "Paul Finebaum says Texas A&M should be no. 2 ahead of Indiana . the first college football playoff rankings reveal the big 12 . it adds up to make Saturday's matchup the most consequential in college football .",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tiger attacks: Karnataka Minister orders closure of safari in Bandipur and Nagarahole",
+    "title": "Army apprehends Bangladeshi working in Indian military station",
+    "link": "https://www.thehindu.com/news/national/west-bengal/army-apprehends-bangladeshi-working-in-indian-military-station/article70252018.ece",
+    "content": "A man working as a labourer was found suspicious, and on further investigation and search, he was found to own a Bangladesh nationality identity card.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Vice-President C.P. Radhakrishnan to visit Shravanabelgola on November 9",
+    "link": "https://www.thehindu.com/news/national/karnataka/vice-president-cp-radhakrishnan-to-visit-shravanabelgola-on-november-9/article70251996.ece",
+    "content": "Abhinava Charukeerthy Bhattaraka Swamy of the mutt told mediapersons that a 10.5 feet tall statue of Shantisagara Maharaj would be installed on the hillock next to Vindhyagiri on November 9",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Man wanted for double murder shot at by police, arrested in Salem",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/man-wanted-for-double-murder-shot-at-arrested-in-salem/article70251674.ece",
+    "content": "The police said the accused, who has been accused of killing two women earlier this week, faced several cases of murder in the past and was even convicted in a couple of them",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Kerala govt medical college doctors to strike on November 13",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-govt-medical-college-doctors-to-strike-on-november-13/article70251907.ece",
+    "content": "Strike to press various long-pending demands, including salary revision and creation of new posts. However, emergency hospital services to function on the day",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Women’s World Cup star Shree Charani meets Andhra CM Chandrababu Naidu; felicitated",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/womens-world-cup-star-shree-charani-meets-andhra-cm-chandrababu-naidu-felicitated/article70251805.ece",
+    "content": "Following the team’s historic victory, Indian cricketer Shree Charani and former Indian captain Mithali Raj visited Chief Minister N. Chandrababu Naidu ",
+    "category": "Global",
+    "sub_category": "World"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Karnataka tiger attacks: Forest Minister orders closure of safari in Bandipur and Nagarahole",
     "link": "https://www.thehindu.com/news/national/karnataka/tiger-attacks-karnataka-minister-orders-closure-of-safari-in-bandipur-and-nagarahole/article70251800.ece",
     "content": "Trekking in human–wildlife conflict zones suspended until further orders; all available forest personnel to be deployed for tiger capture operation, says Minister Eshwar Khandre",
     "category": "Global",
@@ -865,7 +993,7 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Inside Karnataka’s Caste Survey: Data, Debate, and Division",
+    "title": "Inside Karnataka’s Social and Educational Survey: Data, Debate, and Division",
     "link": "https://www.thehindu.com/videos/inside-karnatakas-caste-survey-data-debate-and-division-a-narayana/article70251609.ece",
     "content": "With the Social and Educational Survey in Karnataka report expected in December, how will it influence future social and educational policies?",
     "category": "Global",
@@ -897,9 +1025,9 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Supreme Court agrees to take up pleas challenging pan-India SIR exercise on November 11",
+    "title": "Supreme Court orders urgent hearing on Nov 11 to take up pleas challenging pan-India SIR exercise",
     "link": "https://www.thehindu.com/news/national/supreme-court-agrees-to-take-up-plea-challenging-sir-exercise-on-november-11/article70251532.ece",
-    "content": "A Bench of Justices Surya Kant and Joymalya Bagchi agreed to also hear on November 11 a fresh application filed by the State of West Bengal, represented by senior advocate Kapil Sibal, challenging the SIR exercise",
+    "content": "The petitioners in the SIR case have questioned the absolute discretion employed by the Election Commission to conduct the revision of the electoral roll",
     "category": "Local",
     "sub_category": "India"
 },
@@ -948,6 +1076,30 @@
     "title": " Tracking tumour burdens today, to transform tomorrow",
     "link": "https://www.thehindu.com/sci-tech/health/tracking-tumour-burdens-today-to-transform-tomorrow/article70229250.ece",
     "content": "Information on the cancer burden and survival rates are crucial to help formulate policy and ensure health system provide equitable care; the registries begun by Cancer Institute, Adyar have resulted in enriched surveillance in T.N., bringing in new information in the battle against the disease ",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Protesters raise ‘right to breathe’ chorus, seek solution to pollution",
+    "link": "https://timesofindia.indiatimes.com/city/delhi/protesters-raise-right-to-breathe-chorus-seek-solution-to-pollution/articleshow/125141204.cms",
+    "content": "Koushiki Saha, a trainee journalist currently reporting for The Times of India, covers urban governance, infrastructure lapses, public grievances, and municipal policies with clarity and compassion. Still learning every day, she draws insights from fieldwork, lived experiences, and holding authorities accountable through persistent, people-focused reporting. Read More",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Sin': BJP accuses Nehru of dropping Maa Durga stanzas from Vande Mataram",
+    "link": "https://timesofindia.indiatimes.com/india/sin-bjp-accuses-nehru-of-dropping-maa-durga-stanzas-from-vande-mataram-in-1937-takes-pungent-echo-dig-at-rahul/articleshow/125148651.cms",
+    "content": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\" Read More",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "‘Shift them to shelters’: SC orders removal of stray dogs from hospitals, bus stands etc",
+    "link": "https://timesofindia.indiatimes.com/india/shift-them-to-shelters-sc-orders-removal-of-stray-dogs-from-schools-bus-stands-directs-nhai-to-clear-cattle-from-highways/articleshow/125150701.cms",
+    "content": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\" Read More",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1233,49 +1385,17 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Communication of grounds of arrest in writing in accused’s language is a must: Supreme Court",
-    "link": "https://www.thehindu.com/news/national/communication-of-grounds-of-arrest-in-writing-in-accuseds-language-is-a-must-supreme-court/article70249585.ece",
-    "content": "Supplied within reasonable time, this is irrespective of the nature of the offence or statute involved, the apex court has held",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Sugarcane farmers’ protest: CM writes to PM seeking urgent meeting to address FRP concerns",
-    "link": "https://www.thehindu.com/news/national/karnataka/sugarcane-farmers-protest-cm-writes-to-pm-seeking-urgent-meeting-to-address-frp-concerns/article70248988.ece",
-    "content": "Chief Minister will today hold separate meetings in Bengaluru with representatives of protesting sugarcane farmers and owners of sugar factories ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Study on Karnataka’s five Guarantees finds major gains for women’s welfare and empowerment",
-    "link": "https://www.thehindu.com/news/national/karnataka/study-on-karnatakas-five-guarantees-finds-major-gains-for-womens-welfare-and-empowerment/article70249086.ece",
-    "content": "According to the study, recipients of the Gruha Lakshmi scheme reported higher control over finances, improved nutrition, increased savings, and greater confidence",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Bihar Assembly elections Phase 1: Tejashwi, Tej Pratap among candidates who faced tough fight",
-    "link": "https://www.thehindu.com/elections/bihar-assembly/bihar-elections-phase-1tejashwi-tej-pratap-yadav-among-candidates-who-faced-tough-fight/article70248808.ece",
-    "content": "Yadav clan’s family feud became political as both Tejashwi and Tej Pratap put candidates against each other",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Can Congress overcome its ‘weak link’ tag in Bihar polls?",
-    "link": "https://www.thehindu.com/data/can-congress-overcome-its-weak-link-tag-in-bihar-polls/article70249597.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Five persons arrested for trying to extort money posing as RTI activists in Hubballi",
     "link": "https://www.thehindu.com/news/national/karnataka/five-persons-arrested-for-trying-to-extort-money-posing-as-rti-activists-in-hubballi/article70249129.ece",
     "content": "gang reportedly targeted co-operative banks and government officials posing as RTI activists . gang targeted government officials and banks . the gang is believed to have targeted government . officials . as a result of a gang attack, gang said to have been targeted .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Aided college teachers demand long-pending CAS salaries, withdrawal of Private Universities Bill",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/aided-college-teachers-demand-long-pending-cas-salaries-withdrawal-of-private-universities-bill/article70248948.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . teachers of government-aided colleges across Tamil Nadu have demanded the release of revised salaries under the Career Advan .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1289,11 +1409,11 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Telangana Gig Workers bill set to receive Cabinet approval on November 12: Labour Minister",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-gig-workers-bill-set-to-receive-cabinet-approval-on-november-12-labour-minister/article70251620.ece",
+    "title": "'Vande Mataram' remains proclamation of India's unity, says President Murmu",
+    "link": "https://www.thehindu.com/news/national/vande-mataram-remains-proclamation-of-indias-unity-says-president-murmu/article70251593.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
+    "category": "Local",
+    "sub_category": "India"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -1305,32 +1425,8 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "'Vande Mataram' remains proclamation of India's unity, says President Murmu",
-    "link": "https://www.thehindu.com/news/national/vande-mataram-remains-proclamation-of-indias-unity-says-president-murmu/article70251593.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Aided college teachers demand long-pending CAS salaries, withdrawal of Private Universities Bill",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/aided-college-teachers-demand-long-pending-cas-salaries-withdrawal-of-private-universities-bill/article70248948.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . teachers of government-aided colleges across Tamil Nadu have demanded the release of revised salaries under the Career Advan .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Students, government employees commemorate 150 years of Vande Mataram",
-    "link": "https://www.thehindu.com/news/national/telangana/students-government-employees-commemorate-150-years-of-vande-mataram/article70251751.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Mandal education officer killed in road accident near Andhra’s Papikonda National Park",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/mandal-education-officer-killed-in-road-accident-near-andhras-papikonda-national-park/article70251556.ece",
+    "title": "Telangana Gig Workers bill set to receive Cabinet approval on November 12: Labour Minister",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-gig-workers-bill-set-to-receive-cabinet-approval-on-november-12-labour-minister/article70251620.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1345,16 +1441,24 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "150 years of Vande Mataram to be marked with mass singing in Telangana",
-    "link": "https://www.thehindu.com/news/national/telangana/150-years-of-vande-mataram-to-be-marked-with-mass-singing-in-telangana/article70249654.ece",
+    "title": "Mandal education officer killed in road accident near Andhra’s Papikonda National Park",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/mandal-education-officer-killed-in-road-accident-near-andhras-papikonda-national-park/article70251556.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Kerala State Electricity Regulatory Commission notifies new renewable energy regulations",
-    "link": "https://www.thehindu.com/news/national/kerala/kerala-state-electricity-regulatory-commission-notifies-new-renewable-energy-regulations/article70249676.ece",
+    "title": "Rahul Bhattacharya on his novel Railsong and creating powerful women in a man’s world",
+    "link": "https://www.thehindu.com/books/books-authors/interview-rahul-bhattacharya-new-novel-railsong/article70247531.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "World"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "NGT halts waste dumping at Jawahar Nagar facility; over 38,000 tonnes waste in and around Hyderabad could remain uncollected",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/ngt-halts-dumping-waste-at-jawahar-nagar-facility-over-38000-tonnes-waste-in-and-around-hyderabad-could-remain-uncollected/article70251934.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1369,6 +1473,46 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Students, government employees commemorate 150 years of Vande Mataram",
+    "link": "https://www.thehindu.com/news/national/telangana/students-government-employees-commemorate-150-years-of-vande-mataram/article70251751.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "LKG student run over near Gudiyatham",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/lkg-student-run-over-near-gudiyatham/article70248585.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "India has become hub for engineering and technology: VIT Chancellor",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/india-has-become-hub-for-engineering-and-technology-vit-chancellor/article70248565.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Naruvi Hospitals in Vellore performs liver transplant for elderly patient",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/naruvi-hospitals-in-vellore-performs-liver-transplant-for-elderly-patient/article70248550.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Ensure Biligundlu gets 13.78 tmc, T.N. urges Cauvery panel",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/ensure-biligundlu-gets-1378-tmc-tn-urges-cauvery-panel/article70248465.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "‘Kozhikode must enhance infra to become top tier-two city’",
     "link": "https://www.thehindu.com/news/national/kerala/kozhikode-must-enhance-infra-to-become-top-tier-two-city/article70248937.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
@@ -1379,30 +1523,6 @@
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "THINQ-25: Jaipur school wins national title",
     "link": "https://www.thehindu.com/news/national/kerala/thinq-25-jaipur-school-wins-national-title/article70248687.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "1,286.2 gms of jewellery without valid hallmarking seized from shop in Guntur",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/12862-gms-of-jewellery-without-valid-hallmarking-seized-from-shop-in-guntur/article70249084.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tamil Nadu govt. mulls security deposit for party rallies",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-mulls-security-deposit-for-party-rallies/article70249454.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "No concrete step to ensure safety of health workers in Kerala, say IMA functionaries",
-    "link": "https://www.thehindu.com/news/national/kerala/no-concrete-step-to-ensure-safety-of-health-workers-in-kerala-say-ima-functionaries/article70248928.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1433,30 +1553,6 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Environmental pollution a major risk factor for diabetes",
-    "link": "https://www.thehindu.com/news/national/kerala/environmental-pollution-a-major-risk-factor-for-diabetes/article70248737.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "A.P.-Transco invites entries for photography contest",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-transco-invites-entries-for-photography-contest/article70249397.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Allahabad HC orders Dalit women to return ₹4.5 lakh compensation after they retract their complaints",
-    "link": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-orders-dalit-women-to-return-45-lakh-compensation-after-they-retract-their-complaints/article70249593.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Electric contractor booked for threatening Bescom officials for extortion",
     "link": "https://www.thehindu.com/news/national/karnataka/electric-contractor-booked-for-threatening-bescom-officials-for-extortion/article70249720.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
@@ -1473,8 +1569,24 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "LKG student run over near Gudiyatham",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/lkg-student-run-over-near-gudiyatham/article70248585.ece",
+    "title": "1,286.2 gms of jewellery without valid hallmarking seized from shop in Guntur",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/12862-gms-of-jewellery-without-valid-hallmarking-seized-from-shop-in-guntur/article70249084.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "A.P.-Transco invites entries for photography contest",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-transco-invites-entries-for-photography-contest/article70249397.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Environmental pollution a major risk factor for diabetes",
+    "link": "https://www.thehindu.com/news/national/kerala/environmental-pollution-a-major-risk-factor-for-diabetes/article70248737.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1488,74 +1600,34 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Suspicious white powder at US military base: Several people fall ill",
-    "link": "https://timesofindia.indiatimes.com/world/us/suspicious-white-powder-at-us-military-base-several-people-fall-ill-investigations-under-way/articleshow/125152320.cms",
-    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "‘He wants me to go there’: Trump drops hint of India visit in 2026; calls PM Modi 'a great man'",
-    "link": "https://timesofindia.indiatimes.com/india/it-could-be-yes-donald-trump-says-may-visit-india-next-year-calls-pm-modi-great-friend/articleshow/125143530.cms",
-    "content": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\" Read More",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Sin': BJP accuses Nehru of dropping Maa Durga stanzas from Vande Mataram",
-    "link": "https://timesofindia.indiatimes.com/india/sin-bjp-accuses-nehru-of-dropping-maa-durga-stanzas-from-vande-mataram-in-1937-takes-pungent-echo-dig-at-rahul/articleshow/125148651.cms",
-    "content": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\" Read More",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Protesters raise ‘right to breathe’ chorus, seek solution to pollution",
-    "link": "https://timesofindia.indiatimes.com/city/delhi/protesters-raise-right-to-breathe-chorus-seek-solution-to-pollution/articleshow/125141204.cms",
-    "content": "Koushiki Saha, a trainee journalist currently reporting for The Times of India, covers urban governance, infrastructure lapses, public grievances, and municipal policies with clarity and compassion. Still learning every day, she draws insights from fieldwork, lived experiences, and holding authorities accountable through persistent, people-focused reporting. Read More",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "‘Shift them to shelters’: SC orders removal of stray dogs from hospitals, bus stands etc",
-    "link": "https://timesofindia.indiatimes.com/india/shift-them-to-shelters-sc-orders-removal-of-stray-dogs-from-schools-bus-stands-directs-nhai-to-clear-cattle-from-highways/articleshow/125150701.cms",
-    "content": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\" Read More",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "India has become hub for engineering and technology: VIT Chancellor",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/india-has-become-hub-for-engineering-and-technology-vit-chancellor/article70248565.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Ensure Biligundlu gets 13.78 tmc, T.N. urges Cauvery panel",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/ensure-biligundlu-gets-1378-tmc-tn-urges-cauvery-panel/article70248465.ece",
+    "title": "Allahabad HC orders Dalit women to return ₹4.5 lakh compensation after they retract their complaints",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-orders-dalit-women-to-return-45-lakh-compensation-after-they-retract-their-complaints/article70249593.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Naruvi Hospitals in Vellore performs liver transplant for elderly patient",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/naruvi-hospitals-in-vellore-performs-liver-transplant-for-elderly-patient/article70248550.ece",
+    "title": "No concrete step to ensure safety of health workers in Kerala, say IMA functionaries",
+    "link": "https://www.thehindu.com/news/national/kerala/no-concrete-step-to-ensure-safety-of-health-workers-in-kerala-say-ima-functionaries/article70248928.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "BC's 'Red Bandana' uniforms, UCF's 'Space Game' look leads Week 11 CFB threads",
-    "link": "https://www.espn.com/college-football/story/_/id/46872272/boston-college-red-bandana-ucf-space-game-week-11-college-football-uniforms",
-    "content": "the Eagles are currently on an eight-game losing streak . every season, for one game, the uniforms honor Boston College alum Welles Crowther . \"FOR WELLES\" is written on the jersey's back nameplate .",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Can Congress overcome its ‘weak link’ tag in Bihar polls?",
+    "link": "https://www.thehindu.com/data/can-congress-overcome-its-weak-link-tag-in-bihar-polls/article70249597.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Trough over Tamil Nadu to influence heavy rain in interior, southern districts for two days",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/trough-over-tamil-nadu-to-influence-heavy-rain-in-interior-southern-districts-for-two-days/article70248657.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1580,86 +1652,6 @@
     "title": "Centre to decide soon on relaxation of moisture content for paddy procurement",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/centre-to-decide-soon-on-relaxation-of-moisture-content-for-paddy-procurement/article70248917.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Trough over Tamil Nadu to influence heavy rain in interior, southern districts for two days",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/trough-over-tamil-nadu-to-influence-heavy-rain-in-interior-southern-districts-for-two-days/article70248657.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Jon Sumrall is one of the hottest coaching candidates. He also has a team to coach",
-    "link": "https://www.espn.com/college-football/story/_/id/46860153/jon-sumrall-tulane-coaching-carousel-lsu-auburn",
-    "content": "coach Jon Sumrall spoke as a coach who had changed jobs before . he polled players about who had agents and saw half the hands go up . sumrall and some assistants had rebuffed power 4 moves to stay with Tulane for 2025 .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "The Bilas Index: Jay Bilas picks his top 68 teams this season",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/46849241/jay-bilas-index-mens-college-basketball-rankings-top-teams-2025-26",
-    "content": "the Bilas Index is the most powerful and consequential instrument of basketball wisdom and judgment known to humankind . it serves as much more than a guide or a road map to this men's college basketball season . the Bilastrator's immense and powerful brain is superior in processing basketball performance, potential and ability .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "CFP Bubble Watch: Where do things stand following the first committee ranking?",
-    "link": "https://www.espn.com/college-football/story/_/id/46833341/college-football-playoff-2025-bubble-watch-week-10",
-    "content": "the lone ACC team in the bracket if it were released today would be no. 14 Virginia . the canes would earn a spot as the fourth-highest ranked conference champion . teams labeled Still in the mix haven't been elated .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Expert picks, best bets: How Randy Brown could get an upset win at UFC Fight Night",
-    "link": "https://www.espn.com/mma/story/_/id/46860254/ufc-fight-night-expert-picks-best-bets-gabriel-bonfim-vs-randy-brown",
-    "content": "welterweight title fight tops next week's UFC 322 fight card . Neither Brown nor Bonfim are ranked in the MMA divisional rankings . the first of two consecutive weeks of main events takes place on saturday .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "How to watch ESPN amid Disney-YouTube TV blackout",
-    "link": "https://www.espn.com/college-football/story/_/id/46746772/how-watch-espn-amid-disney-youtube-tv-blackout",
-    "content": "the blackout affects ABC, the ESPN networks, the Disney-branded channels, Freeform, the FX networks and the Xfinity network . the conflict affects the channel's ability to carry Disney programming . if you don't have cable access, you can get instant access to ESPN content through a variety of services including Cox, Dish, DirecTV, Fios, Fubo, Hulu + Live TV, Mediacom, Optimum, Sling, Spectrum TV and ",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Week 11 Anger Index: The case for outrage over BYU's and Miami's CFP rankings",
-    "link": "https://www.espn.com/college-football/story/_/id/46847596/week-11-anger-index-teams-upset-college-football-playoff-ranking-2025",
-    "content": "the college football playoff committee has released its first top 25 ranking of the season . it's the sport's version of Walmart opening its doors at midnight on black Friday . this year, the committee has said it is considering a new \"record strength\" metric .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "NHL prospect pipeline rankings: Sharks, Islanders, then ...?",
-    "link": "https://www.espn.com/nhl/story/_/id/46860573/nhl-2025-26-prospect-pipeline-rankings-best-players-draft-future",
-    "content": "a player who is under 23, with under 50 NHL games played, is eligible for this list . the rankings are done by assigning a value to each of the prospects based on his NHL projection and taking the cumulative value of each team's prospects . this means some teams with many prospects might rank higher than others with fewer, but more talented prospects.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "F1 title battle: Verstappen feeling 'no pressure'",
-    "link": "https://www.espn.com/f1/story/_/id/46872725/max-verstappen-feels-no-pressure-f1-title-push",
-    "content": "Max Verstappen is the first season ticket for the 2026 season . the four-time world champion is just 36 points adrift of lando norris and McLaren . he is 104 points off the title pace after his home race in the Netherlands five rounds ago .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Week 11 preview: Five freshmen who have impressed, how the Aggies got better in 2025 and more",
-    "link": "https://www.espn.com/college-football/story/_/page/gamedaykickoff110625/2025-college-football-gameday-kickoff-week-11-texas-byu-texas-tech",
-    "content": "Paul Finebaum says Texas A&M should be no. 2 ahead of Indiana . the first college football playoff rankings reveal the big 12 . it adds up to make Saturday's matchup the most consequential in college football .",
     "category": "Global",
     "sub_category": "General"
 }
