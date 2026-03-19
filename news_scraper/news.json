@@ -1,6 +1,14 @@
 [
 {
     "source": "https://www.espn.com/espn/rss/news",
+    "title": "Duke avoids historic upset, rallies to beat Siena",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/48252405/duke-avoids-historic-upset-stops-siena-ncaa-tournament",
+    "content": "Duke barely avoided a shocking upset to open the NCAA tournament, with the No. 1 overall seed having to rally from 13 points down and going ahead for good in the final 5 minutes to beat 16th-seeded Siena 71-65 on Thursday.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
     "title": "High Point rallies late to stun 5th-seeded Badgers",
     "link": "https://www.espn.com/mens-college-basketball/story/_/id/48251956/high-point-upsets-wisconsin-1st-round-ncaa-tournament",
     "content": "Chase Johnston made his first 2-point basket of the season, a fast-break layup with 11.7 seconds remaining that gave No. 12 seed High Point an 83-82 victory over fifth-seeded Wisconsin on Thursday in the first round of the NCAA tournament.",
@@ -27,7 +35,7 @@
     "source": "https://www.espn.com/espn/rss/news",
     "title": "'Storybook ending': Nebraska ends NCAA drought",
     "link": "https://www.espn.com/mens-college-basketball/story/_/id/48252012/nebraska-breaks-special-ncaa-tournament-win",
-    "content": "No. 4 seed Nebraska captured its first-ever NCAA tournament win in a 76-47 drubbing of No. 13 seed Troy in the first round on Thursday.",
+    "content": "No. 4 seed Nebraska captured its first-ever NCAA tournament win in a 76-47 drubbing of No. 13 seed Troy in the first round Thursday.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -52,14 +60,6 @@
     "title": "Iran soccer chief: We'll boycott U.S., not WCup",
     "link": "https://www.espn.com/soccer/story/_/id/48249862/iran-world-cup-2026-usa-mehdi-taj-mexico",
     "content": "Iran will \"boycott the United States, but not the World Cup,\" the president of the country's football federation said Wednesday, in quotes reported by Iran's Fars news agency.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Sources: Heat to waive Rozier before playoffs",
-    "link": "https://www.espn.com/nba/story/_/id/48250127/sources-heat-expected-waive-terry-rozier-playoffs",
-    "content": "The Miami Heat are expected to waive guard Terry Rozier before the end of the regular season to create a roster spot for the team's playoff run, sources confirmed to ESPN.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -113,9 +113,9 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Women's March Madness Final Four, champion predictions",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/48239610/womens-march-madness-2026-final-four-national-championship-predictions",
-    "content": "ESPN talent cast their votes for which foursome will reach the Final Four. Will Phoenix be full of chalk?",
+    "title": "NHL playoff watch: Is Mammoth-Golden Knights a first-round preview?",
+    "link": "https://www.espn.com/nhl/story/_/id/48241733/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
+    "content": "The clubs face off Thursday -- and maybe again in mid-April. Plus, updated playoff projections, draft lottery standings.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -124,6 +124,14 @@
     "title": "Ranking the top 50 men's college basketball players who could define March Madness",
     "link": "https://www.espn.com/mens-college-basketball/story/_/id/48196523/march-madness-player-ranking-ncaa-tournament-cameron-boozer-aj-dybantsa-2026",
     "content": "From mid-major leaders to national superstars, here's who could impact their teams' NCAA tournament runs.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Women's March Madness Final Four, champion predictions",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/48239610/womens-march-madness-2026-final-four-national-championship-predictions",
+    "content": "ESPN talent cast their votes for which foursome will reach the Final Four. Will Phoenix be full of chalk?",
     "category": "Global",
     "sub_category": "General"
 },
@@ -140,14 +148,6 @@
     "title": "Kiper's mock draft: How free agency shook up first-round landing spots for top prospects",
     "link": "https://www.espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1",
     "content": "How will top prospects come off the board in Round 1? Mel Kiper Jr. projects the draft's first 32 picks.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "NHL playoff watch: Is Mammoth-Golden Knights a first-round preview?",
-    "link": "https://www.espn.com/nhl/story/_/id/48241733/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
-    "content": "The clubs face off Thursday -- and maybe again in mid-April. Plus, updated playoff projections, draft lottery standings.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -232,6 +232,166 @@
     "sub_category": "General"
 },
 {
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "War With Iran Could End \"Faster Than People Think\": Netanyahu",
+    "link": "https://www.ndtv.com/world-news/iran-war-war-with-iran-could-end-faster-than-people-think-benjamin-netanyahu-11240489#publisher=newsstand",
+    "content": "Israeli President Benjamin Netanyahu said on Thursday that he believed the war in Iran could finish sooner than \"people think\".",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Netanyahu Says Israel Will Stop Attacks On Iranian Gas Field",
+    "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-israel-will-stop-attacks-on-iranian-gas-field-11240574#publisher=newsstand",
+    "content": "Israeli PM Benjamin Netanyahu said that at the request of President Trump, Israel will hold off on any further attacks on the Iranian gas field.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Netanyahu Says Iran No Longer Has Uranium Enrichment Capacity",
+    "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-iran-no-longer-has-uranium-enrichment-capacity-11240511#publisher=newsstand",
+    "content": "Benjamin Netanyahu said that Iran's missile and drone arsenal is being massively degraded and will be destroyed.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Can US Send Convoys To Protect Ships In Hormuz? What Naval Warfare Laws Say",
+    "link": "https://www.ndtv.com/world-news/iran-war-latest-news-how-naval-warfare-law-applies-to-strait-of-hormuz-11240206#publisher=newsstand",
+    "content": "Even though the Strait of Hormuz is subject to the sovereignty of adjacent states, all other states' ships have navigational rights through the strait.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Iran War LIVE: Israel Did Not Drag US Into War With Iran, Trump Makes Own Calls: Netanyahu",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand",
+    "content": "US Israel Iran War News LIVE Updates: Iran has been striking its Persian Gulf neighbours' energy facilities since the war started on February 28, and has made the Strait of Hormuz shipping channel, nearly impassable.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "US Approves Over $16 Billion In Arms Sales To Gulf Nations Hit By Iran War",
+    "link": "https://www.ndtv.com/world-news/us-approves-over-16-billion-in-arms-sales-to-gulf-nations-hit-by-iran-war-11240431#publisher=newsstand",
+    "content": "The biggest single sale is of lower-tier air and missile defense sensor radars, which are designed to track high-speed targets and give data to a missile defense network, to Kuwait for $8 billion.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Hegseth Warns Of \"Largest Strike Package\" Against Iran, Says US Is Winning",
+    "link": "https://www.ndtv.com/world-news/iran-war-live-pete-hegseth-warns-of-largest-strike-package-against-iran-says-us-is-winning-11240425#publisher=newsstand",
+    "content": "\"Epic Fury is different. It's laser-focused. It's decisive. Our objectives, given directly from our America First President, remain exactly as they were on Day One...We're winning -- decisively and on our terms,\" Hegseth said.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Trump Says Told Netanyahu Not To Attack Iran Gas Fields",
+    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-told-benjamin-netanyahu-not-to-attack-iran-gas-fields-11240421#publisher=newsstand",
+    "content": "Trump insisted on social media overnight that he \"knew nothing\" about Wednesday's strike by Israel on the South Pars gas field in Iran, which retaliated to the attack by hitting Qatari energy sites.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "UAE Welcomes Maritime Body Condemning Iran's Attacks, Closure Of Hormuz",
+    "link": "https://www.ndtv.com/world-news/iran-war-live-uae-backs-maritime-bodys-safe-corridor-plan-amid-hormuz-shipping-crisis-11240397#publisher=newsstand",
+    "content": "In a statement following the IMO Council's emergency session in London, the UAE backed the decision to strongly condemn Iranian threats and attacks on commercial vessels, as well as what it described as Tehran's attempted closure of the Strait of Hor",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Ships, Flights, Fuel: How Iran-Israel War Is Keeping Global Economy On Edge",
+    "link": "https://www.ndtv.com/world-news/israel-iran-war-us-iran-middle-east-war-ships-flights-fuel-how-iran-israel-war-is-keeping-global-economy-on-edge-11239788#publisher=newsstand",
+    "content": "Oil, gas and transport costs have surged noticeably amid the ongoing West Asia war that began on February 28 and continues to unfold.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Ground Report: Bhabanipur Weighs 'Bengal's Daughter' Versus Calls For Change",
+    "link": "https://www.ndtv.com/india-news/west-bengal-elections-2026-ground-report-bhabanipur-weighs-bengals-daughter-versus-calls-for-change-11240374#publisher=newsstand",
+    "content": "Often denoted as the \"mini-India\" of Kolkata, an amalgamation of Bengali and non-Bengali voters forms this Bhabanipur segment.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "On Camera, Car Rams Bike In Gujarat's Vadodara, Biker Falls 10 Feet Away",
+    "link": "https://www.ndtv.com/india-news/on-camera-car-rams-bike-in-gujarats-vadodara-biker-falls-10-feet-away-11240390#publisher=newsstand",
+    "content": "Utilising viral mobile videos and CCTV footage from the shops, the police successfully tracked the vehicle and arrested the driver within hours.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Congress, Raijor Dal Finalise Assam Polls Alliance After Several Deadlocks",
+    "link": "https://www.ndtv.com/india-news/congress-raijor-dal-finalise-assam-polls-alliance-after-several-deadlocks-11240382#publisher=newsstand",
+    "content": "An MoU formalising the alliance between the two parties was signed on Thursday, marking a significant political development ahead of the 2026 Assembly polls.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "\"Crossed All Boundaries\": Mamata Banerjee To Poll Body On Officials' Transfer",
+    "link": "https://www.ndtv.com/india-news/crossed-all-boundaries-mamata-banerjee-to-poll-body-on-officials-transfer-11240369#publisher=newsstand",
+    "content": "In a strongly worded letter, her eighth to the CEC, Mamata Banerjee alleged that it had \"crossed all boundaries of decency and constitutional propriety\".",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "New York-Mumbai Air India Flight Diverted To Saudi Arabia After Fire Indication",
+    "link": "https://www.ndtv.com/india-news/new-york-mumbai-air-india-flight-diverted-to-saudi-arabia-after-fire-indication-11240355#publisher=newsstand",
+    "content": "A Mumbai-bound Air India aircraft was diverted to Medina, Saudi Arabia, on Thursday afternoon following an aft cargo fire indication in the cockpit that turned out to be false.",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "US' TikTok-Style Iran War Clips Spark Backlash For Trivialising Conflict",
+    "link": "https://www.ndtv.com/world-news/iran-war-live-us-tiktok-style-iran-war-clips-spark-backlash-for-trivialising-conflict-11240347#publisher=newsstand",
+    "content": "Across its social media platforms, the administration has pushed out high-energy clips that cut between actual explosions in Iran and footage of action heroes, gaming sequences, and even hard-hitting football moments.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Nearly Week After Probe, 1 Arrested In Tamil Nadu Minor's Murder Case",
+    "link": "https://www.ndtv.com/india-news/nearly-week-after-probe-1-arrested-in-tamil-nadu-minors-murder-case-11240019#publisher=newsstand",
+    "content": "After nearly a week of investigation with analysing CCTV and the Tower Dump method, Dharma Muneshwaran has been arrested by Tamil Nadu Police in connection with the sexual assault and murder of a 17-year-old girl in Thoothukudi.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Iran Attack On Complex Will Hit LNG Exports For 3-5 Years: QatarEnergy CEO",
+    "link": "https://www.ndtv.com/world-news/iran-attack-on-complex-will-hit-lng-exports-for-3-5-years-qatarenergy-ceo-11240322#publisher=newsstand",
+    "content": "The energy industry has for years feared a conflict in the region would cause long-term damage to oil and gas facilities and trigger shortages in global energy supplies.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "International Cyber Syndicate Busted In Srinagar, 7 Arrested",
+    "link": "https://www.ndtv.com/india-news/international-cyber-syndicate-busted-in-srinagar-7-arrested-11240213#publisher=newsstand",
+    "content": "Police said the raids were conducted after Counter Intelligence Kashmir (CIK) received information regarding the functioning of call centres engaged in fraudulent online activities targeting both foreign nationals and locals.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Supreme Court Upholds Bail Of Vadodara Student Who Crashed Car While High",
+    "link": "https://www.ndtv.com/india-news/supreme-court-upholds-bail-of-vadodara-student-who-crashed-car-while-high-11237654#publisher=newsstand",
+    "content": "The Supreme Court refused to cancel the bail granted to 2-year-old law student, who had crashed his car into passerby in Vadodara and come out of vehicle to shout \"Another round, another round\".",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
     "title": "Big oil relief soon? What Trump’s possible ‘unsanctioning’ of Iran crude means for India",
     "link": "https://timesofindia.indiatimes.com/business/india-business/big-oil-relief-soon-what-trumps-possible-unsanctioning-of-iran-crude-means-for-india/articleshow/129683949.cms",
@@ -273,17 +433,33 @@
 },
 {
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Iran to play FIFA World Cup but 'boycott' US amid Trump's 'safety' warning",
-    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/iran-to-play-fifa-world-cup-but-boycott-us-amid-donald-trumps-safety-warning/articleshow/129675837.cms",
-    "content": "\"We will be preparing for the World Cup. We will boycott the United States but not the World Cup,\" Taj said in a video released by the Iranian press agency Fars News Agency on Wednesday, as cited by news agency AFP.",
+    "title": "Boogie2988 controversy explained: Viral livestream clash with disabled stream guest",
+    "link": "https://timesofindia.indiatimes.com/world/us-streamers/boogie2988-controversy-explained-viral-livestream-clash-with-disabled-stream-guest/articleshow/129687342.cms",
+    "content": "YouTuber Boogie2988 faces backlash after a viral clip shows him threatening a disabled guest, Turbo, during a live stream. The incident occurred after Turbo teased Boogie during a basketball game. While some viewers defended Boogie, citing Turbo's aggressive behavior, many condemned his remarks, highlighting the need for respect, especially towards individuals with disabilities. The situation sparks debate on streamer conduct.",
     "category": "Global",
-    "sub_category": "World"
+    "sub_category": "General"
 },
 {
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
     "title": "Perplexity AI CEO: Google search does a much better job than anyone else in the world",
     "link": "https://timesofindia.indiatimes.com/technology/tech-news/perplexity-ai-ceo-aravind-srinivas-who-once-made-30-billion-plus-offer-to-buy-google-chrome-browser-now-says-google-search-does-a-much-better-job-than-anyone-else-in-the-world/articleshow/129674599.cms",
     "content": "Perplexity CEO Aravind Srinivas, who once offered $34.5 billion for Google Chrome, now defaults Google search on his company's Comet iOS browser. He acknowledges Google's superiority for everyday navigational queries, while Comet aims to enhance answer quality and multimodal capabilities. This pragmatic approach positions Comet as a complementary tool, not a direct competitor, to Google.",
+    "category": "Global",
+    "sub_category": "World"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Dhruv Rathee slams Dhurandhar 2: The Revenge, calls it blatant propaganda",
+    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhruv-rathee-slams-dhurandhar-2-the-revenge-says-aditya-dhar-went-blatant-this-time-ab-toh-well-made-propaganda-bhi-nahi-raha/articleshow/129686521.cms",
+    "content": "Dhurandhar 2: The Revenge has opened to packed theatres and strong footfall. While many viewers have praised the film’s scale, performances, and storytelling, a section of the audience feels it doesn’t match up to the first installment. Amid the buzz, YouTuber Dhruv Rathee has once again stirred controversy, this time targeting Dhurandhar 2: The Revenge and its director Aditya Dhar.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Iran to play FIFA World Cup but 'boycott' US amid Trump's 'safety' warning",
+    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/iran-to-play-fifa-world-cup-but-boycott-us-amid-donald-trumps-safety-warning/articleshow/129675837.cms",
+    "content": "\"We will be preparing for the World Cup. We will boycott the United States but not the World Cup,\" Taj said in a video released by the Iranian press agency Fars News Agency on Wednesday, as cited by news agency AFP.",
     "category": "Global",
     "sub_category": "World"
 },
@@ -488,28 +664,52 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Russia driving wedge': Kyiv on 6 Ukrainians held for anti-India plot; MEA reacts",
-    "link": "https://timesofindia.indiatimes.com/india/russia-driving-wedge-kyiv-denies-anti-india-plot-seeks-fair-probe-into-detention-of-6-ukrainians/articleshow/129679428.cms",
-    "content": "Ukraine called for a transparent investigation into the detention of six of its nationals in Mizoram, denying any involvement in terrorist activities. Kyiv suspects Russia is attempting to create discord between Ukraine and India, urging that allegations be based on verified facts and intergovernmental cooperation.",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Delhi HC issues notice on plea seeking removal of India’s patent head",
+    "link": "https://www.thehindu.com/news/national/delhi-hc-issues-notice-on-plea-seeking-removal-of-indias-patent-head/article70762346.ece",
+    "content": "The petition has been filed by the All India Patent Officers’ Welfare Association (AIPOWA) alleging that Mr Pandit’s appointment was “illegal and arbitrary” and made in violation of prescribed eligibility criteria",
     "category": "Local",
     "sub_category": "India"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Which are top 10 losers on NSE, BSE today? Check list as one Nifty stock bucks trend",
-    "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-the-top-10-losers-on-nse-bse-on-march-19-2026-check-list-as-one-nifty-stock-bucks-trend/articleshow/129680490.cms",
-    "content": "Indian stock markets experienced a significant downturn on Thursday, with both Sensex and Nifty plunging over 3%. Surging crude oil prices due to escalating West Asia attacks, coupled with weak global cues, triggered a broad market rout. Financials, autos, and industrials were heavily impacted, while ONGC was the sole gainer.",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Facing evictions, Gulmarg hoteliers withdraw petitions ‘to settle issue with J&K Govt.’",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/facing-evictions-gulmarg-hoteliers-withdraw-petitions-to-settle-issue-with-jk-govt/article70762232.ece",
+    "content": "Official sources said the J&K government, unlike the Lieutenant Governor administration, intended to form a committee to look into the lease issues and auctions",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Riot-like conditions': Rahul slams BJP over Delhi Eid violence fear; HC notice to cops",
-    "link": "https://timesofindia.indiatimes.com/india/riot-like-conditions-rahul-gandhi-targets-bjp-over-delhi-eid-violence-fear-hc-orders-police-to-amp-up-security/articleshow/129678720.cms",
-    "content": "Rahul Gandhi alleges the BJP is creating a riot-like situation in Delhi. This follows the Uttam Nagar murder of Tarun and concerns over Eid violence. The Delhi High Court has ordered police to make arrangements. Gandhi urges Delhi residents to resist provocation and unite.",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "24 States, U.T.s set aside funds for new rural jobs scheme",
+    "link": "https://www.thehindu.com/news/national/despite-centres-delay-states-set-aside-funds-for-rural-jobs-programme/article70762683.ece",
+    "content": "They use past expenditure under the MGNREGA as the baseline as the Centre is yet to notify the formula for determining the State-wise normative allocations under the VB-GRAM (G) Act",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "West Asia troubles to delay India’s FTA talks with GCC countries and Israel",
+    "link": "https://www.thehindu.com/news/national/west-asia-troubles-to-delay-indias-fta-talks-with-gcc-countries-and-israel/article70762045.ece",
+    "content": "The FTAs with the UK and the EU are still on track to be implemented and ratified, respectively, this year",
     "category": "Local",
-    "sub_category": "Delhi"
+    "sub_category": "India"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Iran may let more Indian vessels pass Hormuz Strait: Lloyds List",
+    "link": "https://www.thehindu.com/news/national/iran-creating-corridor-for-safe-exit-of-india-bound-ships-lloyds-list/article70762901.ece",
+    "content": "The maritime data company has reported that nine ships have exited through Iran’s corridor in Strait of Hormuz; reliable sources in India, meanwhile, said that with the situation in West Asia escalating further, Indian ships stuck in the strait for more than two weeks have been asked to ‘stay put’ for now after Israeli strikes on Iran’s largest gas fields",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Global cooperation is crucial to tackle AI bias and risks, says PM",
+    "link": "https://www.thehindu.com/sci-tech/technology/india-should-be-among-the-top-three-ai-superpowers-globally-pm-modi/article70643283.ece",
+    "content": "While AI may enhance human capabilities, the ultimate responsibility for decision-making must remain with humans, stresses Modi; India is working to create diverse datasets that represent its plurality and accommodate regional languages, he adds",
+    "category": "Global",
+    "sub_category": "General"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -558,14 +758,6 @@
     "content": "According to an analysis by PRS Legislative Research, the 16th Assembly, whose tenure began on May 11, 2021, and is set to conclude on May 10, 2026, met for only 155 days, the lowest for a full-term Assembly since 1952",
     "category": "Global",
     "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Iran creating corridor for safe exit of India-bound ships: Lloyds List",
-    "link": "https://www.thehindu.com/news/national/iran-creating-corridor-for-safe-exit-of-india-bound-ships-lloyds-list/article70762901.ece",
-    "content": "The maritime data company has reported that nine ships have exited through Iran’s corridor in Strait of Hormuz; reliable sources in India, meanwhile, said that with the situation in West Asia escalating further, Indian ships stuck in the strait for more than two weeks have been asked to ‘stay put’ for now after Israeli strikes on Iran’s largest gas fields",
-    "category": "Local",
-    "sub_category": "India"
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -713,14 +905,6 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Despite Centre’s delay, States, U.T.s, set aside funds for rural jobs programme",
-    "link": "https://www.thehindu.com/news/national/despite-centres-delay-states-set-aside-funds-for-rural-jobs-programme/article70762683.ece",
-    "content": "At least 24 States and UTs make budgetary provisions despite uncertainty over Centre’s normative allocations; most States use past expenditure under MGNREGA as the baseline",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Uttarakhand High Court questions ‘Mohammad’ Deepak’s plea for protection, calls it ‘pressure tactic’",
     "link": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-high-court-questions-mohammad-deepaks-plea-for-protection-calls-it-pressure-tactic/article70762632.ece",
     "content": "Advocate Navnish Negi, who represented Mr. Deepak argued that his client had been facing threats and that a crowd had gathered outside his residence and gym, creating apprehension for his safety; to this the court said that nothing happened to his client since January 26.",
@@ -756,166 +940,6 @@
     "title": "Lack of ‘sustainable water sources’ will thwart Jal Jeevan Mission: panel",
     "link": "https://www.thehindu.com/news/national/lack-of-sustainable-water-sources-will-thwart-jal-jeevan-mission-panel/article70762409.ece",
     "content": "The parliamentary committee said that despite taps having been installed at many places under JJM, there was an “...issue of water availability due to shortage of sources” and that in some places “...water sources were being exhausted within a year or two”",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "War With Iran Could End \"Faster Than People Think\": Netanyahu",
-    "link": "https://www.ndtv.com/world-news/iran-war-war-with-iran-could-end-faster-than-people-think-benjamin-netanyahu-11240489#publisher=newsstand",
-    "content": "Israeli President Benjamin Netanyahu said on Thursday that he believed the war in Iran could finish sooner than \"people think\".",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Netanyahu Says Israel Will Stop Attacks On Iranian Gas Field",
-    "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-israel-will-stop-attacks-on-iranian-gas-field-11240574#publisher=newsstand",
-    "content": "Israeli PM Benjamin Netanyahu said that at the request of President Trump, Israel will hold off on any further attacks on the Iranian gas field.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Netanyahu Says Iran No Longer Has Uranium Enrichment Capacity",
-    "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-iran-no-longer-has-uranium-enrichment-capacity-11240511#publisher=newsstand",
-    "content": "Benjamin Netanyahu said that Iran's missile and drone arsenal is being massively degraded and will be destroyed.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Can US Send Convoys To Protect Ships In Hormuz? What Naval Warfare Laws Say",
-    "link": "https://www.ndtv.com/world-news/iran-war-latest-news-how-naval-warfare-law-applies-to-strait-of-hormuz-11240206#publisher=newsstand",
-    "content": "Even though the Strait of Hormuz is subject to the sovereignty of adjacent states, all other states' ships have navigational rights through the strait.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Iran War LIVE: Israel Did Not Drag US Into War With Iran, Trump Makes Own Calls: Netanyahu",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand",
-    "content": "US Israel Iran War News LIVE Updates: Iran has been striking its Persian Gulf neighbours' energy facilities since the war started on February 28, and has made the Strait of Hormuz shipping channel, nearly impassable.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "US Approves Over $16 Billion In Arms Sales To Gulf Nations Hit By Iran War",
-    "link": "https://www.ndtv.com/world-news/us-approves-over-16-billion-in-arms-sales-to-gulf-nations-hit-by-iran-war-11240431#publisher=newsstand",
-    "content": "The biggest single sale is of lower-tier air and missile defense sensor radars, which are designed to track high-speed targets and give data to a missile defense network, to Kuwait for $8 billion.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Hegseth Warns Of \"Largest Strike Package\" Against Iran, Says US Is Winning",
-    "link": "https://www.ndtv.com/world-news/iran-war-live-pete-hegseth-warns-of-largest-strike-package-against-iran-says-us-is-winning-11240425#publisher=newsstand",
-    "content": "\"Epic Fury is different. It's laser-focused. It's decisive. Our objectives, given directly from our America First President, remain exactly as they were on Day One...We're winning -- decisively and on our terms,\" Hegseth said.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Trump Says Told Netanyahu Not To Attack Iran Gas Fields",
-    "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-told-benjamin-netanyahu-not-to-attack-iran-gas-fields-11240421#publisher=newsstand",
-    "content": "Trump insisted on social media overnight that he \"knew nothing\" about Wednesday's strike by Israel on the South Pars gas field in Iran, which retaliated to the attack by hitting Qatari energy sites.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "UAE Welcomes Maritime Body Condemning Iran's Attacks, Closure Of Hormuz",
-    "link": "https://www.ndtv.com/world-news/iran-war-live-uae-backs-maritime-bodys-safe-corridor-plan-amid-hormuz-shipping-crisis-11240397#publisher=newsstand",
-    "content": "In a statement following the IMO Council's emergency session in London, the UAE backed the decision to strongly condemn Iranian threats and attacks on commercial vessels, as well as what it described as Tehran's attempted closure of the Strait of Hor",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Ships, Flights, Fuel: How Iran-Israel War Is Keeping Global Economy On Edge",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-us-iran-middle-east-war-ships-flights-fuel-how-iran-israel-war-is-keeping-global-economy-on-edge-11239788#publisher=newsstand",
-    "content": "Oil, gas and transport costs have surged noticeably amid the ongoing West Asia war that began on February 28 and continues to unfold.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Ground Report: Bhabanipur Weighs 'Bengal's Daughter' Versus Calls For Change",
-    "link": "https://www.ndtv.com/india-news/west-bengal-elections-2026-ground-report-bhabanipur-weighs-bengals-daughter-versus-calls-for-change-11240374#publisher=newsstand",
-    "content": "Often denoted as the \"mini-India\" of Kolkata, an amalgamation of Bengali and non-Bengali voters forms this Bhabanipur segment.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "On Camera, Car Rams Bike In Gujarat's Vadodara, Biker Falls 10 Feet Away",
-    "link": "https://www.ndtv.com/india-news/on-camera-car-rams-bike-in-gujarats-vadodara-biker-falls-10-feet-away-11240390#publisher=newsstand",
-    "content": "Utilising viral mobile videos and CCTV footage from the shops, the police successfully tracked the vehicle and arrested the driver within hours.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Congress, Raijor Dal Finalise Assam Polls Alliance After Several Deadlocks",
-    "link": "https://www.ndtv.com/india-news/congress-raijor-dal-finalise-assam-polls-alliance-after-several-deadlocks-11240382#publisher=newsstand",
-    "content": "An MoU formalising the alliance between the two parties was signed on Thursday, marking a significant political development ahead of the 2026 Assembly polls.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "\"Crossed All Boundaries\": Mamata Banerjee To Poll Body On Officials' Transfer",
-    "link": "https://www.ndtv.com/india-news/crossed-all-boundaries-mamata-banerjee-to-poll-body-on-officials-transfer-11240369#publisher=newsstand",
-    "content": "In a strongly worded letter, her eighth to the CEC, Mamata Banerjee alleged that it had \"crossed all boundaries of decency and constitutional propriety\".",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "New York-Mumbai Air India Flight Diverted To Saudi Arabia After Fire Indication",
-    "link": "https://www.ndtv.com/india-news/new-york-mumbai-air-india-flight-diverted-to-saudi-arabia-after-fire-indication-11240355#publisher=newsstand",
-    "content": "A Mumbai-bound Air India aircraft was diverted to Medina, Saudi Arabia, on Thursday afternoon following an aft cargo fire indication in the cockpit that turned out to be false.",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "US' TikTok-Style Iran War Clips Spark Backlash For Trivialising Conflict",
-    "link": "https://www.ndtv.com/world-news/iran-war-live-us-tiktok-style-iran-war-clips-spark-backlash-for-trivialising-conflict-11240347#publisher=newsstand",
-    "content": "Across its social media platforms, the administration has pushed out high-energy clips that cut between actual explosions in Iran and footage of action heroes, gaming sequences, and even hard-hitting football moments.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Nearly Week After Probe, 1 Arrested In Tamil Nadu Minor's Murder Case",
-    "link": "https://www.ndtv.com/india-news/nearly-week-after-probe-1-arrested-in-tamil-nadu-minors-murder-case-11240019#publisher=newsstand",
-    "content": "After nearly a week of investigation with analysing CCTV and the Tower Dump method, Dharma Muneshwaran has been arrested by Tamil Nadu Police in connection with the sexual assault and murder of a 17-year-old girl in Thoothukudi.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Iran Attack On Complex Will Hit LNG Exports For 3-5 Years: QatarEnergy CEO",
-    "link": "https://www.ndtv.com/world-news/iran-attack-on-complex-will-hit-lng-exports-for-3-5-years-qatarenergy-ceo-11240322#publisher=newsstand",
-    "content": "The energy industry has for years feared a conflict in the region would cause long-term damage to oil and gas facilities and trigger shortages in global energy supplies.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "International Cyber Syndicate Busted In Srinagar, 7 Arrested",
-    "link": "https://www.ndtv.com/india-news/international-cyber-syndicate-busted-in-srinagar-7-arrested-11240213#publisher=newsstand",
-    "content": "Police said the raids were conducted after Counter Intelligence Kashmir (CIK) received information regarding the functioning of call centres engaged in fraudulent online activities targeting both foreign nationals and locals.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Supreme Court Upholds Bail Of Vadodara Student Who Crashed Car While High",
-    "link": "https://www.ndtv.com/india-news/supreme-court-upholds-bail-of-vadodara-student-who-crashed-car-while-high-11237654#publisher=newsstand",
-    "content": "The Supreme Court refused to cancel the bail granted to 2-year-old law student, who had crashed his car into passerby in Vadodara and come out of vehicle to shout \"Another round, another round\".",
     "category": "Global",
     "sub_category": "General"
 },
@@ -968,22 +992,6 @@
     "sub_category": "India"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Celebrating the top talent in various fields",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/celebrating-the-top-talent-in-various-fields/article70762329.ece",
-    "content": "Mannava Satyanarayana, who has the distinction of being the first visually impaired individual in India to achieve a Ph.D. in the field of literature, and Satyavada Sisters, both visually impaired from birth and widely acclaimed Carnatic vocal musicians and prolific writers, among the host of recipients of the Ugadi awards",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Kerala Assembly Elections 2026: SDPI releases first list of 32 candidates",
-    "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-sdpi-releases-first-list-of-32-candidates/article70762261.ece",
-    "content": "Party State general secretary K.K. Abdul Jabbar will contest from the Kalliassery constituency in Kannur",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://www.espn.com/espn/rss/news",
     "title": "Jackson Chourio, Roman Anthony among must-draft players",
     "link": "https://www.espn.com/fantasy/baseball/story/_/id/48229758/fantasy-baseball-sleeper-picks-2026-draft-mlb-cockcroft-espn",
@@ -993,217 +1001,9 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "CFB spring buzz: Bama expectations, Texas upgrades and a freshman QB making waves",
-    "link": "https://www.espn.com/college-football/story/_/id/48185193/college-football-spring-buzz-alabama-texas-freshman-qb",
-    "content": "Alabama coach Kalen DeBoer says it's more than his 20-8 record in the past two seasons there . \"we're going to do things the right way,\" he says in a sit-down interview . he is looking for his first college football playoff appearance with the Trojans .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Broncos are all-in, and Dolphins are all-out, but does either strategy make sense?",
-    "link": "https://www.espn.com/nfl/story/_/id/48231367/2026-nfl-free-agency-jaylen-waddle-broncos-dolphins-barnwell-all-rebuild-receiver",
-    "content": "the Broncos traded their first-, third- and fourth-round picks in this year's draft . they traded a wideout for Jaylen Waddle and a fourth round pick . the studs continue to indicate that they're tearing down their roster . a new regime appears to be going down that way .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Women's tournament odds: UConn odds-on favorite; UCLA, Texas, South Carolina next",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/48217020/espn-tournament-women-national-championship-odds",
-    "content": "the shortest odds for a pre-tournament favorite since 2018, was also the last time UConn was favored going into the tournament . the SEC dominates the next four spots between Texas (+700), south Carolina (+800), LSU (16-1), Vanderbilt (50-1) and Michigan (80-1) .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Big 12's top newcomers and what their coaches think",
-    "link": "https://www.espn.com/college-football/story/_/id/48231474/2026-college-football-newcomers-coaches-grade-big-12-teams",
-    "content": "the big 12 football landscape is being reshaped by 2026 newcomers . the list includes some of the most high-profile transfers in the country . this breakdown looks at why they matter and how their own coaches and GMs expect them to fit .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Power Rankings: Sixth men, rookies and unsung heroes for all 30 teams",
-    "link": "https://www.espn.com/nba/story/_/id/48233122/nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award",
-    "content": "the Lakers beat the Rockets for their sixth straight win . there's less than a month left in the 2025-26 regular season . teams are already claiming spots in the postseason as well as bowing their way out of any chance of extending their season into June .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Hyderabad Police launch H-FAST unit to curb food adulteration in city",
-    "link": "https://www.thehindu.com/news/national/telangana/hyderabad-police-launch-h-fast-unit-to-curb-food-adulteration-in-city/article70762600.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "No relief for Vellappally in Yogam case; HC orders status quo on appointment of new directors",
-    "link": "https://www.thehindu.com/news/national/kerala/no-relief-for-vellappally-in-yogam-case-hc-orders-status-quo-on-appointment-of-new-directors/article70762439.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "IUML women candidates face uphill poll battle in LDF strongholds",
-    "link": "https://www.thehindu.com/news/national/kerala/iuml-women-candidates-face-uphill-poll-battle-in-ldf-strongholds/article70762009.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Budget will be acceptable to all sections of society, says  Deputy Chief Minister",
-    "link": "https://www.thehindu.com/news/national/telangana/budget-will-be-acceptable-to-all-sections-of-society-says-deputy-chief-minister/article70762790.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Congress under fire as Dalit collective slams broken promises on tickets",
-    "link": "https://www.thehindu.com/news/national/kerala/congress-under-fire-as-dalit-collective-slams-broken-promises-on-tickets/article70762431.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Id-ul-Fitr to be celebrated in Kerala on Friday",
-    "link": "https://www.thehindu.com/news/national/kerala/id-ul-fitr-to-be-celebrated-in-kerala-on-friday/article70762629.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "SIT awaits custody of accused in Moinabad drugs case, phone data analysis to begin",
-    "link": "https://www.thehindu.com/news/national/telangana/sit-awaits-custody-of-accused-in-moinabad-drugs-case-phone-data-analysis-to-begin/article70762713.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Scholars predict political shifts amid governance concerns at BRS Ugadi celebrations",
-    "link": "https://www.thehindu.com/news/national/telangana/scholars-predict-political-shifts-amid-governance-concerns-at-brs-ugadi-celebrations/article70762831.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Engineering student found dead in hostel room at Medipally",
-    "link": "https://www.thehindu.com/news/national/telangana/student-found-dead-in-hostel-room-at-medipally/article70761836.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Kerala Governor, Chief Minister extend Id greetings to people",
-    "link": "https://www.thehindu.com/news/national/kerala/kerala-governor-chief-minister-extend-id-greetings-to-people/article70762810.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tourist falls over 100-feet while taking selfie at Needle Rock View Point in Gudalur, rescue efforts on",
-    "link": "https://www.thehindu.com/news/cities/Coimbatore/tourist-falls-over-100-feet-while-taking-selfie-at-needle-rock-view-point-in-gudalur-rescue-efforts-on/article70762747.ece",
-    "content": "e-Paper The View From India looks at world affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Cosmic explosion in space! Nasa captures comet C/2025 K1 breaking apart",
-    "link": "https://timesofindia.indiatimes.com/science/cosmic-explosion-in-space-nasas-hubble-telescope-captures-comet-c/2025-k1-breaking-apart/articleshow/129684848.cms",
-    "content": "The TOI Science Desk stands as an inquisitive team of journalists, ceaselessly delving into the realms of discovery to curate a captivating collection of news, features, and articles from the vast and ever-evolving world of science for the readers of The Times of India. Consider us your scientific companion, delivering a daily dose of wonder and enlightenment. Whether it's the intricacies of genetic engineering, the marvels of space exploration, or the latest in artificial intelligence, the TOI Science Desk ensures you stay connected to the pulse of the scientific world. At the TOI Science Desk, we are not just reporters; we are storytellers of scientific narratives. We are committed to demystifying the intricacies of science, making it accessible and engaging for readers of all backgrounds. Join us as we craft knowledge with precision and passion, bringing you on a journey where the mysteries of the universe unfold with every word. Read More",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Global Terrorism Index 2026 : Map in report shows Jammu as part of China",
-    "link": "https://timesofindia.indiatimes.com/india/global-terrorism-index-2026-map-in-report-shows-jammu-as-part-of-china/articleshow/129685312.cms",
-    "content": "Representative image The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\" Read More",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "PIO couple arrested for modern slavery on landing at Heathrow from Mumbai",
-    "link": "https://timesofindia.indiatimes.com/world/uk/pio-couple-arrested-for-modern-slavery-on-landing-at-heathrow-from-mumbai/articleshow/129687042.cms",
-    "content": "a 30-year-old man and a woman were arrested at Heathrow airport on suspicion of modern-day slavery . the flight, IndiGo 6E1, landed from Mumbai at 7.50 pm local time . police have not confirmed the nationality of the suspects .",
-    "category": "Local",
-    "sub_category": "Mumbai"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "41 million kids overweight, India among top 3 globally",
-    "link": "https://timesofindia.indiatimes.com/india/41-million-kids-overweight-india-among-top-3-globally/articleshow/129687275.cms",
-    "content": "Representative image Anuja Jaiswal is a Senior Assistant Editor at The Times of India, with an impressive 18-year career in narrative journalism. She specializes in health and heritage reporting, expertly simplifying complex health information to make it engaging and understandable for readers. Her deep dives into heritage topics are well-researched, resulting in captivating narratives that resonate with her audience. Over the years, she has worked in Chandigarh, Chhattisgarh and West UP, gaining diverse on-ground experience that shapes her storytelling. Read More",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Govt secures extra LNG via spot buying to make fertilisers",
-    "link": "https://timesofindia.indiatimes.com/business/india-business/govt-secures-extra-lng-via-spot-buying-to-make-fertilisers/articleshow/129687241.cms",
-    "content": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "‘Who knows better…’: Trump ‘jokes’ about Pearl Harbor attack in meeting with Japan PM",
-    "link": "https://timesofindia.indiatimes.com/world/us/who-knows-better-about-surprise-trump-jokes-about-1941-pearl-harbor-attack-in-meeting-with-japan-pm/articleshow/129685779.cms",
-    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "'Not putting troops': Trump on deploying soldiers in Iran",
-    "link": "https://timesofindia.indiatimes.com/world/us/not-putting-troops-trump-on-deploying-soldiers-in-iran-warns-netanyahu-not-to-attack-tehran-gas-fields/articleshow/129683407.cms",
-    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "From 'freedom' to 'fury': 23 years on, how US is caught in costly war loop in Middle East",
-    "link": "https://timesofindia.indiatimes.com/defence/international/us-iran-israel-war-iraq-2003-invasion-operation-epic-fury-how-us-is-caught-in-costly-war-loop-in-middle-east/articleshow/129679458.cms",
-    "content": "A digital news desk journalist at The Times of India with over two years of experience. Closely tracks foreign affairs and international politics. Fondness for precise language and clever headlines. When not editing news, he is usually refining a turn of phrase. Read More Russia USA USA Russia France India N. Korea Russia China India India India India India India India India India India Israel Israel Israel Israel Israel Israel Israel Israel Israel Israel Israel USA USA USA USA USA USA USA USA Iran Iran Iran Iran Iran Iran Iran Iran Iran Iran Iran Iran Russia",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Veteran diplomat Doraiswami to be next ambassador to China",
-    "link": "https://timesofindia.indiatimes.com/india/veteran-diplomat-doraiswami-to-be-next-ambassador-to-china/articleshow/129687326.cms",
-    "content": "Vikram Doraiswami is an IFS officer of 1992 batch . he is expected to take up his new assignment shortly . his appointment comes in the middle of a growing rapprochement between India and China .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Govt classifies energy data as national security matter",
-    "link": "https://timesofindia.indiatimes.com/india/govt-classifies-energy-data-as-national-security-matter/articleshow/129687200.cms",
-    "content": "the govt has asked all entities across the oil and gas value chain to provide detailed operational information to the ministry's Petroleum Planning and Analysis Cell (PPAC) the data includes production, imports, stock levels and consumption patterns, with the order overriding existing confidentiality provisions .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Trikaripur not a Left bastion, says Sandeep Varier",
-    "link": "https://www.thehindu.com/news/national/kerala/trikaripur-not-a-left-bastion-says-sandeep-varier/article70761977.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "title": "Men's March Madness live tracker: Updates from Thursday's first round",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/48248690/march-madness-live-tracker-updates-ncaa-tournament-first-round-thursday-2026",
+    "content": "more than 130 days have passed since the 2025-26 men's college basketball season tipped off . the first round of the 2026 tournament has finally arrived and ESPN reporters are on-site to give you a real-time look at the Madness .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1224,6 +1024,214 @@
     "sub_category": "General"
 },
 {
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Women's tournament odds: UConn odds-on favorite; UCLA, Texas, South Carolina next",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/48217020/espn-tournament-women-national-championship-odds",
+    "content": "the shortest odds for a pre-tournament favorite since 2018, was also the last time UConn was favored going into the tournament . the SEC dominates the next four spots between Texas (+700), south Carolina (+800), LSU (16-1), Vanderbilt (50-1) and Michigan (80-1) .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "CFB spring buzz: Bama expectations, Texas upgrades and a freshman QB making waves",
+    "link": "https://www.espn.com/college-football/story/_/id/48185193/college-football-spring-buzz-alabama-texas-freshman-qb",
+    "content": "Alabama coach Kalen DeBoer says it's more than his 20-8 record in the past two seasons there . \"we're going to do things the right way,\" he says in a sit-down interview . he is looking for his first college football playoff appearance with the Trojans .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Power Rankings: Sixth men, rookies and unsung heroes for all 30 teams",
+    "link": "https://www.espn.com/nba/story/_/id/48233122/nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award",
+    "content": "the Lakers beat the Rockets for their sixth straight win . there's less than a month left in the 2025-26 regular season . teams are already claiming spots in the postseason as well as bowing their way out of any chance of extending their season into June .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Big 12's top newcomers and what their coaches think",
+    "link": "https://www.espn.com/college-football/story/_/id/48231474/2026-college-football-newcomers-coaches-grade-big-12-teams",
+    "content": "the big 12 football landscape is being reshaped by 2026 newcomers . the list includes some of the most high-profile transfers in the country . this breakdown looks at why they matter and how their own coaches and GMs expect them to fit .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Broncos are all-in, and Dolphins are all-out, but does either strategy make sense?",
+    "link": "https://www.espn.com/nfl/story/_/id/48231367/2026-nfl-free-agency-jaylen-waddle-broncos-dolphins-barnwell-all-rebuild-receiver",
+    "content": "the Broncos traded their first-, third- and fourth-round picks in this year's draft . they traded a wideout for Jaylen Waddle and a fourth round pick . the studs continue to indicate that they're tearing down their roster . a new regime appears to be going down that way .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "From 'freedom' to 'fury': 23 years on, how US is caught in costly war loop in Middle East",
+    "link": "https://timesofindia.indiatimes.com/defence/international/us-iran-israel-war-iraq-2003-invasion-operation-epic-fury-how-us-is-caught-in-costly-war-loop-in-middle-east/articleshow/129679458.cms",
+    "content": "A digital news desk journalist at The Times of India with over two years of experience. Closely tracks foreign affairs and international politics. Fondness for precise language and clever headlines. When not editing news, he is usually refining a turn of phrase. Read More Russia USA USA Russia France India N. Korea Russia China India India India India India India India India India India Israel Israel Israel Israel Israel Israel Israel Israel Israel Israel Israel USA USA USA USA USA USA USA USA Iran Iran Iran Iran Iran Iran Iran Iran Iran Iran Iran Iran Russia",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "‘Who knows better…’: Trump ‘jokes’ about Pearl Harbor attack in meeting with Japan PM",
+    "link": "https://timesofindia.indiatimes.com/world/us/who-knows-better-about-surprise-trump-jokes-about-1941-pearl-harbor-attack-in-meeting-with-japan-pm/articleshow/129685779.cms",
+    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Make your picks now",
+    "link": "https://fantasy.espn.com/games/tournament-challenge-bracket-women-2026/?addata=tcwomens2026_ncaaw_web_CreateabracketP1Hero",
+    "content": "Create up to 25 women's brackets to be eligible for special prizes! FREE to play.  Welcome back to the #1 Women's Bracket game! The tourney tips off Friday, 3/20 @ 11:30a ET - don't get locked out, create your brackets today! Be sure to create a group and invite your friends to share in the madness. Game Locking Max Entries Event Dates Total Prizes Copyright: © 2026 ESPN Enterprises, LLC. All rights reserved.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "'Not putting troops': Trump on deploying soldiers in Iran",
+    "link": "https://timesofindia.indiatimes.com/world/us/not-putting-troops-trump-on-deploying-soldiers-in-iran-warns-netanyahu-not-to-attack-tehran-gas-fields/articleshow/129683407.cms",
+    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Cosmic explosion in space! Nasa captures comet C/2025 K1 breaking apart",
+    "link": "https://timesofindia.indiatimes.com/science/cosmic-explosion-in-space-nasas-hubble-telescope-captures-comet-c/2025-k1-breaking-apart/articleshow/129684848.cms",
+    "content": "The TOI Science Desk stands as an inquisitive team of journalists, ceaselessly delving into the realms of discovery to curate a captivating collection of news, features, and articles from the vast and ever-evolving world of science for the readers of The Times of India. Consider us your scientific companion, delivering a daily dose of wonder and enlightenment. Whether it's the intricacies of genetic engineering, the marvels of space exploration, or the latest in artificial intelligence, the TOI Science Desk ensures you stay connected to the pulse of the scientific world. At the TOI Science Desk, we are not just reporters; we are storytellers of scientific narratives. We are committed to demystifying the intricacies of science, making it accessible and engaging for readers of all backgrounds. Join us as we craft knowledge with precision and passion, bringing you on a journey where the mysteries of the universe unfold with every word. Read More",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "IUML women candidates face uphill poll battle in LDF strongholds",
+    "link": "https://www.thehindu.com/news/national/kerala/iuml-women-candidates-face-uphill-poll-battle-in-ldf-strongholds/article70762009.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "41 million kids overweight, India among top 3 globally",
+    "link": "https://timesofindia.indiatimes.com/india/41-million-kids-overweight-india-among-top-3-globally/articleshow/129687275.cms",
+    "content": "Representative image Anuja Jaiswal is a Senior Assistant Editor at The Times of India, with an impressive 18-year career in narrative journalism. She specializes in health and heritage reporting, expertly simplifying complex health information to make it engaging and understandable for readers. Her deep dives into heritage topics are well-researched, resulting in captivating narratives that resonate with her audience. Over the years, she has worked in Chandigarh, Chhattisgarh and West UP, gaining diverse on-ground experience that shapes her storytelling. Read More",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "SIT awaits custody of accused in Moinabad drugs case, phone data analysis to begin",
+    "link": "https://www.thehindu.com/news/national/telangana/sit-awaits-custody-of-accused-in-moinabad-drugs-case-phone-data-analysis-to-begin/article70762713.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Govt secures extra LNG via spot buying to make fertilisers",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/govt-secures-extra-lng-via-spot-buying-to-make-fertilisers/articleshow/129687241.cms",
+    "content": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Budget will be acceptable to all sections of society, says  Deputy Chief Minister",
+    "link": "https://www.thehindu.com/news/national/telangana/budget-will-be-acceptable-to-all-sections-of-society-says-deputy-chief-minister/article70762790.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Engineering student found dead in hostel room at Medipally",
+    "link": "https://www.thehindu.com/news/national/telangana/student-found-dead-in-hostel-room-at-medipally/article70761836.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Tourist falls over 100-feet while taking selfie at Needle Rock View Point in Gudalur, rescue efforts on",
+    "link": "https://www.thehindu.com/news/cities/Coimbatore/tourist-falls-over-100-feet-while-taking-selfie-at-needle-rock-view-point-in-gudalur-rescue-efforts-on/article70762747.ece",
+    "content": "e-Paper The View From India looks at world affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Scholars predict political shifts amid governance concerns at BRS Ugadi celebrations",
+    "link": "https://www.thehindu.com/news/national/telangana/scholars-predict-political-shifts-amid-governance-concerns-at-brs-ugadi-celebrations/article70762831.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "PIO couple arrested for modern slavery on landing at Heathrow from Mumbai",
+    "link": "https://timesofindia.indiatimes.com/world/uk/pio-couple-arrested-for-modern-slavery-on-landing-at-heathrow-from-mumbai/articleshow/129687042.cms",
+    "content": "a 30-year-old man and a woman were arrested at Heathrow airport on suspicion of modern-day slavery . the flight, IndiGo 6E1, landed at 7.50 pm local time . police have not confirmed the nationality of the suspects .",
+    "category": "Local",
+    "sub_category": "Mumbai"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Global Terrorism Index 2026 : Map in report shows Jammu as part of China",
+    "link": "https://timesofindia.indiatimes.com/india/global-terrorism-index-2026-map-in-report-shows-jammu-as-part-of-china/articleshow/129685312.cms",
+    "content": "Representative image The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\" Read More",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Ornamental fisheries sector holds untapped potential, say experts",
+    "link": "https://www.thehindu.com/news/national/kerala/ornamental-fisheries-sector-holds-untapped-potential-say-experts/article70762557.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Goa CM undergoes angioplasty procedure in Pune hospital; is recovering well, says doctor",
+    "link": "https://www.thehindu.com/news/national/goa/goa-cm-undergoes-angioplasty-procedure-in-pune-hospital-is-recovering-well-says-doctor/article70763115.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Trikaripur not a Left bastion, says Sandeep Varier",
+    "link": "https://www.thehindu.com/news/national/kerala/trikaripur-not-a-left-bastion-says-sandeep-varier/article70761977.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Kerala Governor, Chief Minister extend Id greetings to people",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-governor-chief-minister-extend-id-greetings-to-people/article70762810.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Tollywood stars light up Telangana Gaddar Film Awards 2025",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/tollywood-stars-light-up-telangana-gaddar-film-awards-2025/article70762999.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Hyderabad poised to become global film hub, says Revanth Reddy at TGFA 2025",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-poised-to-become-global-film-hub-says-revanth-reddy-at-tgfa-2025/article70763125.ece",
+    "content": "Content extraction failed.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "High drama in Kannur as protests staged for Sudhakaran’s candidature",
     "link": "https://www.thehindu.com/news/national/kerala/high-drama-in-kannur-as-protests-staged-for-sudhakarans-candidature/article70762451.ece",
@@ -1233,8 +1241,16 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Ornamental fisheries sector holds untapped potential, say experts",
-    "link": "https://www.thehindu.com/news/national/kerala/ornamental-fisheries-sector-holds-untapped-potential-say-experts/article70762557.ece",
+    "title": "Collective of Tamil Creators, Readers, and Social Activists demands withdrawal of Jnanpith Award to Vairamuthu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/collective-of-tamil-creators-readers-and-social-activists-demands-withdrawal-of-jnanpith-award-to-vairamuthu/article70761875.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Outdoor Stadium in Kurnool to be developed with more infrastructure",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/outdoor-stadium-in-kurnool-to-be-developed-with-more-infrastructure/article70762586.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1249,33 +1265,9 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Hyderabad poised to become global film hub, says Revanth Reddy at TGFA 2025",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-poised-to-become-global-film-hub-says-revanth-reddy-at-tgfa-2025/article70763125.ece",
-    "content": "Content extraction failed.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Tollywood stars light up Telangana Gaddar Film Awards 2025",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/tollywood-stars-light-up-telangana-gaddar-film-awards-2025/article70762999.ece",
+    "title": "Horticulture farm at Chengalpattu begins production of herbal tea",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/horticulture-farm-at-chengalpattu-begins-production-of-herbal-tea/article70762646.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Follow live: No. 1 overall seed Duke",
-    "link": "https://www.espn.com/mens-college-basketball/game?gameId=401856478",
-    "content": "CBS According to ESPN Analytics 41%  ( 23-56 )    Field Goal % 42%  ( 23-55 )  41%  ( 9-22 )    Three Point % 20%  ( 5-25 )  100%  ( 6-6 )    Free Throw % 88%  ( 14-16 )  6   Turnovers 6 28   Rebounds 35 78%   Percent Led 14% 13   Largest Lead 4 Greenville ,  SC   Referee : Mark Schnur Referee : Brian Dorsey Referee : Ed Corliss Foul on Maliq Brown. Cameron Boozer makes free throw 2 of 2 Cameron Boozer makes free throw 1 of 2 Foul on Francis Folefac. Official TV Timeout Cameron Boozer Defensive Rebound. 12m 3m 16m",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Make your picks now",
-    "link": "https://fantasy.espn.com/games/tournament-challenge-bracket-women-2026/?addata=tcwomens2026_ncaaw_web_CreateabracketP1Hero",
-    "content": "Create up to 25 women's brackets to be eligible for special prizes! FREE to play.  Welcome back to the #1 Women's Bracket game! The tourney tips off Friday, 3/20 @ 11:30a ET - don't get locked out, create your brackets today! Be sure to create a group and invite your friends to share in the madness. Game Locking Max Entries Event Dates Total Prizes Copyright: © 2026 ESPN Enterprises, LLC. All rights reserved.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1296,18 +1288,26 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Horticulture farm at Chengalpattu begins production of herbal tea",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/horticulture-farm-at-chengalpattu-begins-production-of-herbal-tea/article70762646.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Govt classifies energy data as national security matter",
+    "link": "https://timesofindia.indiatimes.com/india/govt-classifies-energy-data-as-national-security-matter/articleshow/129687200.cms",
+    "content": "the govt has asked all entities across the oil and gas value chain to provide detailed operational information to the ministry's Petroleum Planning and Analysis Cell (PPAC) the move signals the vulnerability of the sector, turning it into a strategic asset and highlighting the importance of energy in the overall economy . the order override existing confidentiality provisions .",
     "category": "Global",
     "sub_category": "General"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Outdoor Stadium in Kurnool to be developed with more infrastructure",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/outdoor-stadium-in-kurnool-to-be-developed-with-more-infrastructure/article70762586.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "31 Rajya Sabha MPs billionaires, 73 face criminal cases: ADR analysis",
+    "link": "https://timesofindia.indiatimes.com/india/31-rajya-sabha-mps-billionaires-73-face-criminal-cases-adr-analysis/articleshow/129687472.cms",
+    "content": "analysis of affidavits of 229 out of 233 Rajya Sabha MPs shows that 73 (32%) MPs have declared criminal cases against themselves and 31 (14%) are billionaires . one MP has declared a case of murder, four have attempts to murder, and three have crimes against women .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Veteran diplomat Doraiswami to be next ambassador to China",
+    "link": "https://timesofindia.indiatimes.com/india/veteran-diplomat-doraiswami-to-be-next-ambassador-to-china/articleshow/129687326.cms",
+    "content": "Vikram Doraiswami is an IFS officer of 1992 batch . he is expected to take up his new assignment shortly . his appointment comes in the middle of a growing rapprochement between India and China .",
     "category": "Global",
     "sub_category": "General"
 }
