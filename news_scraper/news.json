@@ -256,18 +256,18 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Lamborghini stunt in Bengaluru: Police serve notice to Muthappa Rai’s son Ricky Rai",
-    "link": "https://www.thehindu.com/news/cities/bangalore/lamborghini-stunt-in-bengaluru-police-serve-notice-to-muthappa-rais-son-ricky-rai/article70771901.ece",
-    "content": "Police said the high-end car was traced to Ricky Rai’s residence in Sadashivanagar and has been seized. However, there is no clarity on who owns the vehicle or whether it was being driven by Mr. Rai.",
-    "category": "Local",
-    "sub_category": "Bengaluru"
-},
-{
     "source": "https://www.espn.com/espn/rss/news",
     "title": "Painter picks up win No. 500 as Purdue advances",
     "link": "https://www.espn.com/mens-college-basketball/story/_/id/48280202/matt-painter-wins-500th-purdue-boilermakers-advance",
     "content": "Matt Painter won his 500th game at his alma mater as Purdue beat Miami 79-69 to head back to the Sweet 16.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Ovechkin scores 1,000th career goal in Caps' loss",
+    "link": "https://www.espn.com/nhl/story/_/id/48280591/ovechkin-joins-gretzky-only-players-score-1000-goals",
+    "content": "Alex Ovechkin scored his 1,000th career NHL goal combining the regular season and playoffs, but the league-leading Avalanche beat the Capitals 3-2 in overtime on Sunday.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -329,6 +329,14 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
+    "title": "NHL playoff watch: How will the Metro Division play out?",
+    "link": "https://www.espn.com/nhl/story/_/id/48273764/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
+    "content": "The top four teams are in action Sunday. Plus, updated playoff projections, draft lottery standings after a big Saturday.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
     "title": "No plan, no fight: Spurs hurtling toward relegation after limp loss to Forest",
     "link": "https://www.espn.com/soccer/story/_/id/48277256/tottenham-heading-relegation-huge-loss-forest",
     "content": "The thousand-yard stare has become the only thing you can guarantee at the Tottenham Hotspur Stadium, and it is staring into the abyss of relegation.",
@@ -340,14 +348,6 @@
     "title": "Man City Carabao Cup win hints Premier League title race not over",
     "link": "https://www.espn.com/soccer/story/_/id/48279854/man-city-beat-passive-arsenal-carabao-cup-premier-league-title-race-not-over",
     "content": "Arsenal hoped to win the first of four trophies. Instead, Man City show why they cannot be overlooked.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "NHL playoff watch: How will the Metro Division play out?",
-    "link": "https://www.espn.com/nhl/story/_/id/48273764/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
-    "content": "The top four teams are in action Sunday. Plus, updated playoff projections, draft lottery standings after a big Saturday.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -369,25 +369,25 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Men's tournament: Lines, totals and BPI projections for Sunday's games",
-    "link": "https://www.espn.com/espn/betting/story/_/id/48217692/espn-2026-tournament-men-bracket-game-odds",
-    "content": "Money lines, spreads, totals and BPI predictions for Sunday's men's college basketball tournament games",
+    "title": "Men's tournament odds: Michigan leapfrogs Arizona as title favorite, Purdue improves",
+    "link": "https://www.espn.com/espn/betting/story/_/id/48216458/espn-college-basketball-tournament-men-national-championship-odds",
+    "content": "Teams' odds to advance and win the men's college basketball tournament entering second day of second round.",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Women's tournament: Lines, totals and BPI for second-round games",
-    "link": "https://www.espn.com/espn/betting/story/_/id/48219770/espn-2026-tournament-women-bracket-game-odds",
-    "content": "Money lines, spreads, totals and BPI for second-round games in the women's college basketball tournament.",
+    "title": "Women's tournament: UConn remains favorite as UCLA's odds improve",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/48217020/espn-tournament-women-national-championship-odds",
+    "content": "Odds for each team to advance through the bracket and to win the 2026 women's college basketball championship.",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Olney: The seven things I took away from MLB spring training",
-    "link": "https://www.espn.com/mlb/story/_/id/48251150/mlb-2026-spring-training-takeaways-lessons-mcgonigle-mclain-skubal-lombard",
-    "content": "What did you miss at major league camps this spring while watching the World Baseball Classic? Here's what stood out to us from Florida and Arizona.",
+    "title": "NCAA tournament: Matchups, capsules for every team",
+    "link": "https://www.espn.com/college-sports/story/_/id/48251748/2026-ncaa-men-hockey-tournament-frozen-four-schedule-results",
+    "content": "The road to the Frozen Four is set. Here's a look at the complete schedule, plus key information on all 16 teams.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -412,158 +412,6 @@
     "title": "Transfer rumors, news: Arsenal step up pursuit of Roma star to replace Ben White",
     "link": "https://www.espn.com/soccer/story/_/id/48276985/transfer-rumors-news-arsenal-step-pursuit-roma-star-replace-ben-white",
     "content": "Arsenal are on a quest to replace Ben White and have landed on an in-form option from AS Roma. Transfer Talk has the latest.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "US-Israel-Iran War Updates: Iran Military Threatens To Completely Close Strait Of Hormuz",
-    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand",
-    "content": "US President Donald Trump threatened to \"obliterate\" Iran's power plants if Tehran does not reopen the Strait of Hormuz for shipping traffic.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "72-Year-Old Woman Killed In Fire At High-Rise In Mumbai's Goregaon: Cops",
-    "link": "https://www.ndtv.com/india-news/72-year-old-woman-killed-in-fire-at-high-rise-in-mumbais-goregaon-cops-11251861#publisher=newsstand",
-    "content": "A 72-year-old woman died after a fire broke out in a 24-storey residential building in Mumbai's Goregaon East area on Sunday evening, officials said.",
-    "category": "Local",
-    "sub_category": "Mumbai"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Assam BJP Leader Nandita Garlosa Joins Congress After Not Getting Ticket",
-    "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-assam-bjp-leader-nandita-garlosa-joins-congress-after-not-getting-ticket-11251856#publisher=newsstand",
-    "content": "Former minister in the Assam government, Nandita Garlosa, has joined the Congress ahead of the assembly election",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "RSS Backs Right To Faith, Rejects Religious Discrimination",
-    "link": "https://www.ndtv.com/india-news/rss-backs-right-to-faith-rejects-religious-discrimination-11251822#publisher=newsstand",
-    "content": "As part of the centenary year celebrations of the RSS, the organisation's Meghalaya unit organised a Prominent Citizens' Meet in Shillong to facilitate dialogue and exchange of ideas among distinguished members of the society.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Mamata Banerjee Holds Election Strategy Meeting With Trinamool Workers",
-    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-2026-mamata-banerjee-holds-election-strategy-meeting-with-trinamool-congress-workers-11251815#publisher=newsstand",
-    "content": "Abhishek Banerjee said there is a need for repeated voter outreach and asked local leaders not to rely on instructions from above, but to engage directly with constituents",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Citizens Must Be Safeguarded From Iran War Effect: PM Modi At Key Meet",
-    "link": "https://www.ndtv.com/india-news/citizens-must-be-safeguarded-from-iran-war-effect-pm-modi-at-key-meet-11251798#publisher=newsstand",
-    "content": "Defence Minister Rajnath Singh, Home Minister Amit Shah, Finance Minister Nirmala Sitharaman and External Affairs Minister S Jaishankar are members of the CCS, which is headed by PM Modi.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Air Force Staffer Arrested For Spying For Pak Handlers In Assam",
-    "link": "https://www.ndtv.com/india-news/air-force-staffer-arrested-for-spying-for-pak-handlers-in-assam-11251682#publisher=newsstand",
-    "content": "A civilian employee posted at an Indian Air Force station in Assam has been arrested for allegedly spying and sharing sensitive information with Pakistani handlers, Rajasthan Intelligence said on Sunday.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "US, Iran Trade Threats To \"Destroy\" Middle East Infrastructure",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-us-iran-trade-threats-to-destroy-middle-east-infrastructure-11251672#publisher=newsstand",
-    "content": "The tit-for-tat threats came as the war entered its fourth week and continued to reverberate across the Middle East, with alarm mounting over strikes around nuclear sites.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Old, Ugly 'Flying Tank' US Wanted To Scrap Shines In Hormuz Missions",
-    "link": "https://www.ndtv.com/world-news/a-10-thunderbolt-warthog-old-ugly-flying-tank-us-wanted-to-scrap-shines-in-strait-of-hormuz-missions-near-iran-11251553#publisher=newsstand",
-    "content": "The A-10 'Warthog' earned its reputation not in the air, but close to the ground, in the chaos of close air support (CAS) where troops in contact with the enemy needed urgent help",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "'We Have Plenty Of Money To Fund Iran War': US Treasury Chief",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-we-have-plenty-of-money-to-fund-iran-war-us-treasury-chief-11251583#publisher=newsstand",
-    "content": "The US military's request for $200 billion in additional funding for the Iran war faces stiff opposition in Congress, with Democrats and even some Republicans questioning the need after large defense appropriations last year.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Tutor Kills Girl, 14, After Family Objects To His Advances In Odisha: Cops",
-    "link": "https://www.ndtv.com/india-news/tutor-kills-girl-14-after-family-objects-to-his-advances-in-odisha-cops-11251552#publisher=newsstand",
-    "content": "A private tutor was arrested in Odisha's Mayurbhanj district for allegedly killing his 14-year-old student, whose family warned him after getting to know about his advances, police said on Sunday.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Iran Says Will Completely Close Strait Of Hormuz If US Targets Power Plants",
-    "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-says-will-completely-close-strait-of-hormuz-if-us-targets-power-plants-11251446#publisher=newsstand",
-    "content": "The military said it would also strike Israel's \"power plants, energy, and information and communications technology (ICT) infrastructure\".",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "CIA Ex Chief Who Hunted Bin Laden Has A Hormuz Advice For Trump",
-    "link": "https://www.ndtv.com/world-news/us-iran-war-cia-ex-chief-leon-panetta-who-hunted-bin-laden-has-a-hormuz-advice-for-donald-trump-11251233#publisher=newsstand",
-    "content": "Leon Panetta, who ran the Central Intelligence Agency (CIA) and the Pentagon under former president Barack Obama, has singled out US President Donald Trump as the only man responsible for the current situation",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "CIA, Mossad Track Every Signal For Signs Of Iran's \"Unseen\" Supreme Leader",
-    "link": "https://www.ndtv.com/world-news/israel-iran-war-cia-mossad-eyes-fixed-on-iran-spy-agencies-hunt-for-irans-unseen-leader-11251094#publisher=newsstand",
-    "content": "Intelligence agencies around the world, including the CIA and the Mossad, waited on Friday to see if Mojtaba would follow his father's tradition and give a New Year's address.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Sasikala-Ramadoss Alliance May Incur Heavy Cost On NDA In Tamil Nadu Polls",
-    "link": "https://www.ndtv.com/india-news/sasikala-ramadoss-alliance-may-incur-heavy-cost-on-nda-in-tamil-nadu-polls-11251197#publisher=newsstand",
-    "content": "The alliance is positioning itself as a force meant to split votes and inflict damage on the AIADMK-led NDA",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "Lashkar Terrorist Bilal Arif Sarafi Stabbed, Shot Dead By Family In Pakistan",
-    "link": "https://www.ndtv.com/world-news/lashkar-terrorist-bilal-arif-sarafi-stabbed-shot-dead-by-family-in-pakistan-let-commander-muridke-11249879#publisher=newsstand",
-    "content": "The exact reason behind the murder is not known yet, but intelligence sources suspect a family dispute.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "15 Deer Killed By Stray Dogs At Chhattisgarh Animal Rescue Centre",
-    "link": "https://www.ndtv.com/india-news/15-deer-killed-by-stray-dogs-at-chhattisgarh-animal-rescue-centre-11250977#publisher=newsstand",
-    "content": "As many as 15 deer were killed after a pack of stray dogs attacked them inside an enclosure at an animal rescue centre in Chhattisgarh's Surguja district, officials said on Sunday.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "80-Year-Old Woman Trampled To Death By Elephant In UP",
-    "link": "https://www.ndtv.com/india-news/80-year-old-woman-trampled-to-death-by-elephant-in-up-11250970#publisher=newsstand",
-    "content": "An 80-year-old woman was trampled to death by a tusker near the Katarniaghat Wildlife Sanctuary in Uttar Pradesh's Bahraich district on Sunday, marking the third such fatality in the region since last month, officials said.",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "title": "PM Modi's Big Meet With Senior Ministers Over Fuel Amid Middle East Conflict",
-    "link": "https://www.ndtv.com/india-news/iran-israel-war-pm-modi-takes-stock-of-fuel-power-fertiliser-supply-amid-middle-east-conflict-11250951#publisher=newsstand",
-    "content": "Prime Minister Narendra Modi on Sunday reviewed with senior ministers the situation related to crude, gas and other petroleum products, and power and fertiliser sectors in view of the evolving West Asia situation.",
     "category": "Global",
     "sub_category": "General"
 },
@@ -857,14 +705,6 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Davangere, Bagalkot are our strong citadels, claims Minister",
-    "link": "https://www.thehindu.com/news/national/karnataka/davangere-bagalkot-are-our-strong-citadels-claims-minister/article70772562.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Cyber fraudsters dupe Polavaram MLA, siphon off ₹12 lakh",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyber-fraudsters-dupe-polavaram-mla-siphon-off-12-lakh/article70773156.ece",
     "content": "first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . e-Paper updated - March 22, 2026 10:12 pm IST - VIJAYAWADA .",
@@ -873,16 +713,8 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Four held for illegal sale of banned injections in Malakpet",
-    "link": "https://www.thehindu.com/news/national/telangana/four-held-for-illegal-sale-of-banned-injections-in-malakpet/article70772586.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "MCC halts work on controversial tonga ticket counter near Mysuru Town Hall after public outcry",
-    "link": "https://www.thehindu.com/news/national/karnataka/mcc-halts-work-on-controversial-tonga-ticket-counter-near-mysuru-town-hall-after-public-outcry/article70772637.ece",
+    "title": "Sri Lankan national held, says he was duped by travel agent",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/sri-lankan-national-held-says-he-was-duped-by-travel-agent/article70773047.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -897,9 +729,9 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Martyrs’ Day meet warns of drug rise in State",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/martyrs-day-meet-warns-of-drug-rise-in-state/article70772619.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
+    "title": "MCC halts work on controversial tonga ticket counter near Mysuru Town Hall after public outcry",
+    "link": "https://www.thehindu.com/news/national/karnataka/mcc-halts-work-on-controversial-tonga-ticket-counter-near-mysuru-town-hall-after-public-outcry/article70772637.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
@@ -908,6 +740,46 @@
     "title": "Vijay announces TVK candidates for all 30 Assembly segments in Puducherry",
     "link": "https://www.thehindu.com/elections/puducherry-assembly/vijay-announces-tvk-candidates-for-all-30-assembly-segments-in-puducherry/article70773250.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "One killed after being run over by train while crossing tracks in Secunderabad",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/one-killed-after-being-run-over-by-train-while-crossing-tracks-in-secunderabad/article70772259.ece",
+    "content": "first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . one person was killed after being run over by a train while allegedly crossing the railway tracks .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Over 20 tonnes of waste cleared as Cyberabad Municipal Corporation takes up lake cleanup drive",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/over-20-tonnes-of-waste-cleared-as-cyberabad-municipal-corporation-takes-up-lake-cleanup-drive/article70772496.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "‘Allegation of attempt to confine voters in Karur malicious’",
+    "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/allegation-of-attempt-to-confine-voters-in-karur-malicious/article70772458.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Governor attends Bihar Foundation Day celebrations at Lok Bhavan",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/governor-attends-bihar-foundation-day-celebrations-at-lok-bhavan/article70773251.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Ranking the remaining 32 teams in women's March Madness",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/48269801/womens-march-madness-2026-ranking-ncaa-tournament-teams-round-32",
+    "content": "only three lower-seeded teams won games in the first two days of the tournament . the Cavaliers are just the second team since the field expanded to 68 teams in 2022 to go from the first four to the second round . south Carolina 's 69-point trouncing was the most statistically impressive victory among the top seeds .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -929,30 +801,6 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Sri Lankan national held, says he was duped by travel agent",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/sri-lankan-national-held-says-he-was-duped-by-travel-agent/article70773047.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Over 20 tonnes of waste cleared as Cyberabad Municipal Corporation takes up lake cleanup drive",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/over-20-tonnes-of-waste-cleared-as-cyberabad-municipal-corporation-takes-up-lake-cleanup-drive/article70772496.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Governor attends Bihar Foundation Day celebrations at Lok Bhavan",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/governor-attends-bihar-foundation-day-celebrations-at-lok-bhavan/article70773251.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
     "title": "Walkathon held to promote health, community engagement in Tirupati",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/walkathon-held-to-promote-health-community-engagement-in-tirupati/article70772765.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
@@ -960,42 +808,170 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "One killed after being run over by train while crossing tracks in Secunderabad",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/one-killed-after-being-run-over-by-train-while-crossing-tracks-in-secunderabad/article70772259.ece",
-    "content": "first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . one person was killed after being run over by a train while allegedly crossing the railway tracks .",
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "US-Israel-Iran War Updates: Iran Military Threatens To Completely Close Strait Of Hormuz",
+    "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand",
+    "content": "US President Donald Trump threatened to \"obliterate\" Iran's power plants if Tehran does not reopen the Strait of Hormuz for shipping traffic.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "72-Year-Old Woman Killed In Fire At High-Rise In Mumbai's Goregaon: Cops",
+    "link": "https://www.ndtv.com/india-news/72-year-old-woman-killed-in-fire-at-high-rise-in-mumbais-goregaon-cops-11251861#publisher=newsstand",
+    "content": "A 72-year-old woman died after a fire broke out in a 24-storey residential building in Mumbai's Goregaon East area on Sunday evening, officials said.",
+    "category": "Local",
+    "sub_category": "Mumbai"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Assam BJP Leader Nandita Garlosa Joins Congress After Not Getting Ticket",
+    "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-assam-bjp-leader-nandita-garlosa-joins-congress-after-not-getting-ticket-11251856#publisher=newsstand",
+    "content": "Former minister in the Assam government, Nandita Garlosa, has joined the Congress ahead of the assembly election",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "RSS Backs Right To Faith, Rejects Religious Discrimination",
+    "link": "https://www.ndtv.com/india-news/rss-backs-right-to-faith-rejects-religious-discrimination-11251822#publisher=newsstand",
+    "content": "As part of the centenary year celebrations of the RSS, the organisation's Meghalaya unit organised a Prominent Citizens' Meet in Shillong to facilitate dialogue and exchange of ideas among distinguished members of the society.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Mamata Banerjee Holds Election Strategy Meeting With Trinamool Workers",
+    "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-2026-mamata-banerjee-holds-election-strategy-meeting-with-trinamool-congress-workers-11251815#publisher=newsstand",
+    "content": "Abhishek Banerjee said there is a need for repeated voter outreach and asked local leaders not to rely on instructions from above, but to engage directly with constituents",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Citizens Must Be Safeguarded From Iran War Effect: PM Modi At Key Meet",
+    "link": "https://www.ndtv.com/india-news/citizens-must-be-safeguarded-from-iran-war-effect-pm-modi-at-key-meet-11251798#publisher=newsstand",
+    "content": "Defence Minister Rajnath Singh, Home Minister Amit Shah, Finance Minister Nirmala Sitharaman and External Affairs Minister S Jaishankar are members of the CCS, which is headed by PM Modi.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Air Force Staffer Arrested For Spying For Pak Handlers In Assam",
+    "link": "https://www.ndtv.com/india-news/air-force-staffer-arrested-for-spying-for-pak-handlers-in-assam-11251682#publisher=newsstand",
+    "content": "A civilian employee posted at an Indian Air Force station in Assam has been arrested for allegedly spying and sharing sensitive information with Pakistani handlers, Rajasthan Intelligence said on Sunday.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "US, Iran Trade Threats To \"Destroy\" Middle East Infrastructure",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-us-iran-trade-threats-to-destroy-middle-east-infrastructure-11251672#publisher=newsstand",
+    "content": "The tit-for-tat threats came as the war entered its fourth week and continued to reverberate across the Middle East, with alarm mounting over strikes around nuclear sites.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Old, Ugly 'Flying Tank' US Wanted To Scrap Shines In Hormuz Missions",
+    "link": "https://www.ndtv.com/world-news/a-10-thunderbolt-warthog-old-ugly-flying-tank-us-wanted-to-scrap-shines-in-strait-of-hormuz-missions-near-iran-11251553#publisher=newsstand",
+    "content": "The A-10 'Warthog' earned its reputation not in the air, but close to the ground, in the chaos of close air support (CAS) where troops in contact with the enemy needed urgent help",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "'We Have Plenty Of Money To Fund Iran War': US Treasury Chief",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-we-have-plenty-of-money-to-fund-iran-war-us-treasury-chief-11251583#publisher=newsstand",
+    "content": "The US military's request for $200 billion in additional funding for the Iran war faces stiff opposition in Congress, with Democrats and even some Republicans questioning the need after large defense appropriations last year.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Tutor Kills Girl, 14, After Family Objects To His Advances In Odisha: Cops",
+    "link": "https://www.ndtv.com/india-news/tutor-kills-girl-14-after-family-objects-to-his-advances-in-odisha-cops-11251552#publisher=newsstand",
+    "content": "A private tutor was arrested in Odisha's Mayurbhanj district for allegedly killing his 14-year-old student, whose family warned him after getting to know about his advances, police said on Sunday.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Iran Says Will Completely Close Strait Of Hormuz If US Targets Power Plants",
+    "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-says-will-completely-close-strait-of-hormuz-if-us-targets-power-plants-11251446#publisher=newsstand",
+    "content": "The military said it would also strike Israel's \"power plants, energy, and information and communications technology (ICT) infrastructure\".",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "CIA Ex Chief Who Hunted Bin Laden Has A Hormuz Advice For Trump",
+    "link": "https://www.ndtv.com/world-news/us-iran-war-cia-ex-chief-leon-panetta-who-hunted-bin-laden-has-a-hormuz-advice-for-donald-trump-11251233#publisher=newsstand",
+    "content": "Leon Panetta, who ran the Central Intelligence Agency (CIA) and the Pentagon under former president Barack Obama, has singled out US President Donald Trump as the only man responsible for the current situation",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "CIA, Mossad Track Every Signal For Signs Of Iran's \"Unseen\" Supreme Leader",
+    "link": "https://www.ndtv.com/world-news/israel-iran-war-cia-mossad-eyes-fixed-on-iran-spy-agencies-hunt-for-irans-unseen-leader-11251094#publisher=newsstand",
+    "content": "Intelligence agencies around the world, including the CIA and the Mossad, waited on Friday to see if Mojtaba would follow his father's tradition and give a New Year's address.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Sasikala-Ramadoss Alliance May Incur Heavy Cost On NDA In Tamil Nadu Polls",
+    "link": "https://www.ndtv.com/india-news/sasikala-ramadoss-alliance-may-incur-heavy-cost-on-nda-in-tamil-nadu-polls-11251197#publisher=newsstand",
+    "content": "The alliance is positioning itself as a force meant to split votes and inflict damage on the AIADMK-led NDA",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "Lashkar Terrorist Bilal Arif Sarafi Stabbed, Shot Dead By Family In Pakistan",
+    "link": "https://www.ndtv.com/world-news/lashkar-terrorist-bilal-arif-sarafi-stabbed-shot-dead-by-family-in-pakistan-let-commander-muridke-11249879#publisher=newsstand",
+    "content": "The exact reason behind the murder is not known yet, but intelligence sources suspect a family dispute.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "15 Deer Killed By Stray Dogs At Chhattisgarh Animal Rescue Centre",
+    "link": "https://www.ndtv.com/india-news/15-deer-killed-by-stray-dogs-at-chhattisgarh-animal-rescue-centre-11250977#publisher=newsstand",
+    "content": "As many as 15 deer were killed after a pack of stray dogs attacked them inside an enclosure at an animal rescue centre in Chhattisgarh's Surguja district, officials said on Sunday.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "80-Year-Old Woman Trampled To Death By Elephant In UP",
+    "link": "https://www.ndtv.com/india-news/80-year-old-woman-trampled-to-death-by-elephant-in-up-11250970#publisher=newsstand",
+    "content": "An 80-year-old woman was trampled to death by a tusker near the Katarniaghat Wildlife Sanctuary in Uttar Pradesh's Bahraich district on Sunday, marking the third such fatality in the region since last month, officials said.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "title": "PM Modi's Big Meet With Senior Ministers Over Fuel Amid Middle East Conflict",
+    "link": "https://www.ndtv.com/india-news/iran-israel-war-pm-modi-takes-stock-of-fuel-power-fertiliser-supply-amid-middle-east-conflict-11250951#publisher=newsstand",
+    "content": "Prime Minister Narendra Modi on Sunday reviewed with senior ministers the situation related to crude, gas and other petroleum products, and power and fertiliser sectors in view of the evolving West Asia situation.",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "title": "Six dead, one missing as Qatar helicopter crashes into Gulf waters",
+    "link": "https://timesofindia.indiatimes.com/world/middle-east/technical-malfunction-during-routine-duty-qatari-helicopter-crashes-amid-middle-east-tensions/articleshow/129727252.cms",
+    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Women's Frozen Four: Keys for Ohio State, Wisconsin in title game rematch",
-    "link": "https://www.espn.com/college-sports/story/_/id/48143305/2026-ncaa-women-hockey-tournament-schedule-results",
-    "content": "no. 1 seed Ohio State and no. 2 Wisconsin will face off for the national title for the fourth straight season . the 2026 women's national championship game will be played Sunday at 4 p.m. ET and air on ESPNU and will be streamed on the ESPN App .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "INDIA bloc will become a strong force by 2029: CPI leader",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/india-bloc-will-become-a-strong-force-by-2029-cpi-leader/article70772840.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "First tranche of Rythu Bharosa released by CM Revanth",
-    "link": "https://www.thehindu.com/news/national/telangana/first-tranche-of-rythu-bharosa-released-by-cm-revanth/article70772998.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Lord Rama rides Hanumantha Vahanam on sixth day of Brahmotsavams in Tirupati",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/lord-rama-rides-hanumantha-vahanam-on-sixth-day-of-brahmotsavams-in-tirupati/article70772715.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "title": "Sources: Cuse turns to ex-star McNamara as HC",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/48278903/sources-syracuse-hire-gerry-mcnamara-basketball-coach",
+    "content": "sources say a deal for Siena's Gerry McNamara is expected to come together in near future . the Saints were the first 16-seed in NCAA tournament history to lead a 1-seed by double digits at halftime .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1009,9 +985,33 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Milk adulteration: death toll rises to 16 in Rajamahendravaram",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/milk-adulteration-death-toll-rises-to-16-in-rajamahendravaram/article70772927.ece",
+    "title": "Ireland and India enjoy a very close partnership: Kiran Mazumdar-Shaw",
+    "link": "https://www.thehindu.com/news/national/karnataka/kiran-mazumdar-shaw-completes-25-years-as-honorary-consul-general-of-ireland/article70772612.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Local",
+    "sub_category": "India"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "First tranche of Rythu Bharosa released by CM Revanth",
+    "link": "https://www.thehindu.com/news/national/telangana/first-tranche-of-rythu-bharosa-released-by-cm-revanth/article70772998.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Women's March Madness live updates: Previews, action from Sunday's second round",
+    "link": "https://www.espn.com/womens-college-basketball/story/_/id/48271632/womens-march-madness-live-tracker-updates-ncaa-tournament-second-round-sunday-2026",
+    "content": "the second round of the Madness gets going Sunday with 16 teams vying to make it to the Sweet 16 . a key to winning the game for every team is to come back as the games get underway . don't forget to check out our college basketball analysts before the games tip off .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.espn.com/espn/rss/news",
+    "title": "Jets paying combined $48M for Rodgers, Fields to not be their QB in 2026",
+    "link": "https://www.espn.com/nfl/story/_/id/48261647/new-york-jets-48-million-dead-money-aaron-rodgers-justin-fields",
+    "content": "the new york Jets are 11th in team spending this offseason . they're also operating with the knowledge that clear skies are ahead . if a star player be able to be major players next offseason, it's a good idea to take a look at the situation .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1025,8 +1025,16 @@
 },
 {
     "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Two-day YUKTI 2026 at VTU in Kalaburagi starting Friday",
-    "link": "https://www.thehindu.com/news/national/karnataka/two-day-yukti-2026-at-vtu-in-kalaburagi-starting-friday/article70772696.ece",
+    "title": "Milk adulteration: death toll rises to 16 in Rajamahendravaram",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/milk-adulteration-death-toll-rises-to-16-in-rajamahendravaram/article70772927.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Alleged academic rivalry snowballs into caste-based clash between two families",
+    "link": "https://www.thehindu.com/news/cities/Coimbatore/alleged-academic-rivalry-snowballs-into-caste-based-clash-between-two-families/article70772440.ece",
     "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
@@ -1041,25 +1049,9 @@
 },
 {
     "source": "https://www.espn.com/espn/rss/news",
-    "title": "Ranking the remaining 32 teams in women's March Madness",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/48269801/womens-march-madness-2026-ranking-ncaa-tournament-teams-round-32",
-    "content": "only three lower-seeded teams won games in the first two days of the tournament . the Cavaliers are just the second team since the field expanded to 68 teams in 2022 to go from the first four to the second round . south Carolina 's 69-point trouncing was the most statistically impressive victory among the top seeds .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Women's March Madness live updates: Previews, action from Sunday's second round",
-    "link": "https://www.espn.com/womens-college-basketball/story/_/id/48271632/womens-march-madness-live-tracker-updates-ncaa-tournament-second-round-sunday-2026",
-    "content": "the second round of the Madness gets going Sunday with 16 teams vying to make it to the Sweet 16 . a key to winning the game for every team is to come back as the games get underway . don't forget to check out our college basketball analysts before the games tip off .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Sources: Cuse turns to ex-star McNamara as HC",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/48278903/sources-syracuse-hire-gerry-mcnamara-basketball-coach",
-    "content": "sources say a deal for Siena's Gerry McNamara is expected to come together in near future . the Saints were the first 16-seed in NCAA tournament history to lead a 1-seed by double digits at halftime .",
+    "title": "Men's March Madness live tracker: Wildcats, Cyclones battle for Sweet 16 place",
+    "link": "https://www.espn.com/mens-college-basketball/story/_/id/48275055/mens-march-madness-live-updates-analysis-ncaa-tournament-second-round-saturday-2026",
+    "content": "the first half of the Sweet 16 is set, with 16 teams playing for one of the final eight tickets to the second weekend of the 2026 men's NCAA tournament . the second round continues on sunday, with a record of 15.1 points and a better shot than 70% fro . bidunga has struggled in other big games, five points and four points in two games against Houston, two points against Arizona and eight points against North Carolina .",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1072,58 +1064,10 @@
     "sub_category": "General"
 },
 {
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Men's March Madness live tracker: Wildcats, Cyclones battle for Sweet 16 place",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/48275055/mens-march-madness-live-updates-analysis-ncaa-tournament-second-round-saturday-2026",
-    "content": "the first half of the Sweet 16 is set, with 16 teams playing for one of the final eight tickets to the second weekend of the 2026 men's NCAA tournament . the second round continues on sunday, with a record of 15.1 points and a better shot than 70% fro . bidunga has struggled in other big games, five points and four points in two games against Houston, two points against Arizona and eight points against North Carolina .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Ireland and India enjoy a very close partnership: Kiran Mazumdar-Shaw",
-    "link": "https://www.thehindu.com/news/national/karnataka/kiran-mazumdar-shaw-completes-25-years-as-honorary-consul-general-of-ireland/article70772612.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
-    "category": "Local",
-    "sub_category": "India"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Phillies ace Sanchez agrees to new 6-year deal",
-    "link": "https://www.espn.com/mlb/story/_/id/48277690/phillies-ace-cristopher-sanchez-signs-new-6-year-contract",
-    "content": "the deal will start in 2027 and includes a team option for 2033 . sources say the deal is worth approximately $103 million in new money . the deal supersedes the deal he signed before the beginning of last year .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.espn.com/espn/rss/news",
-    "title": "Jets paying combined $48M for Rodgers, Fields to not be their QB in 2026",
-    "link": "https://www.espn.com/nfl/story/_/id/48261647/new-york-jets-48-million-dead-money-aaron-rodgers-justin-fields",
-    "content": "the new york Jets are 11th in team spending this offseason . they're also operating with the knowledge that clear skies are ahead . if a star player be able to be major players next offseason, it's a good idea to take a look at the situation .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Six dead, one missing as Qatar helicopter crashes into Gulf waters",
-    "link": "https://timesofindia.indiatimes.com/world/middle-east/technical-malfunction-during-routine-duty-qatari-helicopter-crashes-amid-middle-east-tensions/articleshow/129727252.cms",
+    "title": "Iran war not to end soon? Treasury's Bessent says US has 'plenty of money to fund this war'",
+    "link": "https://timesofindia.indiatimes.com/world/us/iran-war-not-to-end-soon-treasurys-bessent-says-us-has-plenty-of-money-to-fund-this-war/articleshow/129737101.cms",
     "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Flex boards seized in Kochi",
-    "link": "https://www.thehindu.com/news/national/kerala/banned-flex-boards-seized-in-kochi/article70772342.ece",
-    "content": "first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . KOCHI Flex boards used for election campaigning were seized during a flash inspection conducted at various printing establishments .",
-    "category": "Global",
-    "sub_category": "General"
-},
-{
-    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "title": "Campaigning for Assembly polls gathers pace in Ernakulam district",
-    "link": "https://www.thehindu.com/news/national/kerala/campaigning-gathers-momentum-in-ernakulam-district/article70773086.ece",
-    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1145,17 +1089,65 @@
 },
 {
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "PM Modi chairs high-level review meet on fuel, power amid Middle East tensions",
-    "link": "https://timesofindia.indiatimes.com/india/pm-modi-chairs-high-level-review-meet-on-fuel-power-amid-middle-east-tension/articleshow/129732579.cms",
-    "content": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\" Read More",
+    "title": "After Trump’s 48-hr ultimatum, Iran says ships can pass Hormuz except ‘enemy’ vessels",
+    "link": "https://timesofindia.indiatimes.com/world/middle-east/after-trumps-48-hour-ultimatum-iran-says-ships-can-pass-hormuz-strait-except-enemy-vessels/articleshow/129730108.cms",
+    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Flex boards seized in Kochi",
+    "link": "https://www.thehindu.com/news/national/kerala/banned-flex-boards-seized-in-kochi/article70772342.ece",
+    "content": "first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in . KOCHI Flex boards used for election campaigning were seized during a flash inspection conducted at various printing establishments .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Davangere, Bagalkot are our strong citadels, claims Minister",
+    "link": "https://www.thehindu.com/news/national/karnataka/davangere-bagalkot-are-our-strong-citadels-claims-minister/article70772562.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Four held for illegal sale of banned injections in Malakpet",
+    "link": "https://www.thehindu.com/news/national/telangana/four-held-for-illegal-sale-of-banned-injections-in-malakpet/article70772586.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Two-day YUKTI 2026 at VTU in Kalaburagi starting Friday",
+    "link": "https://www.thehindu.com/news/national/karnataka/two-day-yukti-2026-at-vtu-in-kalaburagi-starting-friday/article70772696.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Martyrs’ Day meet warns of drug rise in State",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/martyrs-day-meet-warns-of-drug-rise-in-state/article70772619.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in .",
+    "category": "Global",
+    "sub_category": "General"
+},
+{
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Campaigning for Assembly polls gathers pace in Ernakulam district",
+    "link": "https://www.thehindu.com/news/national/kerala/campaigning-gathers-momentum-in-ernakulam-district/article70773086.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 },
 {
     "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "Iran war not to end soon? Treasury's Bessent says US has 'plenty of money to fund this war'",
-    "link": "https://timesofindia.indiatimes.com/world/us/iran-war-not-to-end-soon-treasurys-bessent-says-us-has-plenty-of-money-to-fund-this-war/articleshow/129737101.cms",
-    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
+    "title": "PM Modi chairs high-level review meet on fuel, power amid Middle East tensions",
+    "link": "https://timesofindia.indiatimes.com/india/pm-modi-chairs-high-level-review-meet-on-fuel-power-amid-middle-east-tension/articleshow/129732579.cms",
+    "content": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\" Read More",
     "category": "Global",
     "sub_category": "General"
 },
@@ -1168,10 +1160,10 @@
     "sub_category": "General"
 },
 {
-    "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-    "title": "After Trump’s 48-hr ultimatum, Iran says ships can pass Hormuz except ‘enemy’ vessels",
-    "link": "https://timesofindia.indiatimes.com/world/middle-east/after-trumps-48-hour-ultimatum-iran-says-ships-can-pass-hormuz-strait-except-enemy-vessels/articleshow/129730108.cms",
-    "content": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More",
+    "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "title": "Revanth Reddy is building his own band of loyalists",
+    "link": "https://www.thehindu.com/opinion/op-ed/revanth-reddy-is-building-his-own-band-of-loyalists/article70773246.ece",
+    "content": "e-Paper The View From India Looking at World Affairs from the Indian perspective . first day first show news and reviews from the world of cinema and streaming . the weekly newsletter from science writers takes the jargon out of science and puts the fun in!",
     "category": "Global",
     "sub_category": "General"
 }
